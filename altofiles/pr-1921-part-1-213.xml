@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName></fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 4.1.1</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="202" HEIGHT="57" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="202" HEIGHT="57">
+				<ComposedBlock ID="cblock_0" HPOS="115" VPOS="0" WIDTH="78" HEIGHT="57">
+					<TextBlock ID="block_0" HPOS="115" VPOS="0" WIDTH="87" HEIGHT="57">
+						<TextLine ID="line_0" HPOS="115" VPOS="0" WIDTH="78" HEIGHT="57">
+							<String ID="string_0" HPOS="115" VPOS="22" WIDTH="33" HEIGHT="17" WC="0.74" CONTENT="FK"/><SP WIDTH="9" VPOS="22" HPOS="148"/>
+							<String ID="string_1" HPOS="157" VPOS="0" WIDTH="36" HEIGHT="57" WC="0.89" CONTENT="JAK"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="104" VPOS="0" WIDTH="1" HEIGHT="57">
+					<TextBlock ID="block_1" HPOS="104" VPOS="0" WIDTH="1" HEIGHT="57">
+						<TextLine ID="line_1" HPOS="104" VPOS="0" WIDTH="1" HEIGHT="57">
+							<String ID="string_2" HPOS="104" VPOS="0" WIDTH="1" HEIGHT="57" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="54" VPOS="0" WIDTH="35" HEIGHT="57">
+					<TextBlock ID="block_2" HPOS="54" VPOS="0" WIDTH="35" HEIGHT="57">
+						<TextLine ID="line_2" HPOS="73" VPOS="0" WIDTH="16" HEIGHT="57">
+							<String ID="string_3" HPOS="73" VPOS="0" WIDTH="16" HEIGHT="57" WC="0.70" CONTENT="prop"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="54" VPOS="0" WIDTH="16" HEIGHT="44">
+							<String ID="string_4" HPOS="54" VPOS="0" WIDTH="16" HEIGHT="44" WC="0.37" CONTENT="ser"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="37" VPOS="0" WIDTH="4" HEIGHT="57">
+					<TextBlock ID="block_3" HPOS="37" VPOS="0" WIDTH="4" HEIGHT="57">
+						<TextLine ID="line_4" HPOS="37" VPOS="0" WIDTH="4" HEIGHT="57">
+							<String ID="string_5" HPOS="37" VPOS="0" WIDTH="4" HEIGHT="57" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
