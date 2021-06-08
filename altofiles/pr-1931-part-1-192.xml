@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName></fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 4.1.1</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1825" HEIGHT="2349" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1825" HEIGHT="2349">
+				<ComposedBlock ID="cblock_0" HPOS="1" VPOS="1397" WIDTH="5" HEIGHT="598">
+					<TextBlock ID="block_0" HPOS="1" VPOS="1397" WIDTH="5" HEIGHT="598">
+						<TextLine ID="line_0" HPOS="1" VPOS="1397" WIDTH="5" HEIGHT="598">
+							<String ID="string_0" HPOS="1" VPOS="1397" WIDTH="5" HEIGHT="598" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="547" VPOS="903" WIDTH="645" HEIGHT="62">
+					<TextBlock ID="block_1" HPOS="547" VPOS="903" WIDTH="645" HEIGHT="62">
+						<TextLine ID="line_1" HPOS="547" VPOS="903" WIDTH="645" HEIGHT="62">
+							<String ID="string_1" HPOS="547" VPOS="903" WIDTH="645" HEIGHT="62" WC="0.91" CONTENT="SAKREGISTER"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="1820" VPOS="1" WIDTH="5" HEIGHT="1836">
+					<TextBlock ID="block_2" HPOS="1820" VPOS="1" WIDTH="5" HEIGHT="1836">
+						<TextLine ID="line_2" HPOS="1820" VPOS="1" WIDTH="5" HEIGHT="1836">
+							<String ID="string_2" HPOS="1820" VPOS="1" WIDTH="5" HEIGHT="1836" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
