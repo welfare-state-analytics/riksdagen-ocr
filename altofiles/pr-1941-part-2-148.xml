@@ -1,0 +1,1315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName></fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 4.1.1</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1843" HEIGHT="2355" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1843" HEIGHT="2355">
+				<ComposedBlock ID="cblock_0" HPOS="169" VPOS="64" WIDTH="42" HEIGHT="21">
+					<TextBlock ID="block_0" HPOS="169" VPOS="64" WIDTH="42" HEIGHT="21">
+						<TextLine ID="line_0" HPOS="169" VPOS="64" WIDTH="42" HEIGHT="21">
+							<String ID="string_0" HPOS="169" VPOS="64" WIDTH="42" HEIGHT="21" WC="0.96" CONTENT="280"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="172" VPOS="128" WIDTH="1596" HEIGHT="9">
+					<TextBlock ID="block_1" HPOS="172" VPOS="128" WIDTH="1596" HEIGHT="9">
+						<TextLine ID="line_1" HPOS="172" VPOS="128" WIDTH="1596" HEIGHT="9">
+							<String ID="string_1" HPOS="172" VPOS="128" WIDTH="1596" HEIGHT="9" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="189" VPOS="244" WIDTH="309" HEIGHT="26">
+					<TextBlock ID="block_2" HPOS="189" VPOS="244" WIDTH="309" HEIGHT="26">
+						<TextLine ID="line_2" HPOS="189" VPOS="244" WIDTH="309" HEIGHT="26">
+							<String ID="string_2" HPOS="189" VPOS="244" WIDTH="120" HEIGHT="26" WC="0.90" CONTENT="Fattigvård"/><SP WIDTH="14" VPOS="244" HPOS="309"/>
+							<String ID="string_3" HPOS="323" VPOS="244" WIDTH="37" HEIGHT="21" WC="0.96" CONTENT="och"/><SP WIDTH="16" VPOS="244" HPOS="360"/>
+							<String ID="string_4" HPOS="376" VPOS="244" WIDTH="122" HEIGHT="21" WC="0.96" CONTENT="barnavård."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="186" VPOS="280" WIDTH="890" HEIGHT="58">
+					<TextBlock ID="block_3" HPOS="186" VPOS="280" WIDTH="890" HEIGHT="58">
+						<TextLine ID="line_3" HPOS="215" VPOS="280" WIDTH="861" HEIGHT="28">
+							<String ID="string_5" HPOS="215" VPOS="280" WIDTH="32" HEIGHT="20" WC="0.93" CONTENT="16."/><SP WIDTH="17" VPOS="280" HPOS="247"/>
+							<String ID="string_6" HPOS="264" VPOS="280" WIDTH="42" HEIGHT="20" WC="0.92" CONTENT="RD"/><SP WIDTH="11" VPOS="280" HPOS="306"/>
+							<String ID="string_7" HPOS="317" VPOS="280" WIDTH="87" HEIGHT="20" WC="0.96" CONTENT="anvisar"/><SP WIDTH="10" VPOS="280" HPOS="404"/>
+							<String ID="string_8" HPOS="414" VPOS="280" WIDTH="33" HEIGHT="20" WC="0.95" CONTENT="till"/><SP WIDTH="10" VPOS="280" HPOS="447"/>
+							<String ID="string_9" HPOS="457" VPOS="280" WIDTH="40" HEIGHT="21" WC="0.96" CONTENT="fria"/><SP WIDTH="11" VPOS="280" HPOS="497"/>
+							<String ID="string_10" HPOS="508" VPOS="287" WIDTH="58" HEIGHT="14" WC="0.96" CONTENT="resor"/><SP WIDTH="10" VPOS="287" HPOS="566"/>
+							<String ID="string_11" HPOS="576" VPOS="281" WIDTH="34" HEIGHT="20" WC="0.96" CONTENT="för"/><SP WIDTH="10" VPOS="281" HPOS="610"/>
+							<String ID="string_12" HPOS="620" VPOS="281" WIDTH="54" HEIGHT="20" WC="0.96" CONTENT="barn"/><SP WIDTH="11" VPOS="281" HPOS="674"/>
+							<String ID="string_13" HPOS="685" VPOS="281" WIDTH="12" HEIGHT="20" WC="0.95" CONTENT="5"/><SP WIDTH="10" VPOS="281" HPOS="697"/>
+							<String ID="string_14" HPOS="707" VPOS="281" WIDTH="40" HEIGHT="20" WC="0.95" CONTENT="500"/><SP WIDTH="10" VPOS="281" HPOS="747"/>
+							<String ID="string_15" HPOS="757" VPOS="281" WIDTH="41" HEIGHT="20" WC="0.95" CONTENT="000"/><SP WIDTH="10" VPOS="281" HPOS="798"/>
+							<String ID="string_16" HPOS="808" VPOS="281" WIDTH="32" HEIGHT="20" WC="0.93" CONTENT="kr."/><SP WIDTH="12" VPOS="281" HPOS="840"/>
+							<String ID="string_17" HPOS="852" VPOS="281" WIDTH="26" HEIGHT="26" WC="0.92" CONTENT="(f)"/><SP WIDTH="11" VPOS="281" HPOS="878"/>
+							<String ID="string_18" HPOS="889" VPOS="282" WIDTH="58" HEIGHT="19" WC="0.96" CONTENT="samt"/><SP WIDTH="11" VPOS="282" HPOS="947"/>
+							<String ID="string_19" HPOS="958" VPOS="281" WIDTH="31" HEIGHT="20" WC="0.96" CONTENT="till"/><SP WIDTH="12" VPOS="281" HPOS="989"/>
+							<String ID="string_20" HPOS="1001" VPOS="281" WIDTH="75" HEIGHT="27" WC="0.96" CONTENT="bidrag"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="186" VPOS="310" WIDTH="497" HEIGHT="28">
+							<String ID="string_21" HPOS="186" VPOS="310" WIDTH="32" HEIGHT="21" WC="0.92" CONTENT="till"/><SP WIDTH="12" VPOS="310" HPOS="218"/>
+							<String ID="string_22" HPOS="230" VPOS="310" WIDTH="244" HEIGHT="21" WC="0.90" CONTENT="husmoderssemestern"/><SP WIDTH="11" VPOS="310" HPOS="474"/>
+							<String ID="string_23" HPOS="485" VPOS="311" WIDTH="13" HEIGHT="20" WC="0.92" CONTENT="2"/><SP WIDTH="9" VPOS="311" HPOS="498"/>
+							<String ID="string_24" HPOS="507" VPOS="310" WIDTH="39" HEIGHT="21" WC="0.92" CONTENT="100"/><SP WIDTH="7" VPOS="310" HPOS="546"/>
+							<String ID="string_25" HPOS="553" VPOS="311" WIDTH="41" HEIGHT="20" WC="0.96" CONTENT="000"/><SP WIDTH="11" VPOS="311" HPOS="594"/>
+							<String ID="string_26" HPOS="605" VPOS="310" WIDTH="32" HEIGHT="21" WC="0.91" CONTENT="kr."/><SP WIDTH="12" VPOS="310" HPOS="637"/>
+							<String ID="string_27" HPOS="649" VPOS="311" WIDTH="34" HEIGHT="27" WC="0.91" CONTENT="(f)."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="185" VPOS="369" WIDTH="892" HEIGHT="176">
+					<TextBlock ID="block_4" HPOS="185" VPOS="369" WIDTH="892" HEIGHT="57">
+						<TextLine ID="line_5" HPOS="216" VPOS="369" WIDTH="861" HEIGHT="27">
+							<String ID="string_28" HPOS="216" VPOS="370" WIDTH="30" HEIGHT="20" WC="0.93" CONTENT="17."/><SP WIDTH="18" VPOS="370" HPOS="246"/>
+							<String ID="string_29" HPOS="264" VPOS="370" WIDTH="41" HEIGHT="20" WC="0.90" CONTENT="RD"/><SP WIDTH="12" VPOS="370" HPOS="305"/>
+							<String ID="string_30" HPOS="317" VPOS="369" WIDTH="88" HEIGHT="21" WC="0.96" CONTENT="anvisar"/><SP WIDTH="11" VPOS="369" HPOS="405"/>
+							<String ID="string_31" HPOS="416" VPOS="370" WIDTH="32" HEIGHT="20" WC="0.96" CONTENT="till"/><SP WIDTH="12" VPOS="370" HPOS="448"/>
+							<String ID="string_32" HPOS="460" VPOS="370" WIDTH="76" HEIGHT="26" WC="0.96" CONTENT="bidrag"/><SP WIDTH="11" VPOS="370" HPOS="536"/>
+							<String ID="string_33" HPOS="547" VPOS="370" WIDTH="32" HEIGHT="20" WC="0.96" CONTENT="till"/><SP WIDTH="13" VPOS="370" HPOS="579"/>
+							<String ID="string_34" HPOS="592" VPOS="370" WIDTH="80" HEIGHT="21" WC="0.96" CONTENT="driften"/><SP WIDTH="11" VPOS="370" HPOS="672"/>
+							<String ID="string_35" HPOS="683" VPOS="377" WIDTH="28" HEIGHT="13" WC="0.96" CONTENT="av"/><SP WIDTH="12" VPOS="377" HPOS="711"/>
+							<String ID="string_36" HPOS="723" VPOS="371" WIDTH="152" HEIGHT="20" WC="0.93" CONTENT="barnkolonier"/><SP WIDTH="11" VPOS="371" HPOS="875"/>
+							<String ID="string_37" HPOS="886" VPOS="377" WIDTH="28" HEIGHT="14" WC="0.88" CONTENT="m."/><SP WIDTH="11" VPOS="377" HPOS="914"/>
+							<String ID="string_38" HPOS="925" VPOS="377" WIDTH="27" HEIGHT="14" WC="0.90" CONTENT="m."/><SP WIDTH="16" VPOS="377" HPOS="952"/>
+							<String ID="string_39" HPOS="968" VPOS="371" WIDTH="6" HEIGHT="19" WC="0.61" CONTENT="1"/><SP WIDTH="15" VPOS="371" HPOS="974"/>
+							<String ID="string_40" HPOS="989" VPOS="371" WIDTH="38" HEIGHT="20" WC="0.61" CONTENT="100"/><SP WIDTH="9" VPOS="371" HPOS="1027"/>
+							<String ID="string_41" HPOS="1036" VPOS="371" WIDTH="41" HEIGHT="20" WC="0.95" CONTENT="000"/>
+						</TextLine>
+						<TextLine ID="line_6" HPOS="185" VPOS="400" WIDTH="83" HEIGHT="26">
+							<String ID="string_42" HPOS="185" VPOS="400" WIDTH="83" HEIGHT="26" WC="0.23" CONTENT="kr);"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_5" HPOS="185" VPOS="429" WIDTH="892" HEIGHT="57">
+						<TextLine ID="line_7" HPOS="215" VPOS="429" WIDTH="862" HEIGHT="28">
+							<String ID="string_43" HPOS="215" VPOS="430" WIDTH="31" HEIGHT="20" WC="0.93" CONTENT="18."/><SP WIDTH="17" VPOS="430" HPOS="246"/>
+							<String ID="string_44" HPOS="263" VPOS="430" WIDTH="42" HEIGHT="19" WC="0.90" CONTENT="RD"/><SP WIDTH="13" VPOS="430" HPOS="305"/>
+							<String ID="string_45" HPOS="318" VPOS="429" WIDTH="88" HEIGHT="21" WC="0.96" CONTENT="anvisar"/><SP WIDTH="12" VPOS="429" HPOS="406"/>
+							<String ID="string_46" HPOS="418" VPOS="429" WIDTH="32" HEIGHT="21" WC="0.93" CONTENT="till"/><SP WIDTH="13" VPOS="429" HPOS="450"/>
+							<String ID="string_47" HPOS="463" VPOS="430" WIDTH="206" HEIGHT="27" WC="0.91" CONTENT="fortbildningskurs"/><SP WIDTH="12" VPOS="430" HPOS="669"/>
+							<String ID="string_48" HPOS="681" VPOS="430" WIDTH="34" HEIGHT="20" WC="0.93" CONTENT="för"/><SP WIDTH="12" VPOS="430" HPOS="715"/>
+							<String ID="string_49" HPOS="727" VPOS="430" WIDTH="216" HEIGHT="27" WC="0.91" CONTENT="befattningshavare"/><SP WIDTH="13" VPOS="430" HPOS="943"/>
+							<String ID="string_50" HPOS="956" VPOS="430" WIDTH="36" HEIGHT="21" WC="0.96" CONTENT="vid"/><SP WIDTH="13" VPOS="430" HPOS="992"/>
+							<String ID="string_51" HPOS="1005" VPOS="431" WIDTH="72" HEIGHT="20" WC="0.96" CONTENT="skolor"/>
+						</TextLine>
+						<TextLine ID="line_8" HPOS="185" VPOS="459" WIDTH="630" HEIGHT="27">
+							<String ID="string_52" HPOS="185" VPOS="459" WIDTH="130" HEIGHT="21" WC="0.93" CONTENT="tillhörande"/><SP WIDTH="11" VPOS="459" HPOS="315"/>
+							<String ID="string_53" HPOS="326" VPOS="460" WIDTH="77" HEIGHT="20" WC="0.91" CONTENT="barna-"/><SP WIDTH="11" VPOS="460" HPOS="403"/>
+							<String ID="string_54" HPOS="414" VPOS="460" WIDTH="39" HEIGHT="20" WC="0.93" CONTENT="och"/><SP WIDTH="11" VPOS="460" HPOS="453"/>
+							<String ID="string_55" HPOS="464" VPOS="460" WIDTH="190" HEIGHT="26" WC="0.91" CONTENT="ungdomsvården"/><SP WIDTH="10" VPOS="460" HPOS="654"/>
+							<String ID="string_56" HPOS="664" VPOS="460" WIDTH="13" HEIGHT="20" WC="0.96" CONTENT="9"/><SP WIDTH="9" VPOS="460" HPOS="677"/>
+							<String ID="string_57" HPOS="686" VPOS="460" WIDTH="41" HEIGHT="20" WC="0.96" CONTENT="600"/><SP WIDTH="10" VPOS="460" HPOS="727"/>
+							<String ID="string_58" HPOS="737" VPOS="460" WIDTH="31" HEIGHT="20" WC="0.93" CONTENT="kr."/><SP WIDTH="12" VPOS="460" HPOS="768"/>
+							<String ID="string_59" HPOS="780" VPOS="461" WIDTH="35" HEIGHT="25" WC="0.92" CONTENT="(r)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_6" HPOS="185" VPOS="489" WIDTH="892" HEIGHT="56">
+						<TextLine ID="line_9" HPOS="215" VPOS="489" WIDTH="862" HEIGHT="27">
+							<String ID="string_60" HPOS="215" VPOS="489" WIDTH="31" HEIGHT="20" WC="0.92" CONTENT="19."/><SP WIDTH="17" VPOS="489" HPOS="246"/>
+							<String ID="string_61" HPOS="263" VPOS="489" WIDTH="42" HEIGHT="20" WC="0.92" CONTENT="RD"/><SP WIDTH="17" VPOS="489" HPOS="305"/>
+							<String ID="string_62" HPOS="322" VPOS="489" WIDTH="88" HEIGHT="20" WC="0.95" CONTENT="anvisar"/><SP WIDTH="16" VPOS="489" HPOS="410"/>
+							<String ID="string_63" HPOS="426" VPOS="489" WIDTH="33" HEIGHT="21" WC="0.95" CONTENT="till"/><SP WIDTH="17" VPOS="489" HPOS="459"/>
+							<String ID="string_64" HPOS="476" VPOS="490" WIDTH="146" HEIGHT="26" WC="0.96" CONTENT="ersättningar"/><SP WIDTH="16" VPOS="490" HPOS="622"/>
+							<String ID="string_65" HPOS="638" VPOS="490" WIDTH="33" HEIGHT="20" WC="0.93" CONTENT="till"/><SP WIDTH="16" VPOS="490" HPOS="671"/>
+							<String ID="string_66" HPOS="687" VPOS="490" WIDTH="226" HEIGHT="26" WC="0.91" CONTENT="inackorderingshem"/><SP WIDTH="18" VPOS="490" HPOS="913"/>
+							<String ID="string_67" HPOS="931" VPOS="490" WIDTH="33" HEIGHT="20" WC="0.90" CONTENT="för"/><SP WIDTH="16" VPOS="490" HPOS="964"/>
+							<String ID="string_68" HPOS="980" VPOS="490" WIDTH="97" HEIGHT="20" WC="0.90" CONTENT="driftför-"/>
+						</TextLine>
+						<TextLine ID="line_10" HPOS="185" VPOS="519" WIDTH="236" HEIGHT="26">
+							<String ID="string_69" HPOS="185" VPOS="519" WIDTH="67" HEIGHT="20" WC="0.92" CONTENT="luster"/><SP WIDTH="13" VPOS="519" HPOS="252"/>
+							<String ID="string_70" HPOS="265" VPOS="519" WIDTH="12" HEIGHT="20" WC="0.96" CONTENT="3"/><SP WIDTH="9" VPOS="519" HPOS="277"/>
+							<String ID="string_71" HPOS="286" VPOS="519" WIDTH="41" HEIGHT="20" WC="0.96" CONTENT="000"/><SP WIDTH="13" VPOS="519" HPOS="327"/>
+							<String ID="string_72" HPOS="340" VPOS="519" WIDTH="32" HEIGHT="20" WC="0.93" CONTENT="kr."/><SP WIDTH="15" VPOS="519" HPOS="372"/>
+							<String ID="string_73" HPOS="387" VPOS="519" WIDTH="34" HEIGHT="26" WC="0.92" CONTENT="(r)."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_5" HPOS="185" VPOS="579" WIDTH="891" HEIGHT="176">
+					<TextBlock ID="block_7" HPOS="185" VPOS="579" WIDTH="891" HEIGHT="176">
+						<TextLine ID="line_11" HPOS="214" VPOS="579" WIDTH="861" HEIGHT="27">
+							<String ID="string_74" HPOS="214" VPOS="579" WIDTH="42" HEIGHT="20" WC="0.92" CONTENT="RD"/><SP WIDTH="12" VPOS="579" HPOS="256"/>
+							<String ID="string_75" HPOS="268" VPOS="580" WIDTH="91" HEIGHT="25" WC="0.95" CONTENT="antager"/><SP WIDTH="11" VPOS="580" HPOS="359"/>
+							<String ID="string_76" HPOS="370" VPOS="579" WIDTH="34" HEIGHT="26" WC="0.95" CONTENT="lag"/><SP WIDTH="11" VPOS="579" HPOS="404"/>
+							<String ID="string_77" HPOS="415" VPOS="584" WIDTH="49" HEIGHT="21" WC="0.96" CONTENT="ang."/><SP WIDTH="13" VPOS="584" HPOS="464"/>
+							<String ID="string_78" HPOS="477" VPOS="579" WIDTH="83" HEIGHT="20" WC="0.96" CONTENT="ändrad"/><SP WIDTH="13" VPOS="579" HPOS="560"/>
+							<String ID="string_79" HPOS="573" VPOS="579" WIDTH="81" HEIGHT="26" WC="0.96" CONTENT="lydelse"/><SP WIDTH="11" VPOS="579" HPOS="654"/>
+							<String ID="string_80" HPOS="665" VPOS="586" WIDTH="28" HEIGHT="13" WC="0.96" CONTENT="av"/><SP WIDTH="12" VPOS="586" HPOS="693"/>
+							<String ID="string_81" HPOS="705" VPOS="579" WIDTH="23" HEIGHT="20" WC="0.84" CONTENT="61"/><SP WIDTH="12" VPOS="579" HPOS="728"/>
+							<String ID="string_82" HPOS="740" VPOS="580" WIDTH="10" HEIGHT="25" WC="0.84" CONTENT="$"/><SP WIDTH="14" VPOS="580" HPOS="750"/>
+							<String ID="string_83" HPOS="764" VPOS="579" WIDTH="7" HEIGHT="21" WC="0.88" CONTENT="1"/><SP WIDTH="15" VPOS="579" HPOS="771"/>
+							<String ID="string_84" HPOS="786" VPOS="586" WIDTH="65" HEIGHT="14" WC="0.96" CONTENT="mom."/><SP WIDTH="13" VPOS="586" HPOS="851"/>
+							<String ID="string_85" HPOS="864" VPOS="580" WIDTH="61" HEIGHT="26" WC="0.96" CONTENT="lagen"/><SP WIDTH="13" VPOS="580" HPOS="925"/>
+							<String ID="string_86" HPOS="938" VPOS="580" WIDTH="41" HEIGHT="20" WC="0.96" CONTENT="den"/><SP WIDTH="14" VPOS="580" HPOS="979"/>
+							<String ID="string_87" HPOS="993" VPOS="580" WIDTH="24" HEIGHT="20" WC="0.96" CONTENT="14"/><SP WIDTH="11" VPOS="580" HPOS="1017"/>
+							<String ID="string_88" HPOS="1028" VPOS="579" WIDTH="47" HEIGHT="26" WC="0.96" CONTENT="juni"/>
+						</TextLine>
+						<TextLine ID="line_12" HPOS="187" VPOS="608" WIDTH="888" HEIGHT="28">
+							<String ID="string_89" HPOS="187" VPOS="609" WIDTH="52" HEIGHT="20" WC="0.95" CONTENT="1918"/><SP WIDTH="10" VPOS="609" HPOS="239"/>
+							<String ID="string_90" HPOS="249" VPOS="609" WIDTH="34" HEIGHT="26" WC="0.95" CONTENT="(nr"/><SP WIDTH="8" VPOS="609" HPOS="283"/>
+							<String ID="string_91" HPOS="291" VPOS="608" WIDTH="50" HEIGHT="27" WC="0.96" CONTENT="422)"/><SP WIDTH="9" VPOS="608" HPOS="341"/>
+							<String ID="string_92" HPOS="350" VPOS="615" WIDTH="35" HEIGHT="14" WC="0.96" CONTENT="om"/><SP WIDTH="9" VPOS="615" HPOS="385"/>
+							<String ID="string_93" HPOS="394" VPOS="609" WIDTH="148" HEIGHT="26" WC="0.96" CONTENT="fattigvården"/><SP WIDTH="10" VPOS="609" HPOS="542"/>
+							<String ID="string_94" HPOS="552" VPOS="610" WIDTH="58" HEIGHT="19" WC="0.96" CONTENT="samt"/><SP WIDTH="8" VPOS="610" HPOS="610"/>
+							<String ID="string_95" HPOS="618" VPOS="609" WIDTH="35" HEIGHT="26" WC="0.96" CONTENT="lag"/><SP WIDTH="9" VPOS="609" HPOS="653"/>
+							<String ID="string_96" HPOS="662" VPOS="615" WIDTH="34" HEIGHT="14" WC="0.96" CONTENT="om"/><SP WIDTH="10" VPOS="615" HPOS="696"/>
+							<String ID="string_97" HPOS="706" VPOS="610" WIDTH="83" HEIGHT="20" WC="0.96" CONTENT="ändrad"/><SP WIDTH="10" VPOS="610" HPOS="789"/>
+							<String ID="string_98" HPOS="799" VPOS="609" WIDTH="80" HEIGHT="27" WC="0.96" CONTENT="lydelse"/><SP WIDTH="9" VPOS="609" HPOS="879"/>
+							<String ID="string_99" HPOS="888" VPOS="616" WIDTH="28" HEIGHT="13" WC="0.96" CONTENT="av"/><SP WIDTH="9" VPOS="616" HPOS="916"/>
+							<String ID="string_100" HPOS="925" VPOS="610" WIDTH="24" HEIGHT="20" WC="0.81" CONTENT="21"/><SP WIDTH="12" VPOS="610" HPOS="949"/>
+							<String ID="string_101" HPOS="961" VPOS="610" WIDTH="9" HEIGHT="25" WC="0.81" CONTENT="$"/><SP WIDTH="10" VPOS="610" HPOS="970"/>
+							<String ID="string_102" HPOS="980" VPOS="609" WIDTH="95" HEIGHT="27" WC="0.92" CONTENT="bidrags-"/>
+						</TextLine>
+						<TextLine ID="line_13" HPOS="185" VPOS="638" WIDTH="890" HEIGHT="27">
+							<String ID="string_103" HPOS="185" VPOS="638" WIDTH="168" HEIGHT="27" WC="0.92" CONTENT="förskottslagen"/><SP WIDTH="16" VPOS="638" HPOS="353"/>
+							<String ID="string_104" HPOS="369" VPOS="639" WIDTH="41" HEIGHT="20" WC="0.96" CONTENT="den"/><SP WIDTH="17" VPOS="639" HPOS="410"/>
+							<String ID="string_105" HPOS="427" VPOS="639" WIDTH="21" HEIGHT="20" WC="0.96" CONTENT="11"/><SP WIDTH="17" VPOS="639" HPOS="448"/>
+							<String ID="string_106" HPOS="465" VPOS="639" WIDTH="48" HEIGHT="26" WC="0.96" CONTENT="juni"/><SP WIDTH="16" VPOS="639" HPOS="513"/>
+							<String ID="string_107" HPOS="529" VPOS="639" WIDTH="53" HEIGHT="20" WC="0.96" CONTENT="1943"/><SP WIDTH="15" VPOS="639" HPOS="582"/>
+							<String ID="string_108" HPOS="597" VPOS="639" WIDTH="35" HEIGHT="26" WC="0.96" CONTENT="(nr"/><SP WIDTH="14" VPOS="639" HPOS="632"/>
+							<String ID="string_109" HPOS="646" VPOS="639" WIDTH="49" HEIGHT="26" WC="0.94" CONTENT="382)"/><SP WIDTH="16" VPOS="639" HPOS="695"/>
+							<String ID="string_110" HPOS="711" VPOS="639" WIDTH="54" HEIGHT="26" WC="0.96" CONTENT="(rätt"/><SP WIDTH="15" VPOS="639" HPOS="765"/>
+							<String ID="string_111" HPOS="780" VPOS="639" WIDTH="32" HEIGHT="20" WC="0.96" CONTENT="för"/><SP WIDTH="15" VPOS="639" HPOS="812"/>
+							<String ID="string_112" HPOS="827" VPOS="639" WIDTH="137" HEIGHT="26" WC="0.96" CONTENT="länsstyrelse"/><SP WIDTH="15" VPOS="639" HPOS="964"/>
+							<String ID="string_113" HPOS="979" VPOS="641" WIDTH="41" HEIGHT="22" WC="0.96" CONTENT="att,"/><SP WIDTH="17" VPOS="641" HPOS="1020"/>
+							<String ID="string_114" HPOS="1037" VPOS="641" WIDTH="38" HEIGHT="19" WC="0.96" CONTENT="när"/>
+						</TextLine>
+						<TextLine ID="line_14" HPOS="185" VPOS="668" WIDTH="891" HEIGHT="28">
+							<String ID="string_115" HPOS="185" VPOS="668" WIDTH="47" HEIGHT="21" WC="0.96" CONTENT="skäl"/><SP WIDTH="12" VPOS="668" HPOS="232"/>
+							<String ID="string_116" HPOS="244" VPOS="668" WIDTH="73" HEIGHT="21" WC="0.96" CONTENT="därtill"/><SP WIDTH="12" VPOS="668" HPOS="317"/>
+							<String ID="string_117" HPOS="329" VPOS="670" WIDTH="44" HEIGHT="22" WC="0.93" CONTENT="äro,"/><SP WIDTH="14" VPOS="670" HPOS="373"/>
+							<String ID="string_118" HPOS="387" VPOS="670" WIDTH="97" HEIGHT="25" WC="0.92" CONTENT="upptaga"/><SP WIDTH="12" VPOS="670" HPOS="484"/>
+							<String ID="string_119" HPOS="496" VPOS="668" WIDTH="33" HEIGHT="21" WC="0.96" CONTENT="till"/><SP WIDTH="12" VPOS="668" HPOS="529"/>
+							<String ID="string_120" HPOS="541" VPOS="669" WIDTH="107" HEIGHT="26" WC="0.96" CONTENT="prövning"/><SP WIDTH="11" VPOS="669" HPOS="648"/>
+							<String ID="string_121" HPOS="659" VPOS="669" WIDTH="122" HEIGHT="26" WC="0.96" CONTENT="ansökning"/><SP WIDTH="10" VPOS="669" HPOS="781"/>
+							<String ID="string_122" HPOS="791" VPOS="675" WIDTH="35" HEIGHT="14" WC="0.96" CONTENT="om"/><SP WIDTH="12" VPOS="675" HPOS="826"/>
+							<String ID="string_123" HPOS="838" VPOS="669" WIDTH="130" HEIGHT="27" WC="0.96" CONTENT="gottgörelse"/><SP WIDTH="7" VPOS="669" HPOS="968"/>
+							<String ID="string_124" HPOS="975" VPOS="675" WIDTH="28" HEIGHT="14" WC="0.93" CONTENT="av"/><SP WIDTH="7" VPOS="675" HPOS="1003"/>
+							<String ID="string_125" HPOS="1010" VPOS="670" WIDTH="66" HEIGHT="19" WC="0.91" CONTENT="stats-"/>
+						</TextLine>
+						<TextLine ID="line_15" HPOS="185" VPOS="698" WIDTH="891" HEIGHT="27">
+							<String ID="string_126" HPOS="185" VPOS="698" WIDTH="76" HEIGHT="20" WC="0.96" CONTENT="verket"/><SP WIDTH="8" VPOS="698" HPOS="261"/>
+							<String ID="string_127" HPOS="269" VPOS="698" WIDTH="34" HEIGHT="20" WC="0.96" CONTENT="för"/><SP WIDTH="8" VPOS="698" HPOS="303"/>
+							<String ID="string_128" HPOS="311" VPOS="698" WIDTH="89" HEIGHT="27" WC="0.96" CONTENT="utgiven"/><SP WIDTH="10" VPOS="698" HPOS="400"/>
+							<String ID="string_129" HPOS="410" VPOS="698" WIDTH="121" HEIGHT="27" WC="0.96" CONTENT="fattigvård"/><SP WIDTH="9" VPOS="698" HPOS="531"/>
+							<String ID="string_130" HPOS="540" VPOS="699" WIDTH="40" HEIGHT="20" WC="0.96" CONTENT="och"/><SP WIDTH="9" VPOS="699" HPOS="580"/>
+							<String ID="string_131" HPOS="589" VPOS="699" WIDTH="91" HEIGHT="26" WC="0.96" CONTENT="utgivna"/><SP WIDTH="9" VPOS="699" HPOS="680"/>
+							<String ID="string_132" HPOS="689" VPOS="698" WIDTH="190" HEIGHT="27" WC="0.96" CONTENT="bidragsförskott,"/><SP WIDTH="10" VPOS="698" HPOS="879"/>
+							<String ID="string_133" HPOS="889" VPOS="701" WIDTH="55" HEIGHT="18" WC="0.96" CONTENT="även"/><SP WIDTH="10" VPOS="701" HPOS="944"/>
+							<String ID="string_134" HPOS="954" VPOS="705" WIDTH="35" HEIGHT="14" WC="0.93" CONTENT="om"/><SP WIDTH="9" VPOS="705" HPOS="989"/>
+							<String ID="string_135" HPOS="998" VPOS="699" WIDTH="78" HEIGHT="20" WC="0.90" CONTENT="ansök-"/>
+						</TextLine>
+						<TextLine ID="line_16" HPOS="185" VPOS="726" WIDTH="518" HEIGHT="29">
+							<String ID="string_136" HPOS="185" VPOS="728" WIDTH="78" HEIGHT="26" WC="0.96" CONTENT="ningen"/><SP WIDTH="11" VPOS="728" HPOS="263"/>
+							<String ID="string_137" HPOS="274" VPOS="729" WIDTH="61" HEIGHT="26" WC="0.96" CONTENT="göres"/><SP WIDTH="10" VPOS="729" HPOS="335"/>
+							<String ID="string_138" HPOS="345" VPOS="734" WIDTH="74" HEIGHT="14" WC="0.96" CONTENT="senare"/><SP WIDTH="11" VPOS="734" HPOS="419"/>
+							<String ID="string_139" HPOS="430" VPOS="730" WIDTH="27" HEIGHT="18" WC="0.96" CONTENT="än"/><SP WIDTH="11" VPOS="730" HPOS="457"/>
+							<String ID="string_140" HPOS="468" VPOS="735" WIDTH="46" HEIGHT="13" WC="0.96" CONTENT="som"/><SP WIDTH="11" VPOS="735" HPOS="514"/>
+							<String ID="string_141" HPOS="525" VPOS="730" WIDTH="24" HEIGHT="18" WC="0.96" CONTENT="är"/><SP WIDTH="10" VPOS="730" HPOS="549"/>
+							<String ID="string_142" HPOS="559" VPOS="726" WIDTH="144" HEIGHT="27" WC="0.4" CONTENT="föreskrivet)."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_6" HPOS="184" VPOS="788" WIDTH="892" HEIGHT="176">
+					<TextBlock ID="block_8" HPOS="184" VPOS="788" WIDTH="892" HEIGHT="56">
+						<TextLine ID="line_17" HPOS="215" VPOS="788" WIDTH="861" HEIGHT="27">
+							<String ID="string_143" HPOS="215" VPOS="788" WIDTH="17" HEIGHT="20" WC="0.86" CONTENT="1."/><SP WIDTH="17" VPOS="788" HPOS="232"/>
+							<String ID="string_144" HPOS="249" VPOS="788" WIDTH="42" HEIGHT="20" WC="0.91" CONTENT="RD"/><SP WIDTH="10" VPOS="788" HPOS="291"/>
+							<String ID="string_145" HPOS="301" VPOS="788" WIDTH="118" HEIGHT="20" WC="0.93" CONTENT="fastställer"/><SP WIDTH="9" VPOS="788" HPOS="419"/>
+							<String ID="string_146" HPOS="428" VPOS="788" WIDTH="160" HEIGHT="26" WC="0.91" CONTENT="avlöningsstat"/><SP WIDTH="9" VPOS="788" HPOS="588"/>
+							<String ID="string_147" HPOS="597" VPOS="788" WIDTH="33" HEIGHT="21" WC="0.96" CONTENT="för"/><SP WIDTH="9" VPOS="788" HPOS="630"/>
+							<String ID="string_148" HPOS="639" VPOS="789" WIDTH="83" HEIGHT="19" WC="0.93" CONTENT="statens"/><SP WIDTH="10" VPOS="789" HPOS="722"/>
+							<String ID="string_149" HPOS="732" VPOS="788" WIDTH="141" HEIGHT="27" WC="0.90" CONTENT="fattigvårds-"/><SP WIDTH="10" VPOS="788" HPOS="873"/>
+							<String ID="string_150" HPOS="883" VPOS="789" WIDTH="39" HEIGHT="19" WC="0.93" CONTENT="och"/><SP WIDTH="10" VPOS="789" HPOS="922"/>
+							<String ID="string_151" HPOS="932" VPOS="789" WIDTH="144" HEIGHT="20" WC="0.90" CONTENT="barnavårds-"/>
+						</TextLine>
+						<TextLine ID="line_18" HPOS="184" VPOS="817" WIDTH="672" HEIGHT="27">
+							<String ID="string_152" HPOS="184" VPOS="817" WIDTH="141" HEIGHT="21" WC="0.96" CONTENT="konsulenter"/><SP WIDTH="9" VPOS="817" HPOS="325"/>
+							<String ID="string_153" HPOS="334" VPOS="819" WIDTH="59" HEIGHT="19" WC="0.96" CONTENT="samt"/><SP WIDTH="9" VPOS="819" HPOS="393"/>
+							<String ID="string_154" HPOS="402" VPOS="817" WIDTH="88" HEIGHT="21" WC="0.96" CONTENT="anvisar"/><SP WIDTH="9" VPOS="817" HPOS="490"/>
+							<String ID="string_155" HPOS="499" VPOS="818" WIDTH="33" HEIGHT="20" WC="0.93" CONTENT="till"/><SP WIDTH="10" VPOS="818" HPOS="532"/>
+							<String ID="string_156" HPOS="542" VPOS="818" WIDTH="128" HEIGHT="26" WC="0.91" CONTENT="avlöningar"/><SP WIDTH="10" VPOS="818" HPOS="670"/>
+							<String ID="string_157" HPOS="680" VPOS="818" WIDTH="40" HEIGHT="21" WC="0.96" CONTENT="208"/><SP WIDTH="9" VPOS="818" HPOS="720"/>
+							<String ID="string_158" HPOS="729" VPOS="818" WIDTH="41" HEIGHT="21" WC="0.96" CONTENT="500"/><SP WIDTH="10" VPOS="818" HPOS="770"/>
+							<String ID="string_159" HPOS="780" VPOS="818" WIDTH="31" HEIGHT="21" WC="0.93" CONTENT="kr."/><SP WIDTH="12" VPOS="818" HPOS="811"/>
+							<String ID="string_160" HPOS="823" VPOS="818" WIDTH="33" HEIGHT="26" WC="0.88" CONTENT="(f)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_9" HPOS="185" VPOS="848" WIDTH="889" HEIGHT="56">
+						<TextLine ID="line_19" HPOS="212" VPOS="848" WIDTH="862" HEIGHT="26">
+							<String ID="string_161" HPOS="212" VPOS="848" WIDTH="20" HEIGHT="20" WC="0.90" CONTENT="2."/><SP WIDTH="16" VPOS="848" HPOS="232"/>
+							<String ID="string_162" HPOS="248" VPOS="848" WIDTH="43" HEIGHT="20" WC="0.90" CONTENT="RD"/><SP WIDTH="20" VPOS="848" HPOS="291"/>
+							<String ID="string_163" HPOS="311" VPOS="848" WIDTH="88" HEIGHT="20" WC="0.96" CONTENT="anvisar"/><SP WIDTH="18" VPOS="848" HPOS="399"/>
+							<String ID="string_164" HPOS="417" VPOS="848" WIDTH="33" HEIGHT="20" WC="0.96" CONTENT="till"/><SP WIDTH="19" VPOS="848" HPOS="450"/>
+							<String ID="string_165" HPOS="469" VPOS="849" WIDTH="84" HEIGHT="19" WC="0.93" CONTENT="statens"/><SP WIDTH="19" VPOS="849" HPOS="553"/>
+							<String ID="string_166" HPOS="572" VPOS="848" WIDTH="142" HEIGHT="26" WC="0.91" CONTENT="fattigvårds-"/><SP WIDTH="19" VPOS="848" HPOS="714"/>
+							<String ID="string_167" HPOS="733" VPOS="848" WIDTH="39" HEIGHT="20" WC="0.91" CONTENT="och"/><SP WIDTH="20" VPOS="848" HPOS="772"/>
+							<String ID="string_168" HPOS="792" VPOS="848" WIDTH="282" HEIGHT="20" WC="0.90" CONTENT="barnavårdskonsulenter:"/>
+						</TextLine>
+						<TextLine ID="line_20" HPOS="185" VPOS="877" WIDTH="334" HEIGHT="27">
+							<String ID="string_169" HPOS="185" VPOS="877" WIDTH="156" HEIGHT="21" WC="0.96" CONTENT="omkostnader"/><SP WIDTH="11" VPOS="877" HPOS="341"/>
+							<String ID="string_170" HPOS="352" VPOS="878" WIDTH="27" HEIGHT="20" WC="0.96" CONTENT="78"/><SP WIDTH="9" VPOS="878" HPOS="379"/>
+							<String ID="string_171" HPOS="388" VPOS="877" WIDTH="41" HEIGHT="21" WC="0.96" CONTENT="400"/><SP WIDTH="11" VPOS="877" HPOS="429"/>
+							<String ID="string_172" HPOS="440" VPOS="878" WIDTH="32" HEIGHT="20" WC="0.93" CONTENT="kr."/><SP WIDTH="15" VPOS="878" HPOS="472"/>
+							<String ID="string_173" HPOS="487" VPOS="878" WIDTH="32" HEIGHT="26" WC="0.92" CONTENT="(f)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_10" HPOS="185" VPOS="907" WIDTH="889" HEIGHT="57">
+						<TextLine ID="line_21" HPOS="212" VPOS="907" WIDTH="862" HEIGHT="27">
+							<String ID="string_174" HPOS="212" VPOS="908" WIDTH="20" HEIGHT="19" WC="0.91" CONTENT="3."/><SP WIDTH="17" VPOS="908" HPOS="232"/>
+							<String ID="string_175" HPOS="249" VPOS="907" WIDTH="42" HEIGHT="21" WC="0.91" CONTENT="RD"/><SP WIDTH="16" VPOS="907" HPOS="291"/>
+							<String ID="string_176" HPOS="307" VPOS="907" WIDTH="88" HEIGHT="21" WC="0.96" CONTENT="anvisar"/><SP WIDTH="14" VPOS="907" HPOS="395"/>
+							<String ID="string_177" HPOS="409" VPOS="907" WIDTH="33" HEIGHT="20" WC="0.96" CONTENT="till"/><SP WIDTH="16" VPOS="907" HPOS="442"/>
+							<String ID="string_178" HPOS="458" VPOS="908" WIDTH="120" HEIGHT="26" WC="0.96" CONTENT="fattigvård"/><SP WIDTH="17" VPOS="908" HPOS="578"/>
+							<String ID="string_179" HPOS="595" VPOS="907" WIDTH="6" HEIGHT="21" WC="0.96" CONTENT="i"/><SP WIDTH="15" VPOS="907" HPOS="601"/>
+							<String ID="string_180" HPOS="616" VPOS="908" WIDTH="120" HEIGHT="20" WC="0.95" CONTENT="allmänhet"/><SP WIDTH="18" VPOS="908" HPOS="736"/>
+							<String ID="string_181" HPOS="754" VPOS="907" WIDTH="6" HEIGHT="20" WC="0.84" CONTENT="1"/><SP WIDTH="14" VPOS="907" HPOS="760"/>
+							<String ID="string_182" HPOS="774" VPOS="908" WIDTH="40" HEIGHT="20" WC="0.84" CONTENT="750"/><SP WIDTH="8" VPOS="908" HPOS="814"/>
+							<String ID="string_183" HPOS="822" VPOS="908" WIDTH="41" HEIGHT="20" WC="0.96" CONTENT="000"/><SP WIDTH="16" VPOS="908" HPOS="863"/>
+							<String ID="string_184" HPOS="879" VPOS="908" WIDTH="31" HEIGHT="20" WC="0.93" CONTENT="kr."/><SP WIDTH="17" VPOS="908" HPOS="910"/>
+							<String ID="string_185" HPOS="927" VPOS="908" WIDTH="26" HEIGHT="26" WC="0.91" CONTENT="(f)"/><SP WIDTH="16" VPOS="908" HPOS="953"/>
+							<String ID="string_186" HPOS="969" VPOS="909" WIDTH="58" HEIGHT="19" WC="0.96" CONTENT="samt"/><SP WIDTH="16" VPOS="909" HPOS="1027"/>
+							<String ID="string_187" HPOS="1043" VPOS="908" WIDTH="31" HEIGHT="20" WC="0.96" CONTENT="till"/>
+						</TextLine>
+						<TextLine ID="line_22" HPOS="185" VPOS="937" WIDTH="461" HEIGHT="27">
+							<String ID="string_188" HPOS="185" VPOS="937" WIDTH="123" HEIGHT="20" WC="0.96" CONTENT="barnavård"/><SP WIDTH="12" VPOS="937" HPOS="308"/>
+							<String ID="string_189" HPOS="320" VPOS="937" WIDTH="7" HEIGHT="20" WC="0.96" CONTENT="i"/><SP WIDTH="10" VPOS="937" HPOS="327"/>
+							<String ID="string_190" HPOS="337" VPOS="937" WIDTH="120" HEIGHT="21" WC="0.96" CONTENT="allmänhet"/><SP WIDTH="13" VPOS="937" HPOS="457"/>
+							<String ID="string_191" HPOS="470" VPOS="938" WIDTH="39" HEIGHT="20" WC="0.96" CONTENT="190"/><SP WIDTH="8" VPOS="938" HPOS="509"/>
+							<String ID="string_192" HPOS="517" VPOS="938" WIDTH="41" HEIGHT="20" WC="0.96" CONTENT="000"/><SP WIDTH="11" VPOS="938" HPOS="558"/>
+							<String ID="string_193" HPOS="569" VPOS="938" WIDTH="31" HEIGHT="19" WC="0.93" CONTENT="kr."/><SP WIDTH="13" VPOS="938" HPOS="600"/>
+							<String ID="string_194" HPOS="613" VPOS="938" WIDTH="33" HEIGHT="26" WC="0.92" CONTENT="(f)."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_7" HPOS="185" VPOS="996" WIDTH="888" HEIGHT="86">
+					<TextBlock ID="block_11" HPOS="185" VPOS="996" WIDTH="888" HEIGHT="86">
+						<TextLine ID="line_23" HPOS="212" VPOS="996" WIDTH="861" HEIGHT="28">
+							<String ID="string_195" HPOS="212" VPOS="996" WIDTH="20" HEIGHT="20" WC="0.81" CONTENT="4."/><SP WIDTH="17" VPOS="996" HPOS="232"/>
+							<String ID="string_196" HPOS="249" VPOS="997" WIDTH="42" HEIGHT="20" WC="0.92" CONTENT="RD"/><SP WIDTH="21" VPOS="997" HPOS="291"/>
+							<String ID="string_197" HPOS="312" VPOS="996" WIDTH="88" HEIGHT="21" WC="0.96" CONTENT="anvisar"/><SP WIDTH="20" VPOS="996" HPOS="400"/>
+							<String ID="string_198" HPOS="420" VPOS="996" WIDTH="33" HEIGHT="21" WC="0.96" CONTENT="till"/><SP WIDTH="21" VPOS="996" HPOS="453"/>
+							<String ID="string_199" HPOS="474" VPOS="997" WIDTH="120" HEIGHT="26" WC="0.96" CONTENT="fattigvård"/><SP WIDTH="22" VPOS="997" HPOS="594"/>
+							<String ID="string_200" HPOS="616" VPOS="997" WIDTH="40" HEIGHT="20" WC="0.96" CONTENT="och"/><SP WIDTH="21" VPOS="997" HPOS="656"/>
+							<String ID="string_201" HPOS="677" VPOS="997" WIDTH="123" HEIGHT="21" WC="0.96" CONTENT="barnavård"/><SP WIDTH="22" VPOS="997" HPOS="800"/>
+							<String ID="string_202" HPOS="822" VPOS="997" WIDTH="67" HEIGHT="27" WC="0.96" CONTENT="enligt"/><SP WIDTH="21" VPOS="997" HPOS="889"/>
+							<String ID="string_203" HPOS="910" VPOS="997" WIDTH="41" HEIGHT="20" WC="0.96" CONTENT="den"/><SP WIDTH="22" VPOS="997" HPOS="951"/>
+							<String ID="string_204" HPOS="973" VPOS="997" WIDTH="100" HEIGHT="20" WC="0.96" CONTENT="nordiska"/>
+						</TextLine>
+						<TextLine ID="line_24" HPOS="185" VPOS="1026" WIDTH="568" HEIGHT="27">
+							<String ID="string_205" HPOS="185" VPOS="1026" WIDTH="295" HEIGHT="27" WC="0.92" CONTENT="fattigvårdskonventionen"/><SP WIDTH="12" VPOS="1026" HPOS="480"/>
+							<String ID="string_206" HPOS="492" VPOS="1033" WIDTH="29" HEIGHT="14" WC="0.91" CONTENT="m."/><SP WIDTH="10" VPOS="1033" HPOS="521"/>
+							<String ID="string_207" HPOS="531" VPOS="1033" WIDTH="29" HEIGHT="14" WC="0.89" CONTENT="m."/><SP WIDTH="13" VPOS="1033" HPOS="560"/>
+							<String ID="string_208" HPOS="573" VPOS="1027" WIDTH="41" HEIGHT="20" WC="0.95" CONTENT="500"/><SP WIDTH="8" VPOS="1027" HPOS="614"/>
+							<String ID="string_209" HPOS="622" VPOS="1027" WIDTH="41" HEIGHT="20" WC="0.95" CONTENT="000"/><SP WIDTH="11" VPOS="1027" HPOS="663"/>
+							<String ID="string_210" HPOS="674" VPOS="1027" WIDTH="33" HEIGHT="20" WC="0.91" CONTENT="kr."/><SP WIDTH="13" VPOS="1027" HPOS="707"/>
+							<String ID="string_211" HPOS="720" VPOS="1027" WIDTH="33" HEIGHT="26" WC="0.91" CONTENT="(f)."/>
+						</TextLine>
+						<TextLine ID="line_25" HPOS="212" VPOS="1056" WIDTH="861" HEIGHT="26">
+							<String ID="string_212" HPOS="212" VPOS="1056" WIDTH="20" HEIGHT="20" WC="0.93" CONTENT="5."/><SP WIDTH="17" VPOS="1056" HPOS="232"/>
+							<String ID="string_213" HPOS="249" VPOS="1056" WIDTH="42" HEIGHT="20" WC="0.91" CONTENT="RD"/><SP WIDTH="13" VPOS="1056" HPOS="291"/>
+							<String ID="string_214" HPOS="304" VPOS="1056" WIDTH="88" HEIGHT="20" WC="0.96" CONTENT="anvisar"/><SP WIDTH="12" VPOS="1056" HPOS="392"/>
+							<String ID="string_215" HPOS="404" VPOS="1056" WIDTH="33" HEIGHT="20" WC="0.96" CONTENT="till"/><SP WIDTH="13" VPOS="1056" HPOS="437"/>
+							<String ID="string_216" HPOS="450" VPOS="1056" WIDTH="120" HEIGHT="26" WC="0.96" CONTENT="fattigvård"/><SP WIDTH="14" VPOS="1056" HPOS="570"/>
+							<String ID="string_217" HPOS="584" VPOS="1057" WIDTH="39" HEIGHT="19" WC="0.96" CONTENT="och"/><SP WIDTH="13" VPOS="1057" HPOS="623"/>
+							<String ID="string_218" HPOS="636" VPOS="1057" WIDTH="124" HEIGHT="19" WC="0.96" CONTENT="barnavård"/><SP WIDTH="13" VPOS="1057" HPOS="760"/>
+							<String ID="string_219" HPOS="773" VPOS="1056" WIDTH="34" HEIGHT="20" WC="0.96" CONTENT="för"/><SP WIDTH="12" VPOS="1056" HPOS="807"/>
+							<String ID="string_220" HPOS="819" VPOS="1057" WIDTH="76" HEIGHT="25" WC="0.95" CONTENT="lappar"/><SP WIDTH="12" VPOS="1057" HPOS="895"/>
+							<String ID="string_221" HPOS="907" VPOS="1057" WIDTH="27" HEIGHT="19" WC="0.76" CONTENT="90"/><SP WIDTH="7" VPOS="1057" HPOS="934"/>
+							<String ID="string_222" HPOS="941" VPOS="1057" WIDTH="41" HEIGHT="19" WC="0.76" CONTENT="000"/><SP WIDTH="12" VPOS="1057" HPOS="982"/>
+							<String ID="string_223" HPOS="994" VPOS="1057" WIDTH="32" HEIGHT="19" WC="0.92" CONTENT="kr."/><SP WIDTH="15" VPOS="1057" HPOS="1026"/>
+							<String ID="string_224" HPOS="1041" VPOS="1057" WIDTH="32" HEIGHT="25" WC="0.89" CONTENT="(f)."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_8" HPOS="213" VPOS="1115" WIDTH="860" HEIGHT="27">
+					<TextBlock ID="block_12" HPOS="213" VPOS="1115" WIDTH="860" HEIGHT="27">
+						<TextLine ID="line_26" HPOS="213" VPOS="1115" WIDTH="860" HEIGHT="27">
+							<String ID="string_225" HPOS="213" VPOS="1115" WIDTH="19" HEIGHT="19" WC="0.93" CONTENT="6."/><SP WIDTH="18" VPOS="1115" HPOS="232"/>
+							<String ID="string_226" HPOS="250" VPOS="1115" WIDTH="41" HEIGHT="20" WC="0.90" CONTENT="RD"/><SP WIDTH="14" VPOS="1115" HPOS="291"/>
+							<String ID="string_227" HPOS="305" VPOS="1115" WIDTH="87" HEIGHT="20" WC="0.96" CONTENT="anvisar"/><SP WIDTH="13" VPOS="1115" HPOS="392"/>
+							<String ID="string_228" HPOS="405" VPOS="1115" WIDTH="32" HEIGHT="20" WC="0.95" CONTENT="till"/><SP WIDTH="14" VPOS="1115" HPOS="437"/>
+							<String ID="string_229" HPOS="451" VPOS="1115" WIDTH="75" HEIGHT="27" WC="0.96" CONTENT="bidrag"/><SP WIDTH="13" VPOS="1115" HPOS="526"/>
+							<String ID="string_230" HPOS="539" VPOS="1115" WIDTH="32" HEIGHT="20" WC="0.96" CONTENT="till"/><SP WIDTH="13" VPOS="1115" HPOS="571"/>
+							<String ID="string_231" HPOS="584" VPOS="1116" WIDTH="93" HEIGHT="20" WC="0.93" CONTENT="svenska"/><SP WIDTH="13" VPOS="1116" HPOS="677"/>
+							<String ID="string_232" HPOS="690" VPOS="1115" WIDTH="251" HEIGHT="21" WC="0.91" CONTENT="socialvårdsförbundet"/><SP WIDTH="12" VPOS="1115" HPOS="941"/>
+							<String ID="string_233" HPOS="953" VPOS="1116" WIDTH="26" HEIGHT="20" WC="0.95" CONTENT="25"/><SP WIDTH="9" VPOS="1116" HPOS="979"/>
+							<String ID="string_234" HPOS="988" VPOS="1116" WIDTH="41" HEIGHT="19" WC="0.96" CONTENT="000"/><SP WIDTH="13" VPOS="1116" HPOS="1029"/>
+							<String ID="string_235" HPOS="1042" VPOS="1116" WIDTH="31" HEIGHT="19" WC="0.96" CONTENT="kr."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_9" HPOS="184" VPOS="1174" WIDTH="892" HEIGHT="146">
+					<TextBlock ID="block_13" HPOS="184" VPOS="1174" WIDTH="892" HEIGHT="57">
+						<TextLine ID="line_27" HPOS="212" VPOS="1174" WIDTH="864" HEIGHT="27">
+							<String ID="string_236" HPOS="212" VPOS="1174" WIDTH="20" HEIGHT="20" WC="0.92" CONTENT="7."/><SP WIDTH="17" VPOS="1174" HPOS="232"/>
+							<String ID="string_237" HPOS="249" VPOS="1174" WIDTH="41" HEIGHT="20" WC="0.90" CONTENT="RD"/><SP WIDTH="18" VPOS="1174" HPOS="290"/>
+							<String ID="string_238" HPOS="308" VPOS="1174" WIDTH="87" HEIGHT="20" WC="0.96" CONTENT="anvisar"/><SP WIDTH="18" VPOS="1174" HPOS="395"/>
+							<String ID="string_239" HPOS="413" VPOS="1174" WIDTH="31" HEIGHT="20" WC="0.96" CONTENT="till"/><SP WIDTH="17" VPOS="1174" HPOS="444"/>
+							<String ID="string_240" HPOS="461" VPOS="1174" WIDTH="118" HEIGHT="27" WC="0.96" CONTENT="stipendier"/><SP WIDTH="17" VPOS="1174" HPOS="579"/>
+							<String ID="string_241" HPOS="596" VPOS="1175" WIDTH="33" HEIGHT="20" WC="0.96" CONTENT="för"/><SP WIDTH="17" VPOS="1175" HPOS="629"/>
+							<String ID="string_242" HPOS="646" VPOS="1175" WIDTH="123" HEIGHT="26" WC="0.96" CONTENT="utbildning"/><SP WIDTH="17" VPOS="1175" HPOS="769"/>
+							<String ID="string_243" HPOS="786" VPOS="1181" WIDTH="27" HEIGHT="14" WC="0.93" CONTENT="av"/><SP WIDTH="24" VPOS="1181" HPOS="813"/>
+							<String ID="string_244" HPOS="837" VPOS="1175" WIDTH="239" HEIGHT="20" WC="0.90" CONTENT="ålderdomshemsföre-"/>
+						</TextLine>
+						<TextLine ID="line_28" HPOS="184" VPOS="1203" WIDTH="321" HEIGHT="28">
+							<String ID="string_245" HPOS="184" VPOS="1203" WIDTH="155" HEIGHT="21" WC="0.90" CONTENT="ståndarinnor"/><SP WIDTH="11" VPOS="1203" HPOS="339"/>
+							<String ID="string_246" HPOS="350" VPOS="1204" WIDTH="13" HEIGHT="20" WC="0.96" CONTENT="3"/><SP WIDTH="9" VPOS="1204" HPOS="363"/>
+							<String ID="string_247" HPOS="372" VPOS="1204" WIDTH="41" HEIGHT="20" WC="0.96" CONTENT="000"/><SP WIDTH="12" VPOS="1204" HPOS="413"/>
+							<String ID="string_248" HPOS="425" VPOS="1204" WIDTH="32" HEIGHT="20" WC="0.93" CONTENT="kr."/><SP WIDTH="14" VPOS="1204" HPOS="457"/>
+							<String ID="string_249" HPOS="471" VPOS="1204" WIDTH="34" HEIGHT="27" WC="0.92" CONTENT="(r)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_14" HPOS="184" VPOS="1233" WIDTH="891" HEIGHT="56">
+						<TextLine ID="line_29" HPOS="212" VPOS="1233" WIDTH="863" HEIGHT="27">
+							<String ID="string_250" HPOS="212" VPOS="1233" WIDTH="20" HEIGHT="21" WC="0.93" CONTENT="8."/><SP WIDTH="17" VPOS="1233" HPOS="232"/>
+							<String ID="string_251" HPOS="249" VPOS="1233" WIDTH="42" HEIGHT="20" WC="0.92" CONTENT="RD"/><SP WIDTH="14" VPOS="1233" HPOS="291"/>
+							<String ID="string_252" HPOS="305" VPOS="1233" WIDTH="87" HEIGHT="21" WC="0.96" CONTENT="anvisar"/><SP WIDTH="13" VPOS="1233" HPOS="392"/>
+							<String ID="string_253" HPOS="405" VPOS="1233" WIDTH="33" HEIGHT="21" WC="0.96" CONTENT="till"/><SP WIDTH="13" VPOS="1233" HPOS="438"/>
+							<String ID="string_254" HPOS="451" VPOS="1234" WIDTH="76" HEIGHT="26" WC="0.96" CONTENT="bidrag"/><SP WIDTH="13" VPOS="1234" HPOS="527"/>
+							<String ID="string_255" HPOS="540" VPOS="1234" WIDTH="33" HEIGHT="20" WC="0.93" CONTENT="till"/><SP WIDTH="14" VPOS="1234" HPOS="573"/>
+							<String ID="string_256" HPOS="587" VPOS="1234" WIDTH="200" HEIGHT="20" WC="0.91" CONTENT="driftkostnaderna"/><SP WIDTH="18" VPOS="1234" HPOS="787"/>
+							<String ID="string_257" HPOS="805" VPOS="1234" WIDTH="37" HEIGHT="20" WC="0.93" CONTENT="vid"/><SP WIDTH="17" VPOS="1234" HPOS="842"/>
+							<String ID="string_258" HPOS="859" VPOS="1234" WIDTH="124" HEIGHT="20" WC="0.90" CONTENT="arbetshem"/><SP WIDTH="17" VPOS="1234" HPOS="983"/>
+							<String ID="string_259" HPOS="1000" VPOS="1234" WIDTH="26" HEIGHT="20" WC="0.96" CONTENT="40"/><SP WIDTH="9" VPOS="1234" HPOS="1026"/>
+							<String ID="string_260" HPOS="1035" VPOS="1234" WIDTH="40" HEIGHT="20" WC="0.96" CONTENT="000"/>
+						</TextLine>
+						<TextLine ID="line_30" HPOS="184" VPOS="1263" WIDTH="82" HEIGHT="26">
+							<String ID="string_261" HPOS="184" VPOS="1263" WIDTH="32" HEIGHT="20" WC="0.93" CONTENT="kr."/><SP WIDTH="16" VPOS="1263" HPOS="216"/>
+							<String ID="string_262" HPOS="232" VPOS="1263" WIDTH="34" HEIGHT="26" WC="0.92" CONTENT="(f)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_15" HPOS="212" VPOS="1293" WIDTH="739" HEIGHT="27">
+						<TextLine ID="line_31" HPOS="212" VPOS="1293" WIDTH="739" HEIGHT="27">
+							<String ID="string_263" HPOS="212" VPOS="1293" WIDTH="20" HEIGHT="20" WC="0.90" CONTENT="9."/><SP WIDTH="17" VPOS="1293" HPOS="232"/>
+							<String ID="string_264" HPOS="249" VPOS="1293" WIDTH="42" HEIGHT="20" WC="0.90" CONTENT="RD"/><SP WIDTH="14" VPOS="1293" HPOS="291"/>
+							<String ID="string_265" HPOS="305" VPOS="1293" WIDTH="88" HEIGHT="20" WC="0.96" CONTENT="anvisar"/><SP WIDTH="13" VPOS="1293" HPOS="393"/>
+							<String ID="string_266" HPOS="406" VPOS="1293" WIDTH="32" HEIGHT="20" WC="0.96" CONTENT="till"/><SP WIDTH="13" VPOS="1293" HPOS="438"/>
+							<String ID="string_267" HPOS="451" VPOS="1293" WIDTH="110" HEIGHT="20" WC="0.96" CONTENT="allmänna"/><SP WIDTH="14" VPOS="1293" HPOS="561"/>
+							<String ID="string_268" HPOS="575" VPOS="1293" WIDTH="132" HEIGHT="27" WC="0.96" CONTENT="barnbidrag"/><SP WIDTH="13" VPOS="1293" HPOS="707"/>
+							<String ID="string_269" HPOS="720" VPOS="1293" WIDTH="40" HEIGHT="21" WC="0.96" CONTENT="442"/><SP WIDTH="9" VPOS="1293" HPOS="760"/>
+							<String ID="string_270" HPOS="769" VPOS="1293" WIDTH="41" HEIGHT="21" WC="0.95" CONTENT="000"/><SP WIDTH="8" VPOS="1293" HPOS="810"/>
+							<String ID="string_271" HPOS="818" VPOS="1293" WIDTH="41" HEIGHT="21" WC="0.96" CONTENT="000"/><SP WIDTH="13" VPOS="1293" HPOS="859"/>
+							<String ID="string_272" HPOS="872" VPOS="1293" WIDTH="32" HEIGHT="20" WC="0.93" CONTENT="kr."/><SP WIDTH="14" VPOS="1293" HPOS="904"/>
+							<String ID="string_273" HPOS="918" VPOS="1293" WIDTH="33" HEIGHT="26" WC="0.89" CONTENT="(f)."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_10" HPOS="184" VPOS="1352" WIDTH="893" HEIGHT="265">
+					<TextBlock ID="block_16" HPOS="184" VPOS="1352" WIDTH="891" HEIGHT="56">
+						<TextLine ID="line_32" HPOS="214" VPOS="1352" WIDTH="861" HEIGHT="27">
+							<String ID="string_274" HPOS="214" VPOS="1352" WIDTH="32" HEIGHT="20" WC="0.92" CONTENT="10."/><SP WIDTH="17" VPOS="1352" HPOS="246"/>
+							<String ID="string_275" HPOS="263" VPOS="1352" WIDTH="42" HEIGHT="21" WC="0.92" CONTENT="RD"/><SP WIDTH="15" VPOS="1352" HPOS="305"/>
+							<String ID="string_276" HPOS="320" VPOS="1352" WIDTH="88" HEIGHT="21" WC="0.95" CONTENT="anvisar"/><SP WIDTH="14" VPOS="1352" HPOS="408"/>
+							<String ID="string_277" HPOS="422" VPOS="1352" WIDTH="32" HEIGHT="21" WC="0.95" CONTENT="till"/><SP WIDTH="15" VPOS="1352" HPOS="454"/>
+							<String ID="string_278" HPOS="469" VPOS="1352" WIDTH="122" HEIGHT="27" WC="0.96" CONTENT="ersättning"/><SP WIDTH="14" VPOS="1352" HPOS="591"/>
+							<String ID="string_279" HPOS="605" VPOS="1352" WIDTH="33" HEIGHT="21" WC="0.96" CONTENT="till"/><SP WIDTH="15" VPOS="1352" HPOS="638"/>
+							<String ID="string_280" HPOS="653" VPOS="1353" WIDTH="128" HEIGHT="26" WC="0.96" CONTENT="postverket"/><SP WIDTH="14" VPOS="1353" HPOS="781"/>
+							<String ID="string_281" HPOS="795" VPOS="1353" WIDTH="33" HEIGHT="20" WC="0.96" CONTENT="för"/><SP WIDTH="15" VPOS="1353" HPOS="828"/>
+							<String ID="string_282" HPOS="843" VPOS="1353" WIDTH="138" HEIGHT="26" WC="0.95" CONTENT="utbetalning"/><SP WIDTH="14" VPOS="1353" HPOS="981"/>
+							<String ID="string_283" HPOS="995" VPOS="1359" WIDTH="28" HEIGHT="14" WC="0.92" CONTENT="av"/><SP WIDTH="15" VPOS="1359" HPOS="1023"/>
+							<String ID="string_284" HPOS="1038" VPOS="1353" WIDTH="37" HEIGHT="20" WC="0.91" CONTENT="all-"/>
+						</TextLine>
+						<TextLine ID="line_33" HPOS="184" VPOS="1382" WIDTH="435" HEIGHT="26">
+							<String ID="string_285" HPOS="184" VPOS="1383" WIDTH="81" HEIGHT="19" WC="0.92" CONTENT="männa"/><SP WIDTH="11" VPOS="1383" HPOS="265"/>
+							<String ID="string_286" HPOS="276" VPOS="1382" WIDTH="133" HEIGHT="26" WC="0.96" CONTENT="barnbidrag"/><SP WIDTH="13" VPOS="1382" HPOS="409"/>
+							<String ID="string_287" HPOS="422" VPOS="1382" WIDTH="7" HEIGHT="20" WC="0.94" CONTENT="1"/><SP WIDTH="14" VPOS="1382" HPOS="429"/>
+							<String ID="string_288" HPOS="443" VPOS="1382" WIDTH="39" HEIGHT="21" WC="0.94" CONTENT="100"/><SP WIDTH="8" VPOS="1382" HPOS="482"/>
+							<String ID="string_289" HPOS="490" VPOS="1382" WIDTH="41" HEIGHT="21" WC="0.95" CONTENT="000"/><SP WIDTH="11" VPOS="1382" HPOS="531"/>
+							<String ID="string_290" HPOS="542" VPOS="1383" WIDTH="32" HEIGHT="20" WC="0.92" CONTENT="kr."/><SP WIDTH="12" VPOS="1383" HPOS="574"/>
+							<String ID="string_291" HPOS="586" VPOS="1383" WIDTH="33" HEIGHT="25" WC="0.92" CONTENT="(f)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_17" HPOS="185" VPOS="1412" WIDTH="891" HEIGHT="56">
+						<TextLine ID="line_34" HPOS="214" VPOS="1412" WIDTH="862" HEIGHT="27">
+							<String ID="string_292" HPOS="214" VPOS="1412" WIDTH="32" HEIGHT="20" WC="0.93" CONTENT="11."/><SP WIDTH="17" VPOS="1412" HPOS="246"/>
+							<String ID="string_293" HPOS="263" VPOS="1412" WIDTH="42" HEIGHT="20" WC="0.89" CONTENT="RD"/><SP WIDTH="15" VPOS="1412" HPOS="305"/>
+							<String ID="string_294" HPOS="320" VPOS="1412" WIDTH="88" HEIGHT="20" WC="0.96" CONTENT="anvisar"/><SP WIDTH="12" VPOS="1412" HPOS="408"/>
+							<String ID="string_295" HPOS="420" VPOS="1412" WIDTH="33" HEIGHT="20" WC="0.96" CONTENT="till"/><SP WIDTH="14" VPOS="1412" HPOS="453"/>
+							<String ID="string_296" HPOS="467" VPOS="1412" WIDTH="121" HEIGHT="27" WC="0.95" CONTENT="ersättning"/><SP WIDTH="14" VPOS="1412" HPOS="588"/>
+							<String ID="string_297" HPOS="602" VPOS="1412" WIDTH="33" HEIGHT="20" WC="0.93" CONTENT="till"/><SP WIDTH="13" VPOS="1412" HPOS="635"/>
+							<String ID="string_298" HPOS="648" VPOS="1412" WIDTH="271" HEIGHT="20" WC="0.92" CONTENT="barnavårdsnämnderna"/><SP WIDTH="15" VPOS="1412" HPOS="919"/>
+							<String ID="string_299" HPOS="934" VPOS="1412" WIDTH="33" HEIGHT="20" WC="0.93" CONTENT="för"/><SP WIDTH="13" VPOS="1412" HPOS="967"/>
+							<String ID="string_300" HPOS="980" VPOS="1412" WIDTH="96" HEIGHT="26" WC="0.92" CONTENT="bidrags-"/>
+						</TextLine>
+						<TextLine ID="line_35" HPOS="185" VPOS="1441" WIDTH="308" HEIGHT="27">
+							<String ID="string_301" HPOS="185" VPOS="1441" WIDTH="95" HEIGHT="20" WC="0.96" CONTENT="förskott"/><SP WIDTH="11" VPOS="1441" HPOS="280"/>
+							<String ID="string_302" HPOS="291" VPOS="1442" WIDTH="13" HEIGHT="19" WC="0.94" CONTENT="2"/><SP WIDTH="9" VPOS="1442" HPOS="304"/>
+							<String ID="string_303" HPOS="313" VPOS="1441" WIDTH="41" HEIGHT="21" WC="0.94" CONTENT="500"/><SP WIDTH="8" VPOS="1441" HPOS="354"/>
+							<String ID="string_304" HPOS="362" VPOS="1442" WIDTH="41" HEIGHT="20" WC="0.96" CONTENT="000"/><SP WIDTH="12" VPOS="1442" HPOS="403"/>
+							<String ID="string_305" HPOS="415" VPOS="1442" WIDTH="32" HEIGHT="20" WC="0.91" CONTENT="kr."/><SP WIDTH="13" VPOS="1442" HPOS="447"/>
+							<String ID="string_306" HPOS="460" VPOS="1442" WIDTH="33" HEIGHT="26" WC="0.91" CONTENT="(f)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_18" HPOS="185" VPOS="1471" WIDTH="892" HEIGHT="57">
+						<TextLine ID="line_36" HPOS="215" VPOS="1471" WIDTH="862" HEIGHT="27">
+							<String ID="string_307" HPOS="215" VPOS="1471" WIDTH="31" HEIGHT="20" WC="0.86" CONTENT="12."/><SP WIDTH="18" VPOS="1471" HPOS="246"/>
+							<String ID="string_308" HPOS="264" VPOS="1471" WIDTH="41" HEIGHT="20" WC="0.88" CONTENT="RD"/><SP WIDTH="11" VPOS="1471" HPOS="305"/>
+							<String ID="string_309" HPOS="316" VPOS="1471" WIDTH="87" HEIGHT="21" WC="0.96" CONTENT="anvisar"/><SP WIDTH="9" VPOS="1471" HPOS="403"/>
+							<String ID="string_310" HPOS="412" VPOS="1471" WIDTH="33" HEIGHT="21" WC="0.96" CONTENT="till"/><SP WIDTH="8" VPOS="1471" HPOS="445"/>
+							<String ID="string_311" HPOS="453" VPOS="1471" WIDTH="76" HEIGHT="27" WC="0.95" CONTENT="bidrag"/><SP WIDTH="7" VPOS="1471" HPOS="529"/>
+							<String ID="string_312" HPOS="536" VPOS="1472" WIDTH="32" HEIGHT="20" WC="0.93" CONTENT="till"/><SP WIDTH="8" VPOS="1472" HPOS="568"/>
+							<String ID="string_313" HPOS="576" VPOS="1472" WIDTH="270" HEIGHT="20" WC="0.92" CONTENT="barnavårdsnämnderna"/><SP WIDTH="8" VPOS="1472" HPOS="846"/>
+							<String ID="string_314" HPOS="854" VPOS="1472" WIDTH="33" HEIGHT="20" WC="0.96" CONTENT="för"/><SP WIDTH="7" VPOS="1472" HPOS="887"/>
+							<String ID="string_315" HPOS="894" VPOS="1472" WIDTH="57" HEIGHT="20" WC="0.96" CONTENT="vissa"/><SP WIDTH="8" VPOS="1472" HPOS="951"/>
+							<String ID="string_316" HPOS="959" VPOS="1472" WIDTH="118" HEIGHT="20" WC="0.96" CONTENT="kostnader"/>
+						</TextLine>
+						<TextLine ID="line_37" HPOS="185" VPOS="1501" WIDTH="546" HEIGHT="27">
+							<String ID="string_317" HPOS="185" VPOS="1501" WIDTH="67" HEIGHT="26" WC="0.93" CONTENT="enligt"/><SP WIDTH="12" VPOS="1501" HPOS="252"/>
+							<String ID="string_318" HPOS="264" VPOS="1501" WIDTH="198" HEIGHT="27" WC="0.91" CONTENT="barnavårdslagen"/><SP WIDTH="11" VPOS="1501" HPOS="462"/>
+							<String ID="string_319" HPOS="473" VPOS="1507" WIDTH="29" HEIGHT="15" WC="0.92" CONTENT="m."/><SP WIDTH="10" VPOS="1507" HPOS="502"/>
+							<String ID="string_320" HPOS="512" VPOS="1507" WIDTH="28" HEIGHT="14" WC="0.92" CONTENT="m."/><SP WIDTH="15" VPOS="1507" HPOS="540"/>
+							<String ID="string_321" HPOS="555" VPOS="1502" WIDTH="38" HEIGHT="19" WC="0.95" CONTENT="160"/><SP WIDTH="9" VPOS="1502" HPOS="593"/>
+							<String ID="string_322" HPOS="602" VPOS="1502" WIDTH="41" HEIGHT="20" WC="0.96" CONTENT="000"/><SP WIDTH="10" VPOS="1502" HPOS="643"/>
+							<String ID="string_323" HPOS="653" VPOS="1502" WIDTH="32" HEIGHT="19" WC="0.93" CONTENT="kr."/><SP WIDTH="13" VPOS="1502" HPOS="685"/>
+							<String ID="string_324" HPOS="698" VPOS="1502" WIDTH="33" HEIGHT="26" WC="0.92" CONTENT="(f)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_19" HPOS="186" VPOS="1531" WIDTH="889" HEIGHT="56">
+						<TextLine ID="line_38" HPOS="215" VPOS="1531" WIDTH="860" HEIGHT="27">
+							<String ID="string_325" HPOS="215" VPOS="1531" WIDTH="31" HEIGHT="20" WC="0.93" CONTENT="13."/><SP WIDTH="18" VPOS="1531" HPOS="246"/>
+							<String ID="string_326" HPOS="264" VPOS="1531" WIDTH="42" HEIGHT="20" WC="0.91" CONTENT="RD"/><SP WIDTH="11" VPOS="1531" HPOS="306"/>
+							<String ID="string_327" HPOS="317" VPOS="1531" WIDTH="88" HEIGHT="20" WC="0.95" CONTENT="anvisar"/><SP WIDTH="11" VPOS="1531" HPOS="405"/>
+							<String ID="string_328" HPOS="416" VPOS="1531" WIDTH="32" HEIGHT="20" WC="0.95" CONTENT="till"/><SP WIDTH="11" VPOS="1531" HPOS="448"/>
+							<String ID="string_329" HPOS="459" VPOS="1531" WIDTH="76" HEIGHT="26" WC="0.96" CONTENT="bidrag"/><SP WIDTH="11" VPOS="1531" HPOS="535"/>
+							<String ID="string_330" HPOS="546" VPOS="1531" WIDTH="32" HEIGHT="20" WC="0.96" CONTENT="till"/><SP WIDTH="12" VPOS="1531" HPOS="578"/>
+							<String ID="string_331" HPOS="590" VPOS="1531" WIDTH="135" HEIGHT="27" WC="0.96" CONTENT="uppförande"/><SP WIDTH="11" VPOS="1531" HPOS="725"/>
+							<String ID="string_332" HPOS="736" VPOS="1531" WIDTH="50" HEIGHT="20" WC="0.96" CONTENT="eller"/><SP WIDTH="10" VPOS="1531" HPOS="786"/>
+							<String ID="string_333" HPOS="796" VPOS="1531" WIDTH="125" HEIGHT="20" WC="0.95" CONTENT="inrättande"/><SP WIDTH="11" VPOS="1531" HPOS="921"/>
+							<String ID="string_334" HPOS="932" VPOS="1537" WIDTH="28" HEIGHT="14" WC="0.96" CONTENT="av"/><SP WIDTH="11" VPOS="1537" HPOS="960"/>
+							<String ID="string_335" HPOS="971" VPOS="1532" WIDTH="104" HEIGHT="19" WC="0.96" CONTENT="barnhem"/>
+						</TextLine>
+						<TextLine ID="line_39" HPOS="186" VPOS="1560" WIDTH="137" HEIGHT="27">
+							<String ID="string_336" HPOS="186" VPOS="1560" WIDTH="40" HEIGHT="20" WC="0.96" CONTENT="100"/><SP WIDTH="14" VPOS="1560" HPOS="226"/>
+							<String ID="string_337" HPOS="240" VPOS="1561" WIDTH="32" HEIGHT="19" WC="0.93" CONTENT="kr."/><SP WIDTH="16" VPOS="1561" HPOS="272"/>
+							<String ID="string_338" HPOS="288" VPOS="1560" WIDTH="35" HEIGHT="27" WC="0.90" CONTENT="(r)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_20" HPOS="215" VPOS="1590" WIDTH="860" HEIGHT="27">
+						<TextLine ID="line_40" HPOS="215" VPOS="1590" WIDTH="860" HEIGHT="27">
+							<String ID="string_339" HPOS="215" VPOS="1590" WIDTH="31" HEIGHT="20" WC="0.92" CONTENT="14."/><SP WIDTH="18" VPOS="1590" HPOS="246"/>
+							<String ID="string_340" HPOS="264" VPOS="1590" WIDTH="41" HEIGHT="20" WC="0.92" CONTENT="RD"/><SP WIDTH="16" VPOS="1590" HPOS="305"/>
+							<String ID="string_341" HPOS="321" VPOS="1590" WIDTH="88" HEIGHT="20" WC="0.96" CONTENT="anvisar"/><SP WIDTH="15" VPOS="1590" HPOS="409"/>
+							<String ID="string_342" HPOS="424" VPOS="1590" WIDTH="32" HEIGHT="21" WC="0.96" CONTENT="till"/><SP WIDTH="15" VPOS="1590" HPOS="456"/>
+							<String ID="string_343" HPOS="471" VPOS="1590" WIDTH="76" HEIGHT="27" WC="0.96" CONTENT="bidrag"/><SP WIDTH="15" VPOS="1590" HPOS="547"/>
+							<String ID="string_344" HPOS="562" VPOS="1590" WIDTH="32" HEIGHT="21" WC="0.95" CONTENT="till"/><SP WIDTH="16" VPOS="1590" HPOS="594"/>
+							<String ID="string_345" HPOS="610" VPOS="1591" WIDTH="80" HEIGHT="20" WC="0.96" CONTENT="driften"/><SP WIDTH="15" VPOS="1591" HPOS="690"/>
+							<String ID="string_346" HPOS="705" VPOS="1597" WIDTH="28" HEIGHT="14" WC="0.96" CONTENT="av"/><SP WIDTH="15" VPOS="1597" HPOS="733"/>
+							<String ID="string_347" HPOS="748" VPOS="1591" WIDTH="104" HEIGHT="20" WC="0.96" CONTENT="barnhem"/><SP WIDTH="16" VPOS="1591" HPOS="852"/>
+							<String ID="string_348" HPOS="868" VPOS="1591" WIDTH="12" HEIGHT="20" WC="0.96" CONTENT="3"/><SP WIDTH="0" VPOS="1591" HPOS="880"/>
+							<String ID="string_349" HPOS="880" VPOS="1586" WIDTH="49" HEIGHT="35" WC="0.96" CONTENT="000"/><SP WIDTH="-1" VPOS="1586" HPOS="929"/>
+							<String ID="string_350" HPOS="928" VPOS="1586" WIDTH="49" HEIGHT="35" WC="0.96" CONTENT="000"/><SP WIDTH="17" VPOS="1586" HPOS="977"/>
+							<String ID="string_351" HPOS="994" VPOS="1591" WIDTH="32" HEIGHT="20" WC="0.93" CONTENT="kr."/><SP WIDTH="16" VPOS="1591" HPOS="1026"/>
+							<String ID="string_352" HPOS="1042" VPOS="1591" WIDTH="33" HEIGHT="25" WC="0.90" CONTENT="(f)."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_11" HPOS="184" VPOS="1649" WIDTH="893" HEIGHT="474">
+					<TextBlock ID="block_21" HPOS="184" VPOS="1649" WIDTH="893" HEIGHT="56">
+						<TextLine ID="line_41" HPOS="216" VPOS="1649" WIDTH="861" HEIGHT="27">
+							<String ID="string_353" HPOS="216" VPOS="1649" WIDTH="30" HEIGHT="20" WC="0.90" CONTENT="15."/><SP WIDTH="18" VPOS="1649" HPOS="246"/>
+							<String ID="string_354" HPOS="264" VPOS="1649" WIDTH="41" HEIGHT="20" WC="0.90" CONTENT="RD"/><SP WIDTH="13" VPOS="1649" HPOS="305"/>
+							<String ID="string_355" HPOS="318" VPOS="1649" WIDTH="87" HEIGHT="20" WC="0.96" CONTENT="anvisar"/><SP WIDTH="11" VPOS="1649" HPOS="405"/>
+							<String ID="string_356" HPOS="416" VPOS="1649" WIDTH="32" HEIGHT="20" WC="0.96" CONTENT="till"/><SP WIDTH="12" VPOS="1649" HPOS="448"/>
+							<String ID="string_357" HPOS="460" VPOS="1649" WIDTH="76" HEIGHT="27" WC="0.96" CONTENT="bidrag"/><SP WIDTH="12" VPOS="1649" HPOS="536"/>
+							<String ID="string_358" HPOS="548" VPOS="1650" WIDTH="32" HEIGHT="20" WC="0.95" CONTENT="till"/><SP WIDTH="12" VPOS="1650" HPOS="580"/>
+							<String ID="string_359" HPOS="592" VPOS="1650" WIDTH="79" HEIGHT="20" WC="0.96" CONTENT="driften"/><SP WIDTH="12" VPOS="1650" HPOS="671"/>
+							<String ID="string_360" HPOS="683" VPOS="1656" WIDTH="28" HEIGHT="14" WC="0.96" CONTENT="av"/><SP WIDTH="12" VPOS="1656" HPOS="711"/>
+							<String ID="string_361" HPOS="723" VPOS="1650" WIDTH="152" HEIGHT="20" WC="0.92" CONTENT="barnkolonier"/><SP WIDTH="10" VPOS="1650" HPOS="875"/>
+							<String ID="string_362" HPOS="885" VPOS="1656" WIDTH="29" HEIGHT="14" WC="0.90" CONTENT="m."/><SP WIDTH="10" VPOS="1656" HPOS="914"/>
+							<String ID="string_363" HPOS="924" VPOS="1656" WIDTH="28" HEIGHT="14" WC="0.89" CONTENT="m."/><SP WIDTH="15" VPOS="1656" HPOS="952"/>
+							<String ID="string_364" HPOS="967" VPOS="1650" WIDTH="8" HEIGHT="20" WC="0.65" CONTENT="1"/><SP WIDTH="12" VPOS="1650" HPOS="975"/>
+							<String ID="string_365" HPOS="987" VPOS="1650" WIDTH="40" HEIGHT="20" WC="0.65" CONTENT="500"/><SP WIDTH="9" VPOS="1650" HPOS="1027"/>
+							<String ID="string_366" HPOS="1036" VPOS="1650" WIDTH="41" HEIGHT="20" WC="0.96" CONTENT="000"/>
+						</TextLine>
+						<TextLine ID="line_42" HPOS="184" VPOS="1679" WIDTH="84" HEIGHT="26">
+							<String ID="string_367" HPOS="184" VPOS="1679" WIDTH="32" HEIGHT="20" WC="0.13" CONTENT="kr"/><SP WIDTH="17" VPOS="1679" HPOS="216"/>
+							<String ID="string_368" HPOS="233" VPOS="1679" WIDTH="35" HEIGHT="26" WC="0.13" CONTENT="(0:"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_22" HPOS="184" VPOS="1709" WIDTH="893" HEIGHT="116">
+						<TextLine ID="line_43" HPOS="215" VPOS="1709" WIDTH="862" HEIGHT="26">
+							<String ID="string_369" HPOS="215" VPOS="1709" WIDTH="31" HEIGHT="19" WC="0.93" CONTENT="16."/><SP WIDTH="18" VPOS="1709" HPOS="246"/>
+							<String ID="string_370" HPOS="264" VPOS="1709" WIDTH="41" HEIGHT="20" WC="0.90" CONTENT="RD"/><SP WIDTH="12" VPOS="1709" HPOS="305"/>
+							<String ID="string_371" HPOS="317" VPOS="1709" WIDTH="127" HEIGHT="26" WC="0.96" CONTENT="godkänner"/><SP WIDTH="11" VPOS="1709" HPOS="444"/>
+							<String ID="string_372" HPOS="455" VPOS="1711" WIDTH="35" HEIGHT="18" WC="0.96" CONTENT="att"/><SP WIDTH="12" VPOS="1711" HPOS="490"/>
+							<String ID="string_373" HPOS="502" VPOS="1709" WIDTH="95" HEIGHT="26" WC="0.96" CONTENT="reglerna"/><SP WIDTH="13" VPOS="1709" HPOS="597"/>
+							<String ID="string_374" HPOS="610" VPOS="1711" WIDTH="40" HEIGHT="18" WC="0.95" CONTENT="rör."/><SP WIDTH="13" VPOS="1711" HPOS="650"/>
+							<String ID="string_375" HPOS="663" VPOS="1709" WIDTH="40" HEIGHT="20" WC="0.96" CONTENT="fria"/><SP WIDTH="12" VPOS="1709" HPOS="703"/>
+							<String ID="string_376" HPOS="715" VPOS="1715" WIDTH="58" HEIGHT="14" WC="0.96" CONTENT="resor"/><SP WIDTH="11" VPOS="1715" HPOS="773"/>
+							<String ID="string_377" HPOS="784" VPOS="1710" WIDTH="34" HEIGHT="20" WC="0.96" CONTENT="för"/><SP WIDTH="11" VPOS="1710" HPOS="818"/>
+							<String ID="string_378" HPOS="829" VPOS="1710" WIDTH="54" HEIGHT="19" WC="0.96" CONTENT="barn"/><SP WIDTH="13" VPOS="1710" HPOS="883"/>
+							<String ID="string_379" HPOS="896" VPOS="1710" WIDTH="40" HEIGHT="19" WC="0.93" CONTENT="och"/><SP WIDTH="12" VPOS="1710" HPOS="936"/>
+							<String ID="string_380" HPOS="948" VPOS="1710" WIDTH="129" HEIGHT="20" WC="0.91" CONTENT="husmödrar"/>
+						</TextLine>
+						<TextLine ID="line_44" HPOS="185" VPOS="1738" WIDTH="890" HEIGHT="27">
+							<String ID="string_381" HPOS="185" VPOS="1739" WIDTH="79" HEIGHT="20" WC="0.96" CONTENT="ändras"/><SP WIDTH="18" VPOS="1739" HPOS="264"/>
+							<String ID="string_382" HPOS="282" VPOS="1738" WIDTH="7" HEIGHT="21" WC="0.96" CONTENT="i"/><SP WIDTH="19" VPOS="1738" HPOS="289"/>
+							<String ID="string_383" HPOS="308" VPOS="1739" WIDTH="146" HEIGHT="26" WC="0.96" CONTENT="huvudsaklig"/><SP WIDTH="18" VPOS="1739" HPOS="454"/>
+							<String ID="string_384" HPOS="472" VPOS="1739" WIDTH="215" HEIGHT="20" WC="0.96" CONTENT="överensstämmelse"/><SP WIDTH="18" VPOS="1739" HPOS="687"/>
+							<String ID="string_385" HPOS="705" VPOS="1739" WIDTH="49" HEIGHT="20" WC="0.96" CONTENT="med"/><SP WIDTH="20" VPOS="1739" HPOS="754"/>
+							<String ID="string_386" HPOS="774" VPOS="1739" WIDTH="43" HEIGHT="20" WC="0.93" CONTENT="vad"/><SP WIDTH="19" VPOS="1739" HPOS="817"/>
+							<String ID="string_387" HPOS="836" VPOS="1739" WIDTH="239" HEIGHT="26" WC="0.91" CONTENT="departementschefen"/>
+						</TextLine>
+						<TextLine ID="line_45" HPOS="184" VPOS="1768" WIDTH="893" HEIGHT="27">
+							<String ID="string_388" HPOS="184" VPOS="1768" WIDTH="100" HEIGHT="21" WC="0.96" CONTENT="förordat"/><SP WIDTH="10" VPOS="1768" HPOS="284"/>
+							<String ID="string_389" HPOS="294" VPOS="1770" WIDTH="58" HEIGHT="18" WC="0.95" CONTENT="samt"/><SP WIDTH="10" VPOS="1770" HPOS="352"/>
+							<String ID="string_390" HPOS="362" VPOS="1768" WIDTH="88" HEIGHT="21" WC="0.95" CONTENT="anvisar"/><SP WIDTH="10" VPOS="1768" HPOS="450"/>
+							<String ID="string_391" HPOS="460" VPOS="1768" WIDTH="33" HEIGHT="21" WC="0.96" CONTENT="till"/><SP WIDTH="10" VPOS="1768" HPOS="493"/>
+							<String ID="string_392" HPOS="503" VPOS="1768" WIDTH="41" HEIGHT="21" WC="0.95" CONTENT="fria"/><SP WIDTH="11" VPOS="1768" HPOS="544"/>
+							<String ID="string_393" HPOS="555" VPOS="1775" WIDTH="58" HEIGHT="14" WC="0.95" CONTENT="resor"/><SP WIDTH="9" VPOS="1775" HPOS="613"/>
+							<String ID="string_394" HPOS="622" VPOS="1769" WIDTH="34" HEIGHT="20" WC="0.96" CONTENT="för"/><SP WIDTH="10" VPOS="1769" HPOS="656"/>
+							<String ID="string_395" HPOS="666" VPOS="1769" WIDTH="54" HEIGHT="20" WC="0.96" CONTENT="barn"/><SP WIDTH="11" VPOS="1769" HPOS="720"/>
+							<String ID="string_396" HPOS="731" VPOS="1769" WIDTH="11" HEIGHT="19" WC="0.96" CONTENT="4"/><SP WIDTH="10" VPOS="1769" HPOS="742"/>
+							<String ID="string_397" HPOS="752" VPOS="1769" WIDTH="41" HEIGHT="20" WC="0.96" CONTENT="000"/><SP WIDTH="9" VPOS="1769" HPOS="793"/>
+							<String ID="string_398" HPOS="802" VPOS="1769" WIDTH="41" HEIGHT="20" WC="0.96" CONTENT="000"/><SP WIDTH="10" VPOS="1769" HPOS="843"/>
+							<String ID="string_399" HPOS="853" VPOS="1769" WIDTH="32" HEIGHT="20" WC="0.93" CONTENT="kr."/><SP WIDTH="12" VPOS="1769" HPOS="885"/>
+							<String ID="string_400" HPOS="897" VPOS="1769" WIDTH="26" HEIGHT="26" WC="0.87" CONTENT="(f)"/><SP WIDTH="11" VPOS="1769" HPOS="923"/>
+							<String ID="string_401" HPOS="934" VPOS="1770" WIDTH="58" HEIGHT="19" WC="0.95" CONTENT="samt"/><SP WIDTH="10" VPOS="1770" HPOS="992"/>
+							<String ID="string_402" HPOS="1002" VPOS="1769" WIDTH="32" HEIGHT="20" WC="0.93" CONTENT="till"/><SP WIDTH="12" VPOS="1769" HPOS="1034"/>
+							<String ID="string_403" HPOS="1046" VPOS="1769" WIDTH="31" HEIGHT="20" WC="0.92" CONTENT="bi-"/>
+						</TextLine>
+						<TextLine ID="line_46" HPOS="185" VPOS="1798" WIDTH="570" HEIGHT="27">
+							<String ID="string_404" HPOS="185" VPOS="1798" WIDTH="54" HEIGHT="26" WC="0.96" CONTENT="drag"/><SP WIDTH="14" VPOS="1798" HPOS="239"/>
+							<String ID="string_405" HPOS="253" VPOS="1798" WIDTH="32" HEIGHT="20" WC="0.92" CONTENT="till"/><SP WIDTH="15" VPOS="1798" HPOS="285"/>
+							<String ID="string_406" HPOS="300" VPOS="1798" WIDTH="235" HEIGHT="21" WC="0.92" CONTENT="husmodersemestern"/><SP WIDTH="14" VPOS="1798" HPOS="535"/>
+							<String ID="string_407" HPOS="549" VPOS="1799" WIDTH="13" HEIGHT="20" WC="0.96" CONTENT="2"/><SP WIDTH="9" VPOS="1799" HPOS="562"/>
+							<String ID="string_408" HPOS="571" VPOS="1799" WIDTH="41" HEIGHT="20" WC="0.95" CONTENT="350"/><SP WIDTH="8" VPOS="1799" HPOS="612"/>
+							<String ID="string_409" HPOS="620" VPOS="1799" WIDTH="41" HEIGHT="20" WC="0.96" CONTENT="000"/><SP WIDTH="14" VPOS="1799" HPOS="661"/>
+							<String ID="string_410" HPOS="675" VPOS="1799" WIDTH="32" HEIGHT="19" WC="0.91" CONTENT="kr."/><SP WIDTH="15" VPOS="1799" HPOS="707"/>
+							<String ID="string_411" HPOS="722" VPOS="1799" WIDTH="33" HEIGHT="26" WC="0.90" CONTENT="(f)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_23" HPOS="185" VPOS="1828" WIDTH="892" HEIGHT="235">
+						<TextLine ID="line_47" HPOS="214" VPOS="1828" WIDTH="862" HEIGHT="27">
+							<String ID="string_412" HPOS="214" VPOS="1828" WIDTH="32" HEIGHT="20" WC="0.93" CONTENT="17."/><SP WIDTH="18" VPOS="1828" HPOS="246"/>
+							<String ID="string_413" HPOS="264" VPOS="1828" WIDTH="41" HEIGHT="20" WC="0.87" CONTENT="RD"/><SP WIDTH="15" VPOS="1828" HPOS="305"/>
+							<String ID="string_414" HPOS="320" VPOS="1828" WIDTH="118" HEIGHT="26" WC="0.89" CONTENT="medgiver,"/><SP WIDTH="15" VPOS="1828" HPOS="438"/>
+							<String ID="string_415" HPOS="453" VPOS="1830" WIDTH="35" HEIGHT="18" WC="0.96" CONTENT="att"/><SP WIDTH="14" VPOS="1830" HPOS="488"/>
+							<String ID="string_416" HPOS="502" VPOS="1829" WIDTH="69" HEIGHT="19" WC="0.96" CONTENT="under"/><SP WIDTH="14" VPOS="1829" HPOS="571"/>
+							<String ID="string_417" HPOS="585" VPOS="1829" WIDTH="130" HEIGHT="26" WC="0.93" CONTENT="budgetåret"/><SP WIDTH="16" VPOS="1829" HPOS="715"/>
+							<String ID="string_418" HPOS="731" VPOS="1828" WIDTH="89" HEIGHT="26" WC="0.92" CONTENT="1948/49"/><SP WIDTH="15" VPOS="1828" HPOS="820"/>
+							<String ID="string_419" HPOS="835" VPOS="1829" WIDTH="42" HEIGHT="22" WC="0.96" CONTENT="må,"/><SP WIDTH="16" VPOS="1829" HPOS="877"/>
+							<String ID="string_420" HPOS="893" VPOS="1830" WIDTH="78" HEIGHT="19" WC="0.96" CONTENT="utöver"/><SP WIDTH="14" VPOS="1830" HPOS="971"/>
+							<String ID="string_421" HPOS="985" VPOS="1828" WIDTH="91" HEIGHT="27" WC="0.96" CONTENT="tidigare"/>
+						</TextLine>
+						<TextLine ID="line_48" HPOS="185" VPOS="1857" WIDTH="891" HEIGHT="28">
+							<String ID="string_422" HPOS="185" VPOS="1857" WIDTH="111" HEIGHT="27" WC="0.92" CONTENT="medgivet"/><SP WIDTH="8" VPOS="1857" HPOS="296"/>
+							<String ID="string_423" HPOS="304" VPOS="1858" WIDTH="78" HEIGHT="26" WC="0.96" CONTENT="belopp"/><SP WIDTH="9" VPOS="1858" HPOS="382"/>
+							<String ID="string_424" HPOS="391" VPOS="1864" WIDTH="28" HEIGHT="14" WC="0.96" CONTENT="av"/><SP WIDTH="11" VPOS="1864" HPOS="419"/>
+							<String ID="string_425" HPOS="430" VPOS="1858" WIDTH="8" HEIGHT="20" WC="0.85" CONTENT="1"/><SP WIDTH="12" VPOS="1858" HPOS="438"/>
+							<String ID="string_426" HPOS="450" VPOS="1858" WIDTH="40" HEIGHT="20" WC="0.85" CONTENT="550"/><SP WIDTH="9" VPOS="1858" HPOS="490"/>
+							<String ID="string_427" HPOS="499" VPOS="1858" WIDTH="41" HEIGHT="21" WC="0.93" CONTENT="000"/><SP WIDTH="7" VPOS="1858" HPOS="540"/>
+							<String ID="string_428" HPOS="547" VPOS="1858" WIDTH="41" HEIGHT="24" WC="0.91" CONTENT="kr.,"/><SP WIDTH="9" VPOS="1858" HPOS="588"/>
+							<String ID="string_429" HPOS="597" VPOS="1864" WIDTH="28" HEIGHT="14" WC="0.93" CONTENT="av"/><SP WIDTH="9" VPOS="1864" HPOS="625"/>
+							<String ID="string_430" HPOS="634" VPOS="1858" WIDTH="126" HEIGHT="21" WC="0.92" CONTENT="statsmedel"/><SP WIDTH="10" VPOS="1858" HPOS="760"/>
+							<String ID="string_431" HPOS="770" VPOS="1858" WIDTH="91" HEIGHT="26" WC="0.96" CONTENT="beviljas"/><SP WIDTH="9" VPOS="1858" HPOS="861"/>
+							<String ID="string_432" HPOS="870" VPOS="1858" WIDTH="76" HEIGHT="27" WC="0.96" CONTENT="bidrag"/><SP WIDTH="8" VPOS="1858" HPOS="946"/>
+							<String ID="string_433" HPOS="954" VPOS="1858" WIDTH="33" HEIGHT="21" WC="0.96" CONTENT="till"/><SP WIDTH="9" VPOS="1858" HPOS="987"/>
+							<String ID="string_434" HPOS="996" VPOS="1858" WIDTH="80" HEIGHT="20" WC="0.96" CONTENT="driften"/>
+						</TextLine>
+						<TextLine ID="line_49" HPOS="185" VPOS="1887" WIDTH="890" HEIGHT="27">
+							<String ID="string_435" HPOS="185" VPOS="1893" WIDTH="28" HEIGHT="14" WC="0.96" CONTENT="av"/><SP WIDTH="10" VPOS="1893" HPOS="213"/>
+							<String ID="string_436" HPOS="223" VPOS="1887" WIDTH="106" HEIGHT="20" WC="0.96" CONTENT="anstalter"/><SP WIDTH="10" VPOS="1887" HPOS="329"/>
+							<String ID="string_437" HPOS="339" VPOS="1888" WIDTH="33" HEIGHT="20" WC="0.93" CONTENT="för"/><SP WIDTH="10" VPOS="1888" HPOS="372"/>
+							<String ID="string_438" HPOS="382" VPOS="1888" WIDTH="123" HEIGHT="26" WC="0.92" CONTENT="halvöppen"/><SP WIDTH="11" VPOS="1888" HPOS="505"/>
+							<String ID="string_439" HPOS="516" VPOS="1888" WIDTH="123" HEIGHT="20" WC="0.96" CONTENT="barnavård"/><SP WIDTH="10" VPOS="1888" HPOS="639"/>
+							<String ID="string_440" HPOS="649" VPOS="1888" WIDTH="33" HEIGHT="20" WC="0.96" CONTENT="till"/><SP WIDTH="10" VPOS="1888" HPOS="682"/>
+							<String ID="string_441" HPOS="692" VPOS="1889" WIDTH="34" HEIGHT="19" WC="0.96" CONTENT="ett"/><SP WIDTH="10" VPOS="1889" HPOS="726"/>
+							<String ID="string_442" HPOS="736" VPOS="1888" WIDTH="78" HEIGHT="26" WC="0.95" CONTENT="belopp"/><SP WIDTH="10" VPOS="1888" HPOS="814"/>
+							<String ID="string_443" HPOS="824" VPOS="1894" WIDTH="28" HEIGHT="14" WC="0.96" CONTENT="av"/><SP WIDTH="10" VPOS="1894" HPOS="852"/>
+							<String ID="string_444" HPOS="862" VPOS="1888" WIDTH="64" HEIGHT="26" WC="0.96" CONTENT="högst"/><SP WIDTH="10" VPOS="1888" HPOS="926"/>
+							<String ID="string_445" HPOS="936" VPOS="1888" WIDTH="40" HEIGHT="20" WC="0.96" CONTENT="240"/><SP WIDTH="9" VPOS="1888" HPOS="976"/>
+							<String ID="string_446" HPOS="985" VPOS="1888" WIDTH="41" HEIGHT="20" WC="0.93" CONTENT="000"/><SP WIDTH="10" VPOS="1888" HPOS="1026"/>
+							<String ID="string_447" HPOS="1036" VPOS="1888" WIDTH="39" HEIGHT="22" WC="0.92" CONTENT="kr.,"/>
+						</TextLine>
+						<TextLine ID="line_50" HPOS="185" VPOS="1918" WIDTH="890" HEIGHT="26">
+							<String ID="string_448" HPOS="185" VPOS="1918" WIDTH="58" HEIGHT="19" WC="0.96" CONTENT="samt"/><SP WIDTH="8" VPOS="1918" HPOS="243"/>
+							<String ID="string_449" HPOS="251" VPOS="1918" WIDTH="35" HEIGHT="19" WC="0.96" CONTENT="att"/><SP WIDTH="9" VPOS="1918" HPOS="286"/>
+							<String ID="string_450" HPOS="295" VPOS="1918" WIDTH="69" HEIGHT="19" WC="0.96" CONTENT="under"/><SP WIDTH="8" VPOS="1918" HPOS="364"/>
+							<String ID="string_451" HPOS="372" VPOS="1918" WIDTH="131" HEIGHT="26" WC="0.93" CONTENT="budgetåret"/><SP WIDTH="11" VPOS="1918" HPOS="503"/>
+							<String ID="string_452" HPOS="514" VPOS="1918" WIDTH="89" HEIGHT="26" WC="0.92" CONTENT="1949/50"/><SP WIDTH="9" VPOS="1918" HPOS="603"/>
+							<String ID="string_453" HPOS="612" VPOS="1918" WIDTH="35" HEIGHT="20" WC="0.96" CONTENT="må"/><SP WIDTH="8" VPOS="1918" HPOS="647"/>
+							<String ID="string_454" HPOS="655" VPOS="1918" WIDTH="32" HEIGHT="20" WC="0.96" CONTENT="till"/><SP WIDTH="8" VPOS="1918" HPOS="687"/>
+							<String ID="string_455" HPOS="695" VPOS="1919" WIDTH="33" HEIGHT="19" WC="0.96" CONTENT="ett"/><SP WIDTH="8" VPOS="1919" HPOS="728"/>
+							<String ID="string_456" HPOS="736" VPOS="1918" WIDTH="77" HEIGHT="26" WC="0.96" CONTENT="belopp"/><SP WIDTH="8" VPOS="1918" HPOS="813"/>
+							<String ID="string_457" HPOS="821" VPOS="1924" WIDTH="28" HEIGHT="14" WC="0.96" CONTENT="av"/><SP WIDTH="8" VPOS="1924" HPOS="849"/>
+							<String ID="string_458" HPOS="857" VPOS="1918" WIDTH="64" HEIGHT="26" WC="0.96" CONTENT="högst"/><SP WIDTH="7" VPOS="1918" HPOS="921"/>
+							<String ID="string_459" HPOS="928" VPOS="1918" WIDTH="13" HEIGHT="20" WC="0.90" CONTENT="2"/><SP WIDTH="7" VPOS="1918" HPOS="941"/>
+							<String ID="string_460" HPOS="948" VPOS="1918" WIDTH="41" HEIGHT="20" WC="0.90" CONTENT="000"/><SP WIDTH="6" VPOS="1918" HPOS="989"/>
+							<String ID="string_461" HPOS="995" VPOS="1918" WIDTH="41" HEIGHT="20" WC="0.96" CONTENT="000"/><SP WIDTH="8" VPOS="1918" HPOS="1036"/>
+							<String ID="string_462" HPOS="1044" VPOS="1918" WIDTH="31" HEIGHT="20" WC="0.96" CONTENT="kr."/>
+						</TextLine>
+						<TextLine ID="line_51" HPOS="185" VPOS="1947" WIDTH="892" HEIGHT="27">
+							<String ID="string_463" HPOS="185" VPOS="1953" WIDTH="28" HEIGHT="14" WC="0.93" CONTENT="av"/><SP WIDTH="9" VPOS="1953" HPOS="213"/>
+							<String ID="string_464" HPOS="222" VPOS="1947" WIDTH="127" HEIGHT="20" WC="0.91" CONTENT="statsmedel"/><SP WIDTH="9" VPOS="1947" HPOS="349"/>
+							<String ID="string_465" HPOS="358" VPOS="1947" WIDTH="91" HEIGHT="26" WC="0.96" CONTENT="beviljas"/><SP WIDTH="9" VPOS="1947" HPOS="449"/>
+							<String ID="string_466" HPOS="458" VPOS="1947" WIDTH="76" HEIGHT="27" WC="0.96" CONTENT="bidrag"/><SP WIDTH="9" VPOS="1947" HPOS="534"/>
+							<String ID="string_467" HPOS="543" VPOS="1948" WIDTH="33" HEIGHT="20" WC="0.96" CONTENT="till"/><SP WIDTH="9" VPOS="1948" HPOS="576"/>
+							<String ID="string_468" HPOS="585" VPOS="1948" WIDTH="79" HEIGHT="20" WC="0.96" CONTENT="driften"/><SP WIDTH="10" VPOS="1948" HPOS="664"/>
+							<String ID="string_469" HPOS="674" VPOS="1954" WIDTH="27" HEIGHT="14" WC="0.96" CONTENT="av"/><SP WIDTH="9" VPOS="1954" HPOS="701"/>
+							<String ID="string_470" HPOS="710" VPOS="1948" WIDTH="106" HEIGHT="20" WC="0.96" CONTENT="anstalter"/><SP WIDTH="9" VPOS="1948" HPOS="816"/>
+							<String ID="string_471" HPOS="825" VPOS="1948" WIDTH="33" HEIGHT="20" WC="0.93" CONTENT="för"/><SP WIDTH="8" VPOS="1948" HPOS="858"/>
+							<String ID="string_472" HPOS="866" VPOS="1948" WIDTH="123" HEIGHT="26" WC="0.91" CONTENT="halvöppen"/><SP WIDTH="11" VPOS="1948" HPOS="989"/>
+							<String ID="string_473" HPOS="1000" VPOS="1948" WIDTH="77" HEIGHT="20" WC="0.91" CONTENT="barna-"/>
+						</TextLine>
+						<TextLine ID="line_52" HPOS="185" VPOS="1977" WIDTH="891" HEIGHT="27">
+							<String ID="string_474" HPOS="185" VPOS="1977" WIDTH="61" HEIGHT="23" WC="0.96" CONTENT="vård;"/><SP WIDTH="15" VPOS="1977" HPOS="246"/>
+							<String ID="string_475" HPOS="261" VPOS="1977" WIDTH="40" HEIGHT="20" WC="0.96" CONTENT="och"/><SP WIDTH="13" VPOS="1977" HPOS="301"/>
+							<String ID="string_476" HPOS="314" VPOS="1977" WIDTH="88" HEIGHT="20" WC="0.92" CONTENT="anvisar"/><SP WIDTH="13" VPOS="1977" HPOS="402"/>
+							<String ID="string_477" HPOS="415" VPOS="1978" WIDTH="42" HEIGHT="19" WC="0.90" CONTENT="RD"/><SP WIDTH="14" VPOS="1978" HPOS="457"/>
+							<String ID="string_478" HPOS="471" VPOS="1977" WIDTH="33" HEIGHT="20" WC="0.96" CONTENT="till"/><SP WIDTH="13" VPOS="1977" HPOS="504"/>
+							<String ID="string_479" HPOS="517" VPOS="1978" WIDTH="77" HEIGHT="26" WC="0.96" CONTENT="bidrag"/><SP WIDTH="12" VPOS="1978" HPOS="594"/>
+							<String ID="string_480" HPOS="606" VPOS="1977" WIDTH="33" HEIGHT="21" WC="0.96" CONTENT="till"/><SP WIDTH="14" VPOS="1977" HPOS="639"/>
+							<String ID="string_481" HPOS="653" VPOS="1977" WIDTH="80" HEIGHT="21" WC="0.96" CONTENT="driften"/><SP WIDTH="13" VPOS="1977" HPOS="733"/>
+							<String ID="string_482" HPOS="746" VPOS="1984" WIDTH="28" HEIGHT="14" WC="0.96" CONTENT="av"/><SP WIDTH="13" VPOS="1984" HPOS="774"/>
+							<String ID="string_483" HPOS="787" VPOS="1978" WIDTH="107" HEIGHT="20" WC="0.96" CONTENT="anstalter"/><SP WIDTH="12" VPOS="1978" HPOS="894"/>
+							<String ID="string_484" HPOS="906" VPOS="1978" WIDTH="34" HEIGHT="20" WC="0.93" CONTENT="för"/><SP WIDTH="13" VPOS="1978" HPOS="940"/>
+							<String ID="string_485" HPOS="953" VPOS="1977" WIDTH="123" HEIGHT="27" WC="0.92" CONTENT="halvöppen"/>
+						</TextLine>
+						<TextLine ID="line_53" HPOS="185" VPOS="2007" WIDTH="892" HEIGHT="27">
+							<String ID="string_486" HPOS="185" VPOS="2007" WIDTH="124" HEIGHT="20" WC="0.96" CONTENT="barnavård"/><SP WIDTH="13" VPOS="2007" HPOS="309"/>
+							<String ID="string_487" HPOS="322" VPOS="2007" WIDTH="8" HEIGHT="20" WC="0.92" CONTENT="1"/><SP WIDTH="11" VPOS="2007" HPOS="330"/>
+							<String ID="string_488" HPOS="341" VPOS="2007" WIDTH="41" HEIGHT="20" WC="0.95" CONTENT="870"/><SP WIDTH="8" VPOS="2007" HPOS="382"/>
+							<String ID="string_489" HPOS="390" VPOS="2007" WIDTH="41" HEIGHT="20" WC="0.95" CONTENT="000"/><SP WIDTH="10" VPOS="2007" HPOS="431"/>
+							<String ID="string_490" HPOS="441" VPOS="2007" WIDTH="32" HEIGHT="20" WC="0.93" CONTENT="kr."/><SP WIDTH="12" VPOS="2007" HPOS="473"/>
+							<String ID="string_491" HPOS="485" VPOS="2007" WIDTH="27" HEIGHT="26" WC="0.91" CONTENT="(r)"/><SP WIDTH="11" VPOS="2007" HPOS="512"/>
+							<String ID="string_492" HPOS="523" VPOS="2009" WIDTH="58" HEIGHT="18" WC="0.96" CONTENT="samt"/><SP WIDTH="9" VPOS="2009" HPOS="581"/>
+							<String ID="string_493" HPOS="590" VPOS="2007" WIDTH="33" HEIGHT="20" WC="0.96" CONTENT="till"/><SP WIDTH="11" VPOS="2007" HPOS="623"/>
+							<String ID="string_494" HPOS="634" VPOS="2007" WIDTH="76" HEIGHT="26" WC="0.96" CONTENT="bidrag"/><SP WIDTH="10" VPOS="2007" HPOS="710"/>
+							<String ID="string_495" HPOS="720" VPOS="2007" WIDTH="32" HEIGHT="20" WC="0.96" CONTENT="till"/><SP WIDTH="11" VPOS="2007" HPOS="752"/>
+							<String ID="string_496" HPOS="763" VPOS="2007" WIDTH="124" HEIGHT="26" WC="0.96" CONTENT="utbildning"/><SP WIDTH="10" VPOS="2007" HPOS="887"/>
+							<String ID="string_497" HPOS="897" VPOS="2013" WIDTH="28" HEIGHT="14" WC="0.96" CONTENT="av"/><SP WIDTH="11" VPOS="2013" HPOS="925"/>
+							<String ID="string_498" HPOS="936" VPOS="2007" WIDTH="99" HEIGHT="27" WC="0.92" CONTENT="personal"/><SP WIDTH="10" VPOS="2007" HPOS="1035"/>
+							<String ID="string_499" HPOS="1045" VPOS="2007" WIDTH="32" HEIGHT="20" WC="0.92" CONTENT="in-"/>
+						</TextLine>
+						<TextLine ID="line_54" HPOS="186" VPOS="2036" WIDTH="657" HEIGHT="27">
+							<String ID="string_500" HPOS="186" VPOS="2042" WIDTH="35" HEIGHT="14" WC="0.96" CONTENT="om"/><SP WIDTH="11" VPOS="2042" HPOS="221"/>
+							<String ID="string_501" HPOS="232" VPOS="2036" WIDTH="41" HEIGHT="20" WC="0.93" CONTENT="den"/><SP WIDTH="12" VPOS="2036" HPOS="273"/>
+							<String ID="string_502" HPOS="285" VPOS="2036" WIDTH="125" HEIGHT="27" WC="0.91" CONTENT="halvöppna"/><SP WIDTH="11" VPOS="2036" HPOS="410"/>
+							<String ID="string_503" HPOS="421" VPOS="2037" WIDTH="152" HEIGHT="20" WC="0.91" CONTENT="barnavården"/><SP WIDTH="11" VPOS="2037" HPOS="573"/>
+							<String ID="string_504" HPOS="584" VPOS="2043" WIDTH="29" HEIGHT="14" WC="0.91" CONTENT="m."/><SP WIDTH="10" VPOS="2043" HPOS="613"/>
+							<String ID="string_505" HPOS="623" VPOS="2043" WIDTH="28" HEIGHT="14" WC="0.90" CONTENT="m."/><SP WIDTH="13" VPOS="2043" HPOS="651"/>
+							<String ID="string_506" HPOS="664" VPOS="2037" WIDTH="40" HEIGHT="20" WC="0.96" CONTENT="300"/><SP WIDTH="9" VPOS="2037" HPOS="704"/>
+							<String ID="string_507" HPOS="713" VPOS="2037" WIDTH="41" HEIGHT="20" WC="0.96" CONTENT="000"/><SP WIDTH="10" VPOS="2037" HPOS="754"/>
+							<String ID="string_508" HPOS="764" VPOS="2037" WIDTH="32" HEIGHT="20" WC="0.92" CONTENT="kr."/><SP WIDTH="12" VPOS="2037" HPOS="796"/>
+							<String ID="string_509" HPOS="808" VPOS="2037" WIDTH="35" HEIGHT="26" WC="0.92" CONTENT="(r)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_24" HPOS="186" VPOS="2066" WIDTH="891" HEIGHT="57">
+						<TextLine ID="line_55" HPOS="215" VPOS="2066" WIDTH="862" HEIGHT="27">
+							<String ID="string_510" HPOS="215" VPOS="2066" WIDTH="32" HEIGHT="20" WC="0.96" CONTENT="18."/><SP WIDTH="18" VPOS="2066" HPOS="247"/>
+							<String ID="string_511" HPOS="265" VPOS="2066" WIDTH="8" HEIGHT="20" WC="0.92" CONTENT="I"/><SP WIDTH="12" VPOS="2066" HPOS="273"/>
+							<String ID="string_512" HPOS="285" VPOS="2066" WIDTH="43" HEIGHT="20" WC="0.92" CONTENT="anl."/><SP WIDTH="13" VPOS="2066" HPOS="328"/>
+							<String ID="string_513" HPOS="341" VPOS="2072" WIDTH="28" HEIGHT="14" WC="0.93" CONTENT="av"/><SP WIDTH="12" VPOS="2072" HPOS="369"/>
+							<String ID="string_514" HPOS="381" VPOS="2066" WIDTH="62" HEIGHT="21" WC="0.89" CONTENT="RD:s"/><SP WIDTH="12" VPOS="2066" HPOS="443"/>
+							<String ID="string_515" HPOS="455" VPOS="2067" WIDTH="115" HEIGHT="20" WC="0.96" CONTENT="revisorers"/><SP WIDTH="12" VPOS="2067" HPOS="570"/>
+							<String ID="string_516" HPOS="582" VPOS="2073" WIDTH="58" HEIGHT="14" WC="0.96" CONTENT="anm."/><SP WIDTH="12" VPOS="2073" HPOS="640"/>
+							<String ID="string_517" HPOS="652" VPOS="2072" WIDTH="49" HEIGHT="21" WC="0.96" CONTENT="ang."/><SP WIDTH="13" VPOS="2072" HPOS="701"/>
+							<String ID="string_518" HPOS="714" VPOS="2067" WIDTH="75" HEIGHT="26" WC="0.96" CONTENT="frågan"/><SP WIDTH="13" VPOS="2067" HPOS="789"/>
+							<String ID="string_519" HPOS="802" VPOS="2073" WIDTH="35" HEIGHT="14" WC="0.95" CONTENT="om"/><SP WIDTH="12" VPOS="2073" HPOS="837"/>
+							<String ID="string_520" HPOS="849" VPOS="2068" WIDTH="34" HEIGHT="19" WC="0.93" CONTENT="ett"/><SP WIDTH="11" VPOS="2068" HPOS="883"/>
+							<String ID="string_521" HPOS="894" VPOS="2067" WIDTH="136" HEIGHT="20" WC="0.91" CONTENT="rationellare"/><SP WIDTH="13" VPOS="2067" HPOS="1030"/>
+							<String ID="string_522" HPOS="1043" VPOS="2068" WIDTH="34" HEIGHT="19" WC="0.92" CONTENT="ut-"/>
+						</TextLine>
+						<TextLine ID="line_56" HPOS="186" VPOS="2096" WIDTH="891" HEIGHT="27">
+							<String ID="string_523" HPOS="186" VPOS="2096" WIDTH="117" HEIGHT="26" WC="0.95" CONTENT="nyttjande"/><SP WIDTH="18" VPOS="2096" HPOS="303"/>
+							<String ID="string_524" HPOS="321" VPOS="2096" WIDTH="40" HEIGHT="20" WC="0.96" CONTENT="och"/><SP WIDTH="17" VPOS="2096" HPOS="361"/>
+							<String ID="string_525" HPOS="378" VPOS="2096" WIDTH="185" HEIGHT="27" WC="0.96" CONTENT="tillvaratagande"/><SP WIDTH="17" VPOS="2096" HPOS="563"/>
+							<String ID="string_526" HPOS="580" VPOS="2103" WIDTH="28" HEIGHT="13" WC="0.92" CONTENT="av"/><SP WIDTH="18" VPOS="2103" HPOS="608"/>
+							<String ID="string_527" HPOS="626" VPOS="2097" WIDTH="186" HEIGHT="20" WC="0.91" CONTENT="arbetshemmens"/><SP WIDTH="18" VPOS="2097" HPOS="812"/>
+							<String ID="string_528" HPOS="830" VPOS="2096" WIDTH="193" HEIGHT="27" WC="0.92" CONTENT="vårdmöjligheter"/><SP WIDTH="16" VPOS="2096" HPOS="1023"/>
+							<String ID="string_529" HPOS="1039" VPOS="2103" WIDTH="38" HEIGHT="13" WC="0.91" CONTENT="an-"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_12" HPOS="167" VPOS="134" WIDTH="7" HEIGHT="1982">
+					<TextBlock ID="block_25" HPOS="167" VPOS="134" WIDTH="7" HEIGHT="1982">
+						<TextLine ID="line_57" HPOS="167" VPOS="134" WIDTH="7" HEIGHT="1982">
+							<String ID="string_530" HPOS="167" VPOS="134" WIDTH="7" HEIGHT="1982" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_13" HPOS="1379" VPOS="192" WIDTH="48" HEIGHT="2">
+					<TextBlock ID="block_26" HPOS="1379" VPOS="192" WIDTH="48" HEIGHT="2">
+						<TextLine ID="line_58" HPOS="1379" VPOS="192" WIDTH="48" HEIGHT="2">
+							<String ID="string_531" HPOS="1379" VPOS="192" WIDTH="48" HEIGHT="2" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_14" HPOS="1084" VPOS="244" WIDTH="684" HEIGHT="4">
+					<TextBlock ID="block_27" HPOS="1084" VPOS="244" WIDTH="684" HEIGHT="4">
+						<TextLine ID="line_59" HPOS="1084" VPOS="244" WIDTH="684" HEIGHT="4">
+							<String ID="string_532" HPOS="1084" VPOS="244" WIDTH="684" HEIGHT="4" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_15" HPOS="1084" VPOS="132" WIDTH="5" HEIGHT="1985">
+					<TextBlock ID="block_28" HPOS="1084" VPOS="132" WIDTH="5" HEIGHT="1985">
+						<TextLine ID="line_60" HPOS="1084" VPOS="132" WIDTH="5" HEIGHT="1985">
+							<String ID="string_533" HPOS="1084" VPOS="132" WIDTH="5" HEIGHT="1985" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_16" HPOS="1131" VPOS="131" WIDTH="5" HEIGHT="1985">
+					<TextBlock ID="block_29" HPOS="1131" VPOS="131" WIDTH="5" HEIGHT="1985">
+						<TextLine ID="line_61" HPOS="1131" VPOS="131" WIDTH="5" HEIGHT="1985">
+							<String ID="string_534" HPOS="1131" VPOS="131" WIDTH="5" HEIGHT="1985" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_17" HPOS="1337" VPOS="131" WIDTH="6" HEIGHT="1983">
+					<TextBlock ID="block_30" HPOS="1337" VPOS="131" WIDTH="6" HEIGHT="1983">
+						<TextLine ID="line_62" HPOS="1337" VPOS="131" WIDTH="6" HEIGHT="1983">
+							<String ID="string_535" HPOS="1337" VPOS="131" WIDTH="6" HEIGHT="1983" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_18" HPOS="1497" VPOS="132" WIDTH="6" HEIGHT="1983">
+					<TextBlock ID="block_31" HPOS="1497" VPOS="132" WIDTH="6" HEIGHT="1983">
+						<TextLine ID="line_63" HPOS="1497" VPOS="132" WIDTH="6" HEIGHT="1983">
+							<String ID="string_536" HPOS="1497" VPOS="132" WIDTH="6" HEIGHT="1983" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_19" HPOS="1562" VPOS="132" WIDTH="6" HEIGHT="1983">
+					<TextBlock ID="block_32" HPOS="1562" VPOS="132" WIDTH="6" HEIGHT="1983">
+						<TextLine ID="line_64" HPOS="1562" VPOS="132" WIDTH="6" HEIGHT="1983">
+							<String ID="string_537" HPOS="1562" VPOS="132" WIDTH="6" HEIGHT="1983" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_20" HPOS="1764" VPOS="132" WIDTH="6" HEIGHT="1984">
+					<TextBlock ID="block_33" HPOS="1764" VPOS="132" WIDTH="6" HEIGHT="1984">
+						<TextLine ID="line_65" HPOS="1764" VPOS="132" WIDTH="6" HEIGHT="1984">
+							<String ID="string_538" HPOS="1764" VPOS="132" WIDTH="6" HEIGHT="1984" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_21" HPOS="1096" VPOS="152" WIDTH="668" HEIGHT="1964">
+					<TextBlock ID="block_34" HPOS="1098" VPOS="152" WIDTH="663" HEIGHT="75">
+						<TextLine ID="line_66" HPOS="1232" VPOS="152" WIDTH="484" HEIGHT="37">
+							<String ID="string_539" HPOS="1232" VPOS="153" WIDTH="90" HEIGHT="28" WC="0.96" CONTENT="Motioner"/><SP WIDTH="58" VPOS="153" HPOS="1322"/>
+							<String ID="string_540" HPOS="1380" VPOS="152" WIDTH="78" HEIGHT="30" WC="0.96" CONTENT="Utskott"/><SP WIDTH="46" VPOS="152" HPOS="1458"/>
+							<String ID="string_541" HPOS="1504" VPOS="153" WIDTH="51" HEIGHT="36" WC="0.85" CONTENT="Skriv."/><SP WIDTH="68" VPOS="153" HPOS="1555"/>
+							<String ID="string_542" HPOS="1623" VPOS="157" WIDTH="93" HEIGHT="16" WC="0.96" CONTENT="Protokoll"/>
+						</TextLine>
+						<TextLine ID="line_67" HPOS="1098" VPOS="176" WIDTH="663" HEIGHT="33">
+							<String ID="string_543" HPOS="1098" VPOS="176" WIDTH="25" HEIGHT="20" WC="0.96" CONTENT="År"/><SP WIDTH="23" VPOS="176" HPOS="1123"/>
+							<String ID="string_544" HPOS="1146" VPOS="181" WIDTH="53" HEIGHT="19" WC="0.18" CONTENT="Fiop:"/><SP WIDTH="23" VPOS="181" HPOS="1199"/>
+							<String ID="string_545" HPOS="1222" VPOS="192" WIDTH="154" HEIGHT="2" WC="0.26" CONTENT="kb"/><SP WIDTH="53" VPOS="192" HPOS="1376"/>
+							<String ID="string_546" HPOS="1429" VPOS="193" WIDTH="115" HEIGHT="16" WC="0.23" CONTENT="Sn"/><SP WIDTH="14" VPOS="193" HPOS="1544"/>
+							<String ID="string_547" HPOS="1558" VPOS="177" WIDTH="18" HEIGHT="27" WC="0.0" CONTENT="fl"/><SP WIDTH="-1" VPOS="177" HPOS="1576"/>
+							<String ID="string_548" HPOS="1575" VPOS="177" WIDTH="57" HEIGHT="27" WC="0.0" CONTENT="perijpesran"/><SP WIDTH="-5" VPOS="177" HPOS="1632"/>
+							<String ID="string_549" HPOS="1627" VPOS="193" WIDTH="134" HEIGHT="2" WC="0.0" CONTENT="tort"/>
+						</TextLine>
+						<TextLine ID="line_68" HPOS="1227" VPOS="210" WIDTH="506" HEIGHT="17">
+							<String ID="string_550" HPOS="1227" VPOS="210" WIDTH="31" HEIGHT="16" WC="0.95" CONTENT="FK"/><SP WIDTH="4" VPOS="210" HPOS="1258"/>
+							<String ID="string_551" HPOS="1262" VPOS="206" WIDTH="23" HEIGHT="29" WC="0.91" CONTENT="|"/><SP WIDTH="5" VPOS="206" HPOS="1285"/>
+							<String ID="string_552" HPOS="1290" VPOS="210" WIDTH="34" HEIGHT="16" WC="0.92" CONTENT="AK"/><SP WIDTH="22" VPOS="210" HPOS="1324"/>
+							<String ID="string_553" HPOS="1346" VPOS="210" WIDTH="84" HEIGHT="16" WC="0.52" CONTENT="|SmllAvd]"/><SP WIDTH="25" VPOS="210" HPOS="1430"/>
+							<String ID="string_554" HPOS="1455" VPOS="211" WIDTH="26" HEIGHT="15" WC="0.96" CONTENT="Nr"/><SP WIDTH="120" VPOS="211" HPOS="1481"/>
+							<String ID="string_555" HPOS="1601" VPOS="211" WIDTH="31" HEIGHT="16" WC="0.94" CONTENT="FK"/><SP WIDTH="67" VPOS="211" HPOS="1632"/>
+							<String ID="string_556" HPOS="1699" VPOS="211" WIDTH="34" HEIGHT="16" WC="0.95" CONTENT="AK"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_35" HPOS="1096" VPOS="281" WIDTH="665" HEIGHT="79">
+						<TextLine ID="line_69" HPOS="1096" VPOS="281" WIDTH="665" HEIGHT="21">
+							<String ID="string_557" HPOS="1096" VPOS="281" WIDTH="28" HEIGHT="21" WC="0.60" CONTENT="481"/><SP WIDTH="29" VPOS="281" HPOS="1124"/>
+							<String ID="string_558" HPOS="1153" VPOS="281" WIDTH="40" HEIGHT="20" WC="0.60" CONTENT="1:7"/><SP WIDTH="5" VPOS="281" HPOS="1193"/>
+							<String ID="string_559" HPOS="1198" VPOS="277" WIDTH="26" HEIGHT="34" WC="0.68" CONTENT="I"/><SP WIDTH="13" VPOS="277" HPOS="1224"/>
+							<String ID="string_560" HPOS="1237" VPOS="281" WIDTH="26" HEIGHT="20" WC="0.49" CONTENT="531"/><SP WIDTH="38" VPOS="281" HPOS="1263"/>
+							<String ID="string_561" HPOS="1301" VPOS="281" WIDTH="27" HEIGHT="20" WC="0.83" CONTENT="861"/><SP WIDTH="35" VPOS="281" HPOS="1328"/>
+							<String ID="string_562" HPOS="1363" VPOS="281" WIDTH="60" HEIGHT="20" WC="0.34" CONTENT="61—"/><SP WIDTH="52" VPOS="281" HPOS="1423"/>
+							<String ID="string_563" HPOS="1475" VPOS="281" WIDTH="12" HEIGHT="20" WC="0.95" CONTENT="5"/><SP WIDTH="53" VPOS="281" HPOS="1487"/>
+							<String ID="string_564" HPOS="1540" VPOS="282" WIDTH="71" HEIGHT="20" WC="0.77" CONTENT="5113:"/><SP WIDTH="13" VPOS="282" HPOS="1611"/>
+							<String ID="string_565" HPOS="1624" VPOS="282" WIDTH="37" HEIGHT="20" WC="0.0" CONTENT="17dl"/><SP WIDTH="20" VPOS="282" HPOS="1661"/>
+							<String ID="string_566" HPOS="1681" VPOS="282" WIDTH="30" HEIGHT="20" WC="0.93" CONTENT="13:"/><SP WIDTH="12" VPOS="282" HPOS="1711"/>
+							<String ID="string_567" HPOS="1723" VPOS="282" WIDTH="38" HEIGHT="20" WC="0.87" CONTENT="73d"/>
+						</TextLine>
+						<TextLine ID="line_70" HPOS="1144" VPOS="311" WIDTH="344" HEIGHT="24">
+							<String ID="string_568" HPOS="1144" VPOS="315" WIDTH="22" HEIGHT="20" WC="0.96" CONTENT="pt"/><SP WIDTH="10" VPOS="315" HPOS="1166"/>
+							<String ID="string_569" HPOS="1176" VPOS="314" WIDTH="24" HEIGHT="17" WC="0.96" CONTENT="33"/><SP WIDTH="101" VPOS="314" HPOS="1200"/>
+							<String ID="string_570" HPOS="1301" VPOS="311" WIDTH="26" HEIGHT="20" WC="0.96" CONTENT="87"/><SP WIDTH="113" VPOS="311" HPOS="1327"/>
+							<String ID="string_571" HPOS="1440" VPOS="319" WIDTH="14" HEIGHT="11" WC="0.85" CONTENT="s."/><SP WIDTH="13" VPOS="319" HPOS="1454"/>
+							<String ID="string_572" HPOS="1467" VPOS="314" WIDTH="21" HEIGHT="17" WC="0.96" CONTENT="13"/>
+						</TextLine>
+						<TextLine ID="line_71" HPOS="1145" VPOS="343" WIDTH="55" HEIGHT="17">
+							<String ID="string_573" HPOS="1145" VPOS="343" WIDTH="55" HEIGHT="17" WC="0.77" CONTENT="—34"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_36" HPOS="1107" VPOS="371" WIDTH="641" HEIGHT="53">
+						<TextLine ID="line_72" HPOS="1107" VPOS="371" WIDTH="641" HEIGHT="21">
+							<String ID="string_574" HPOS="1107" VPOS="377" WIDTH="8" HEIGHT="12" WC="0.91" CONTENT="»"/><SP WIDTH="10" VPOS="377" HPOS="1115"/>
+							<String ID="string_575" HPOS="1125" VPOS="367" WIDTH="22" HEIGHT="33" WC="0.76" CONTENT="I"/><SP WIDTH="6" VPOS="367" HPOS="1147"/>
+							<String ID="string_576" HPOS="1153" VPOS="371" WIDTH="39" HEIGHT="20" WC="0.17" CONTENT="1:27]"/><SP WIDTH="45" VPOS="371" HPOS="1192"/>
+							<String ID="string_577" HPOS="1237" VPOS="383" WIDTH="27" HEIGHT="2" WC="0.22" CONTENT="—I"/><SP WIDTH="38" VPOS="383" HPOS="1264"/>
+							<String ID="string_578" HPOS="1302" VPOS="371" WIDTH="121" HEIGHT="19" WC="0.5" CONTENT="—b61—"/><SP WIDTH="52" VPOS="371" HPOS="1423"/>
+							<String ID="string_579" HPOS="1475" VPOS="371" WIDTH="12" HEIGHT="20" WC="0.95" CONTENT="5"/><SP WIDTH="53" VPOS="371" HPOS="1487"/>
+							<String ID="string_580" HPOS="1540" VPOS="371" WIDTH="106" HEIGHT="21" WC="0.41" CONTENT="5113:22"/><SP WIDTH="34" VPOS="371" HPOS="1646"/>
+							<String ID="string_581" HPOS="1680" VPOS="372" WIDTH="68" HEIGHT="19" WC="0.77" CONTENT="113::79"/>
+						</TextLine>
+						<TextLine ID="line_73" HPOS="1143" VPOS="403" WIDTH="346" HEIGHT="21">
+							<String ID="string_582" HPOS="1143" VPOS="404" WIDTH="21" HEIGHT="20" WC="0.96" CONTENT="pt"/><SP WIDTH="12" VPOS="404" HPOS="1164"/>
+							<String ID="string_583" HPOS="1176" VPOS="403" WIDTH="24" HEIGHT="17" WC="0.96" CONTENT="35"/><SP WIDTH="243" VPOS="403" HPOS="1200"/>
+							<String ID="string_584" HPOS="1443" VPOS="403" WIDTH="46" HEIGHT="17" WC="0.73" CONTENT="s.15"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_37" HPOS="1107" VPOS="431" WIDTH="641" HEIGHT="53">
+						<TextLine ID="line_74" HPOS="1107" VPOS="431" WIDTH="641" HEIGHT="21">
+							<String ID="string_585" HPOS="1107" VPOS="437" WIDTH="9" HEIGHT="13" WC="0.91" CONTENT="»"/><SP WIDTH="38" VPOS="437" HPOS="1116"/>
+							<String ID="string_586" HPOS="1154" VPOS="431" WIDTH="38" HEIGHT="20" WC="0.30" CONTENT="11:27]"/><SP WIDTH="45" VPOS="431" HPOS="1192"/>
+							<String ID="string_587" HPOS="1237" VPOS="443" WIDTH="91" HEIGHT="2" WC="0.0" CONTENT="—]I—]"/><SP WIDTH="35" VPOS="443" HPOS="1328"/>
+							<String ID="string_588" HPOS="1363" VPOS="431" WIDTH="60" HEIGHT="19" WC="0.57" CONTENT="61—"/><SP WIDTH="52" VPOS="431" HPOS="1423"/>
+							<String ID="string_589" HPOS="1475" VPOS="431" WIDTH="12" HEIGHT="20" WC="0.67" CONTENT="5"/><SP WIDTH="53" VPOS="431" HPOS="1487"/>
+							<String ID="string_590" HPOS="1540" VPOS="431" WIDTH="106" HEIGHT="21" WC="0.59" CONTENT="5113:22"/><SP WIDTH="35" VPOS="431" HPOS="1646"/>
+							<String ID="string_591" HPOS="1681" VPOS="432" WIDTH="67" HEIGHT="19" WC="0.0" CONTENT="13:79"/>
+						</TextLine>
+						<TextLine ID="line_75" HPOS="1144" VPOS="462" WIDTH="345" HEIGHT="22">
+							<String ID="string_592" HPOS="1144" VPOS="465" WIDTH="21" HEIGHT="19" WC="0.95" CONTENT="pt"/><SP WIDTH="11" VPOS="465" HPOS="1165"/>
+							<String ID="string_593" HPOS="1176" VPOS="463" WIDTH="24" HEIGHT="17" WC="0.96" CONTENT="40"/><SP WIDTH="242" VPOS="463" HPOS="1200"/>
+							<String ID="string_594" HPOS="1442" VPOS="462" WIDTH="47" HEIGHT="18" WC="0.85" CONTENT="s.15"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_38" HPOS="1107" VPOS="490" WIDTH="641" HEIGHT="54">
+						<TextLine ID="line_76" HPOS="1107" VPOS="490" WIDTH="641" HEIGHT="21">
+							<String ID="string_595" HPOS="1107" VPOS="496" WIDTH="8" HEIGHT="13" WC="0.92" CONTENT="»"/><SP WIDTH="38" VPOS="496" HPOS="1115"/>
+							<String ID="string_596" HPOS="1153" VPOS="491" WIDTH="39" HEIGHT="19" WC="0.6" CONTENT="1:77]"/><SP WIDTH="45" VPOS="491" HPOS="1192"/>
+							<String ID="string_597" HPOS="1237" VPOS="502" WIDTH="26" HEIGHT="2" WC="0.43" CONTENT="—I"/><SP WIDTH="38" VPOS="502" HPOS="1263"/>
+							<String ID="string_598" HPOS="1301" VPOS="502" WIDTH="27" HEIGHT="2" WC="0.69" CONTENT="—I"/><SP WIDTH="35" VPOS="502" HPOS="1328"/>
+							<String ID="string_599" HPOS="1363" VPOS="490" WIDTH="60" HEIGHT="20" WC="0.62" CONTENT="61—"/><SP WIDTH="52" VPOS="490" HPOS="1423"/>
+							<String ID="string_600" HPOS="1475" VPOS="491" WIDTH="12" HEIGHT="20" WC="0.96" CONTENT="5"/><SP WIDTH="53" VPOS="491" HPOS="1487"/>
+							<String ID="string_601" HPOS="1540" VPOS="491" WIDTH="12" HEIGHT="19" WC="0.0" CONTENT="51"/><SP WIDTH="28" VPOS="491" HPOS="1552"/>
+							<String ID="string_602" HPOS="1580" VPOS="491" WIDTH="66" HEIGHT="20" WC="0.0" CONTENT="13:22"/><SP WIDTH="11" VPOS="491" HPOS="1646"/>
+							<String ID="string_603" HPOS="1657" VPOS="487" WIDTH="18" HEIGHT="33" WC="0.0" CONTENT="1"/><SP WIDTH="5" VPOS="487" HPOS="1675"/>
+							<String ID="string_604" HPOS="1680" VPOS="491" WIDTH="68" HEIGHT="20" WC="0.0" CONTENT="13:69"/>
+						</TextLine>
+						<TextLine ID="line_77" HPOS="1144" VPOS="522" WIDTH="345" HEIGHT="22">
+							<String ID="string_605" HPOS="1144" VPOS="524" WIDTH="21" HEIGHT="20" WC="0.96" CONTENT="pt"/><SP WIDTH="11" VPOS="524" HPOS="1165"/>
+							<String ID="string_606" HPOS="1176" VPOS="522" WIDTH="23" HEIGHT="18" WC="0.96" CONTENT="41"/><SP WIDTH="244" VPOS="522" HPOS="1199"/>
+							<String ID="string_607" HPOS="1443" VPOS="528" WIDTH="14" HEIGHT="11" WC="0.86" CONTENT="s."/><SP WIDTH="10" VPOS="528" HPOS="1457"/>
+							<String ID="string_608" HPOS="1467" VPOS="522" WIDTH="22" HEIGHT="18" WC="0.95" CONTENT="15"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_39" HPOS="1097" VPOS="580" WIDTH="652" HEIGHT="20">
+						<TextLine ID="line_78" HPOS="1097" VPOS="580" WIDTH="652" HEIGHT="20">
+							<String ID="string_609" HPOS="1097" VPOS="580" WIDTH="27" HEIGHT="19" WC="0.21" CONTENT="481"/><SP WIDTH="28" VPOS="580" HPOS="1124"/>
+							<String ID="string_610" HPOS="1152" VPOS="580" WIDTH="40" HEIGHT="20" WC="0.0" CONTENT="3121l"/><SP WIDTH="44" VPOS="580" HPOS="1192"/>
+							<String ID="string_611" HPOS="1236" VPOS="592" WIDTH="27" HEIGHT="2" WC="0.44" CONTENT="—]"/><SP WIDTH="39" VPOS="592" HPOS="1263"/>
+							<String ID="string_612" HPOS="1302" VPOS="592" WIDTH="26" HEIGHT="1" WC="0.38" CONTENT="—I"/><SP WIDTH="5" VPOS="592" HPOS="1328"/>
+							<String ID="string_613" HPOS="1333" VPOS="576" WIDTH="5" HEIGHT="34" WC="0.38" CONTENT="I"/><SP WIDTH="24" VPOS="576" HPOS="1338"/>
+							<String ID="string_614" HPOS="1362" VPOS="580" WIDTH="13" HEIGHT="19" WC="0.93" CONTENT="91"/><SP WIDTH="35" VPOS="580" HPOS="1375"/>
+							<String ID="string_615" HPOS="1410" VPOS="580" WIDTH="12" HEIGHT="19" WC="0.92" CONTENT="21"/><SP WIDTH="39" VPOS="580" HPOS="1422"/>
+							<String ID="string_616" HPOS="1461" VPOS="580" WIDTH="171" HEIGHT="20" WC="0.90" CONTENT="581476137:8"/><SP WIDTH="46" VPOS="580" HPOS="1632"/>
+							<String ID="string_617" HPOS="1678" VPOS="580" WIDTH="71" HEIGHT="20" WC="0.25" CONTENT="1|37::19"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_40" HPOS="1100" VPOS="610" WIDTH="20" HEIGHT="20">
+						<TextLine ID="line_79" HPOS="1100" VPOS="610" WIDTH="20" HEIGHT="20">
+							<String ID="string_618" HPOS="1100" VPOS="610" WIDTH="20" HEIGHT="20" WC="0.92" CONTENT="H"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_41" HPOS="1096" VPOS="788" WIDTH="667" HEIGHT="53">
+						<TextLine ID="line_80" HPOS="1096" VPOS="788" WIDTH="667" HEIGHT="21">
+							<String ID="string_619" HPOS="1096" VPOS="788" WIDTH="27" HEIGHT="20" WC="0.44" CONTENT="491]"/><SP WIDTH="30" VPOS="788" HPOS="1123"/>
+							<String ID="string_620" HPOS="1153" VPOS="788" WIDTH="38" HEIGHT="20" WC="0.90" CONTENT="1:71"/><SP WIDTH="45" VPOS="788" HPOS="1191"/>
+							<String ID="string_621" HPOS="1236" VPOS="800" WIDTH="27" HEIGHT="2" WC="0.71" CONTENT="—I"/><SP WIDTH="38" VPOS="800" HPOS="1263"/>
+							<String ID="string_622" HPOS="1301" VPOS="800" WIDTH="27" HEIGHT="2" WC="0.77" CONTENT="—I"/><SP WIDTH="34" VPOS="800" HPOS="1328"/>
+							<String ID="string_623" HPOS="1362" VPOS="788" WIDTH="59" HEIGHT="19" WC="0.11" CONTENT="61—"/><SP WIDTH="53" VPOS="788" HPOS="1421"/>
+							<String ID="string_624" HPOS="1474" VPOS="788" WIDTH="13" HEIGHT="20" WC="0.24" CONTENT="5"/><SP WIDTH="52" VPOS="788" HPOS="1487"/>
+							<String ID="string_625" HPOS="1539" VPOS="788" WIDTH="71" HEIGHT="20" WC="0.61" CONTENT="5110:"/><SP WIDTH="12" VPOS="788" HPOS="1610"/>
+							<String ID="string_626" HPOS="1622" VPOS="791" WIDTH="24" HEIGHT="17" WC="0.61" CONTENT="99"/><SP WIDTH="8" VPOS="791" HPOS="1646"/>
+							<String ID="string_627" HPOS="1654" VPOS="784" WIDTH="17" HEIGHT="34" WC="0.69" CONTENT="|"/><SP WIDTH="8" VPOS="784" HPOS="1671"/>
+							<String ID="string_628" HPOS="1679" VPOS="789" WIDTH="32" HEIGHT="20" WC="0.69" CONTENT="10:"/><SP WIDTH="15" VPOS="789" HPOS="1711"/>
+							<String ID="string_629" HPOS="1726" VPOS="791" WIDTH="37" HEIGHT="17" WC="0.94" CONTENT="145"/>
+						</TextLine>
+						<TextLine ID="line_81" HPOS="1150" VPOS="820" WIDTH="335" HEIGHT="21">
+							<String ID="string_630" HPOS="1150" VPOS="821" WIDTH="21" HEIGHT="20" WC="0.91" CONTENT="pt"/><SP WIDTH="10" VPOS="821" HPOS="1171"/>
+							<String ID="string_631" HPOS="1181" VPOS="820" WIDTH="11" HEIGHT="17" WC="0.91" CONTENT="8"/><SP WIDTH="256" VPOS="820" HPOS="1192"/>
+							<String ID="string_632" HPOS="1448" VPOS="825" WIDTH="15" HEIGHT="12" WC="0.78" CONTENT="s."/><SP WIDTH="12" VPOS="825" HPOS="1463"/>
+							<String ID="string_633" HPOS="1475" VPOS="820" WIDTH="10" HEIGHT="17" WC="0.69" CONTENT="5"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_42" HPOS="1105" VPOS="848" WIDTH="658" HEIGHT="53">
+						<TextLine ID="line_82" HPOS="1105" VPOS="848" WIDTH="658" HEIGHT="21">
+							<String ID="string_634" HPOS="1105" VPOS="854" WIDTH="8" HEIGHT="13" WC="0.90" CONTENT="»"/><SP WIDTH="40" VPOS="854" HPOS="1113"/>
+							<String ID="string_635" HPOS="1153" VPOS="848" WIDTH="38" HEIGHT="19" WC="0.0" CONTENT="1:21]"/><SP WIDTH="45" VPOS="848" HPOS="1191"/>
+							<String ID="string_636" HPOS="1236" VPOS="860" WIDTH="27" HEIGHT="2" WC="0.0" CONTENT="—)I"/><SP WIDTH="38" VPOS="860" HPOS="1263"/>
+							<String ID="string_637" HPOS="1301" VPOS="859" WIDTH="27" HEIGHT="3" WC="0.67" CONTENT="—I"/><SP WIDTH="35" VPOS="859" HPOS="1328"/>
+							<String ID="string_638" HPOS="1363" VPOS="848" WIDTH="60" HEIGHT="19" WC="0.15" CONTENT="61—]"/><SP WIDTH="51" VPOS="848" HPOS="1423"/>
+							<String ID="string_639" HPOS="1474" VPOS="848" WIDTH="13" HEIGHT="20" WC="0.78" CONTENT="5"/><SP WIDTH="52" VPOS="848" HPOS="1487"/>
+							<String ID="string_640" HPOS="1539" VPOS="848" WIDTH="71" HEIGHT="20" WC="0.63" CONTENT="5110:"/><SP WIDTH="12" VPOS="848" HPOS="1610"/>
+							<String ID="string_641" HPOS="1622" VPOS="851" WIDTH="24" HEIGHT="17" WC="0.63" CONTENT="99"/><SP WIDTH="8" VPOS="851" HPOS="1646"/>
+							<String ID="string_642" HPOS="1654" VPOS="844" WIDTH="17" HEIGHT="34" WC="0.47" CONTENT="|"/><SP WIDTH="9" VPOS="844" HPOS="1671"/>
+							<String ID="string_643" HPOS="1680" VPOS="849" WIDTH="31" HEIGHT="20" WC="0.47" CONTENT="10:"/><SP WIDTH="15" VPOS="849" HPOS="1711"/>
+							<String ID="string_644" HPOS="1726" VPOS="851" WIDTH="37" HEIGHT="17" WC="0.74" CONTENT="145]"/>
+						</TextLine>
+						<TextLine ID="line_83" HPOS="1149" VPOS="880" WIDTH="336" HEIGHT="21">
+							<String ID="string_645" HPOS="1149" VPOS="881" WIDTH="22" HEIGHT="20" WC="0.86" CONTENT="pt"/><SP WIDTH="10" VPOS="881" HPOS="1171"/>
+							<String ID="string_646" HPOS="1181" VPOS="880" WIDTH="10" HEIGHT="16" WC="0.86" CONTENT="9"/><SP WIDTH="257" VPOS="880" HPOS="1191"/>
+							<String ID="string_647" HPOS="1448" VPOS="885" WIDTH="15" HEIGHT="12" WC="0.85" CONTENT="s."/><SP WIDTH="12" VPOS="885" HPOS="1463"/>
+							<String ID="string_648" HPOS="1475" VPOS="880" WIDTH="10" HEIGHT="17" WC="0.96" CONTENT="6"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_43" HPOS="1106" VPOS="907" WIDTH="657" HEIGHT="79">
+						<TextLine ID="line_84" HPOS="1106" VPOS="907" WIDTH="657" HEIGHT="22">
+							<String ID="string_649" HPOS="1106" VPOS="915" WIDTH="8" HEIGHT="12" WC="0.91" CONTENT="»"/><SP WIDTH="9" VPOS="915" HPOS="1114"/>
+							<String ID="string_650" HPOS="1123" VPOS="903" WIDTH="22" HEIGHT="34" WC="0.43" CONTENT="I"/><SP WIDTH="8" VPOS="903" HPOS="1145"/>
+							<String ID="string_651" HPOS="1153" VPOS="907" WIDTH="37" HEIGHT="20" WC="0.0" CONTENT="1:72]"/><SP WIDTH="37" VPOS="907" HPOS="1190"/>
+							<String ID="string_652" HPOS="1227" VPOS="919" WIDTH="94" HEIGHT="2" WC="0.14" CONTENT="—]—]"/><SP WIDTH="43" VPOS="919" HPOS="1321"/>
+							<String ID="string_653" HPOS="1364" VPOS="907" WIDTH="60" HEIGHT="20" WC="0.0" CONTENT="6)—|"/><SP WIDTH="50" VPOS="907" HPOS="1424"/>
+							<String ID="string_654" HPOS="1474" VPOS="908" WIDTH="13" HEIGHT="20" WC="0.95" CONTENT="5"/><SP WIDTH="52" VPOS="908" HPOS="1487"/>
+							<String ID="string_655" HPOS="1539" VPOS="908" WIDTH="73" HEIGHT="20" WC="0.33" CONTENT="51-10:"/><SP WIDTH="11" VPOS="908" HPOS="1612"/>
+							<String ID="string_656" HPOS="1623" VPOS="911" WIDTH="24" HEIGHT="17" WC="0.33" CONTENT="99"/><SP WIDTH="4" VPOS="911" HPOS="1647"/>
+							<String ID="string_657" HPOS="1651" VPOS="904" WIDTH="23" HEIGHT="34" WC="0.74" CONTENT="|"/><SP WIDTH="7" VPOS="904" HPOS="1674"/>
+							<String ID="string_658" HPOS="1681" VPOS="909" WIDTH="31" HEIGHT="20" WC="0.74" CONTENT="10:"/><SP WIDTH="14" VPOS="909" HPOS="1712"/>
+							<String ID="string_659" HPOS="1726" VPOS="911" WIDTH="37" HEIGHT="17" WC="0.67" CONTENT="145"/>
+						</TextLine>
+						<TextLine ID="line_85" HPOS="1143" VPOS="939" WIDTH="346" HEIGHT="22">
+							<String ID="string_660" HPOS="1143" VPOS="941" WIDTH="21" HEIGHT="20" WC="0.96" CONTENT="pt"/><SP WIDTH="12" VPOS="941" HPOS="1164"/>
+							<String ID="string_661" HPOS="1176" VPOS="939" WIDTH="24" HEIGHT="18" WC="0.95" CONTENT="18"/><SP WIDTH="242" VPOS="939" HPOS="1200"/>
+							<String ID="string_662" HPOS="1442" VPOS="940" WIDTH="47" HEIGHT="17" WC="0.84" CONTENT="s.10"/>
+						</TextLine>
+						<TextLine ID="line_86" HPOS="1144" VPOS="970" WIDTH="55" HEIGHT="16">
+							<String ID="string_663" HPOS="1144" VPOS="970" WIDTH="55" HEIGHT="16" WC="0.73" CONTENT="—19"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_44" HPOS="1105" VPOS="997" WIDTH="658" HEIGHT="53">
+						<TextLine ID="line_87" HPOS="1105" VPOS="997" WIDTH="658" HEIGHT="21">
+							<String ID="string_664" HPOS="1105" VPOS="1004" WIDTH="8" HEIGHT="12" WC="0.90" CONTENT="»"/><SP WIDTH="10" VPOS="1004" HPOS="1113"/>
+							<String ID="string_665" HPOS="1123" VPOS="993" WIDTH="22" HEIGHT="33" WC="0.58" CONTENT="I"/><SP WIDTH="8" VPOS="993" HPOS="1145"/>
+							<String ID="string_666" HPOS="1153" VPOS="997" WIDTH="38" HEIGHT="20" WC="0.58" CONTENT="1:27)"/><SP WIDTH="45" VPOS="997" HPOS="1191"/>
+							<String ID="string_667" HPOS="1236" VPOS="1009" WIDTH="27" HEIGHT="2" WC="0.51" CONTENT="—I"/><SP WIDTH="38" VPOS="1009" HPOS="1263"/>
+							<String ID="string_668" HPOS="1301" VPOS="1009" WIDTH="27" HEIGHT="2" WC="0.55" CONTENT="—]"/><SP WIDTH="35" VPOS="1009" HPOS="1328"/>
+							<String ID="string_669" HPOS="1363" VPOS="997" WIDTH="59" HEIGHT="19" WC="0.13" CONTENT="61—"/><SP WIDTH="52" VPOS="997" HPOS="1422"/>
+							<String ID="string_670" HPOS="1474" VPOS="997" WIDTH="12" HEIGHT="20" WC="0.96" CONTENT="5"/><SP WIDTH="53" VPOS="997" HPOS="1486"/>
+							<String ID="string_671" HPOS="1539" VPOS="997" WIDTH="70" HEIGHT="20" WC="0.0" CONTENT="5110:"/><SP WIDTH="12" VPOS="997" HPOS="1609"/>
+							<String ID="string_672" HPOS="1621" VPOS="1000" WIDTH="24" HEIGHT="17" WC="0.0" CONTENT="99"/><SP WIDTH="35" VPOS="1000" HPOS="1645"/>
+							<String ID="string_673" HPOS="1680" VPOS="998" WIDTH="30" HEIGHT="20" WC="0.34" CONTENT="110:"/><SP WIDTH="16" VPOS="998" HPOS="1710"/>
+							<String ID="string_674" HPOS="1726" VPOS="1000" WIDTH="37" HEIGHT="17" WC="0.76" CONTENT="145)"/>
+						</TextLine>
+						<TextLine ID="line_88" HPOS="1143" VPOS="1029" WIDTH="344" HEIGHT="21">
+							<String ID="string_675" HPOS="1143" VPOS="1031" WIDTH="21" HEIGHT="19" WC="0.96" CONTENT="pt"/><SP WIDTH="12" VPOS="1031" HPOS="1164"/>
+							<String ID="string_676" HPOS="1176" VPOS="1029" WIDTH="24" HEIGHT="17" WC="0.96" CONTENT="20"/><SP WIDTH="242" VPOS="1029" HPOS="1200"/>
+							<String ID="string_677" HPOS="1442" VPOS="1029" WIDTH="45" HEIGHT="17" WC="0.26" CONTENT="s.1å"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_45" HPOS="1108" VPOS="1056" WIDTH="655" HEIGHT="53">
+						<TextLine ID="line_89" HPOS="1108" VPOS="1056" WIDTH="655" HEIGHT="20">
+							<String ID="string_678" HPOS="1108" VPOS="1063" WIDTH="7" HEIGHT="13" WC="0.91" CONTENT="»"/><SP WIDTH="11" VPOS="1063" HPOS="1115"/>
+							<String ID="string_679" HPOS="1126" VPOS="1052" WIDTH="18" HEIGHT="33" WC="0.47" CONTENT="I"/><SP WIDTH="8" VPOS="1052" HPOS="1144"/>
+							<String ID="string_680" HPOS="1152" VPOS="1056" WIDTH="39" HEIGHT="20" WC="0.47" CONTENT="1:71]"/><SP WIDTH="45" VPOS="1056" HPOS="1191"/>
+							<String ID="string_681" HPOS="1236" VPOS="1067" WIDTH="27" HEIGHT="3" WC="0.26" CONTENT="—I"/><SP WIDTH="38" VPOS="1067" HPOS="1263"/>
+							<String ID="string_682" HPOS="1301" VPOS="1068" WIDTH="26" HEIGHT="2" WC="0.46" CONTENT="—I"/><SP WIDTH="35" VPOS="1068" HPOS="1327"/>
+							<String ID="string_683" HPOS="1362" VPOS="1056" WIDTH="60" HEIGHT="19" WC="0.82" CONTENT="61—"/><SP WIDTH="52" VPOS="1056" HPOS="1422"/>
+							<String ID="string_684" HPOS="1474" VPOS="1057" WIDTH="12" HEIGHT="19" WC="0.96" CONTENT="5"/><SP WIDTH="53" VPOS="1057" HPOS="1486"/>
+							<String ID="string_685" HPOS="1539" VPOS="1056" WIDTH="69" HEIGHT="20" WC="0.17" CONTENT="5110:"/><SP WIDTH="12" VPOS="1056" HPOS="1608"/>
+							<String ID="string_686" HPOS="1620" VPOS="1059" WIDTH="25" HEIGHT="17" WC="0.17" CONTENT="99"/><SP WIDTH="0" VPOS="1059" HPOS="1645"/>
+							<String ID="string_687" HPOS="1645" VPOS="1052" WIDTH="26" HEIGHT="34" WC="0.69" CONTENT="|"/><SP WIDTH="8" VPOS="1052" HPOS="1671"/>
+							<String ID="string_688" HPOS="1679" VPOS="1057" WIDTH="31" HEIGHT="19" WC="0.69" CONTENT="10:"/><SP WIDTH="15" VPOS="1057" HPOS="1710"/>
+							<String ID="string_689" HPOS="1725" VPOS="1059" WIDTH="38" HEIGHT="17" WC="0.58" CONTENT="145"/>
+						</TextLine>
+						<TextLine ID="line_90" HPOS="1142" VPOS="1088" WIDTH="345" HEIGHT="21">
+							<String ID="string_690" HPOS="1142" VPOS="1089" WIDTH="22" HEIGHT="20" WC="0.96" CONTENT="pt"/><SP WIDTH="11" VPOS="1089" HPOS="1164"/>
+							<String ID="string_691" HPOS="1175" VPOS="1088" WIDTH="23" HEIGHT="17" WC="0.96" CONTENT="21"/><SP WIDTH="244" VPOS="1088" HPOS="1198"/>
+							<String ID="string_692" HPOS="1442" VPOS="1088" WIDTH="45" HEIGHT="17" WC="0.38" CONTENT="$;11"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_46" HPOS="1105" VPOS="1115" WIDTH="659" HEIGHT="53">
+						<TextLine ID="line_91" HPOS="1105" VPOS="1115" WIDTH="659" HEIGHT="21">
+							<String ID="string_693" HPOS="1105" VPOS="1122" WIDTH="8" HEIGHT="12" WC="0.92" CONTENT="»"/><SP WIDTH="40" VPOS="1122" HPOS="1113"/>
+							<String ID="string_694" HPOS="1153" VPOS="1116" WIDTH="38" HEIGHT="19" WC="0.44" CONTENT="[1:27]"/><SP WIDTH="45" VPOS="1116" HPOS="1191"/>
+							<String ID="string_695" HPOS="1236" VPOS="1127" WIDTH="27" HEIGHT="2" WC="0.55" CONTENT="—I"/><SP WIDTH="37" VPOS="1127" HPOS="1263"/>
+							<String ID="string_696" HPOS="1300" VPOS="1127" WIDTH="28" HEIGHT="2" WC="0.70" CONTENT="—I"/><SP WIDTH="34" VPOS="1127" HPOS="1328"/>
+							<String ID="string_697" HPOS="1362" VPOS="1115" WIDTH="60" HEIGHT="19" WC="0.43" CONTENT="61—"/><SP WIDTH="52" VPOS="1115" HPOS="1422"/>
+							<String ID="string_698" HPOS="1474" VPOS="1116" WIDTH="12" HEIGHT="20" WC="0.88" CONTENT="5"/><SP WIDTH="53" VPOS="1116" HPOS="1486"/>
+							<String ID="string_699" HPOS="1539" VPOS="1116" WIDTH="106" HEIGHT="20" WC="0.0" CONTENT="51:10:99"/><SP WIDTH="4" VPOS="1116" HPOS="1645"/>
+							<String ID="string_700" HPOS="1649" VPOS="1112" WIDTH="22" HEIGHT="34" WC="0.61" CONTENT="|"/><SP WIDTH="8" VPOS="1112" HPOS="1671"/>
+							<String ID="string_701" HPOS="1679" VPOS="1116" WIDTH="32" HEIGHT="20" WC="0.61" CONTENT="10:"/><SP WIDTH="15" VPOS="1116" HPOS="1711"/>
+							<String ID="string_702" HPOS="1726" VPOS="1119" WIDTH="38" HEIGHT="17" WC="0.77" CONTENT="145"/>
+						</TextLine>
+						<TextLine ID="line_92" HPOS="1142" VPOS="1147" WIDTH="345" HEIGHT="21">
+							<String ID="string_703" HPOS="1142" VPOS="1149" WIDTH="22" HEIGHT="19" WC="0.95" CONTENT="pt"/><SP WIDTH="11" VPOS="1149" HPOS="1164"/>
+							<String ID="string_704" HPOS="1175" VPOS="1147" WIDTH="24" HEIGHT="17" WC="0.96" CONTENT="22"/><SP WIDTH="243" VPOS="1147" HPOS="1199"/>
+							<String ID="string_705" HPOS="1442" VPOS="1148" WIDTH="45" HEIGHT="17" WC="0.54" CONTENT="si11"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_47" HPOS="1105" VPOS="1174" WIDTH="658" HEIGHT="53">
+						<TextLine ID="line_93" HPOS="1105" VPOS="1174" WIDTH="658" HEIGHT="22">
+							<String ID="string_706" HPOS="1105" VPOS="1181" WIDTH="9" HEIGHT="13" WC="0.92" CONTENT="»"/><SP WIDTH="39" VPOS="1181" HPOS="1114"/>
+							<String ID="string_707" HPOS="1153" VPOS="1175" WIDTH="38" HEIGHT="19" WC="0.9" CONTENT="[1:71]"/><SP WIDTH="44" VPOS="1175" HPOS="1191"/>
+							<String ID="string_708" HPOS="1235" VPOS="1186" WIDTH="28" HEIGHT="2" WC="0.2" CONTENT="—I|"/><SP WIDTH="38" VPOS="1186" HPOS="1263"/>
+							<String ID="string_709" HPOS="1301" VPOS="1186" WIDTH="27" HEIGHT="2" WC="0.47" CONTENT="—I"/><SP WIDTH="34" VPOS="1186" HPOS="1328"/>
+							<String ID="string_710" HPOS="1362" VPOS="1174" WIDTH="60" HEIGHT="19" WC="0.55" CONTENT="61—"/><SP WIDTH="53" VPOS="1174" HPOS="1422"/>
+							<String ID="string_711" HPOS="1475" VPOS="1175" WIDTH="12" HEIGHT="19" WC="0.95" CONTENT="5"/><SP WIDTH="52" VPOS="1175" HPOS="1487"/>
+							<String ID="string_712" HPOS="1539" VPOS="1175" WIDTH="70" HEIGHT="20" WC="0.31" CONTENT="5110:"/><SP WIDTH="12" VPOS="1175" HPOS="1609"/>
+							<String ID="string_713" HPOS="1621" VPOS="1177" WIDTH="24" HEIGHT="17" WC="0.31" CONTENT="99"/><SP WIDTH="6" VPOS="1177" HPOS="1645"/>
+							<String ID="string_714" HPOS="1651" VPOS="1171" WIDTH="18" HEIGHT="34" WC="0.29" CONTENT="|"/><SP WIDTH="10" VPOS="1171" HPOS="1669"/>
+							<String ID="string_715" HPOS="1679" VPOS="1176" WIDTH="31" HEIGHT="20" WC="0.29" CONTENT="10:"/><SP WIDTH="15" VPOS="1176" HPOS="1710"/>
+							<String ID="string_716" HPOS="1725" VPOS="1177" WIDTH="38" HEIGHT="18" WC="0.95" CONTENT="145"/>
+						</TextLine>
+						<TextLine ID="line_94" HPOS="1143" VPOS="1207" WIDTH="344" HEIGHT="20">
+							<String ID="string_717" HPOS="1143" VPOS="1208" WIDTH="21" HEIGHT="19" WC="0.96" CONTENT="pt"/><SP WIDTH="11" VPOS="1208" HPOS="1164"/>
+							<String ID="string_718" HPOS="1175" VPOS="1207" WIDTH="24" HEIGHT="17" WC="0.96" CONTENT="23"/><SP WIDTH="243" VPOS="1207" HPOS="1199"/>
+							<String ID="string_719" HPOS="1442" VPOS="1207" WIDTH="45" HEIGHT="17" WC="0.89" CONTENT="s.11"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_48" HPOS="1106" VPOS="1230" WIDTH="657" HEIGHT="57">
+						<TextLine ID="line_95" HPOS="1106" VPOS="1230" WIDTH="657" HEIGHT="33">
+							<String ID="string_720" HPOS="1153" VPOS="1234" WIDTH="38" HEIGHT="20" WC="0.13" CONTENT="RR"/><SP WIDTH="44" VPOS="1234" HPOS="1191"/>
+							<String ID="string_721" HPOS="1235" VPOS="1245" WIDTH="28" HEIGHT="3" WC="0.29" CONTENT="—I|"/><SP WIDTH="37" VPOS="1245" HPOS="1263"/>
+							<String ID="string_722" HPOS="1300" VPOS="1245" WIDTH="27" HEIGHT="2" WC="0.60" CONTENT="—I"/><SP WIDTH="35" VPOS="1245" HPOS="1327"/>
+							<String ID="string_723" HPOS="1362" VPOS="1234" WIDTH="61" HEIGHT="19" WC="0.0" CONTENT="61]—"/><SP WIDTH="50" VPOS="1234" HPOS="1423"/>
+							<String ID="string_724" HPOS="1473" VPOS="1230" WIDTH="13" HEIGHT="33" WC="0.0" CONTENT="ög"/><SP WIDTH="53" VPOS="1230" HPOS="1486"/>
+							<String ID="string_725" HPOS="1539" VPOS="1234" WIDTH="70" HEIGHT="20" WC="0.0" CONTENT="5110:"/><SP WIDTH="12" VPOS="1234" HPOS="1609"/>
+							<String ID="string_726" HPOS="1621" VPOS="1237" WIDTH="25" HEIGHT="17" WC="0.0" CONTENT="99"/><SP WIDTH="10" VPOS="1237" HPOS="1646"/>
+							<String ID="string_727" HPOS="1656" VPOS="1230" WIDTH="14" HEIGHT="33" WC="0.11" CONTENT="|"/><SP WIDTH="9" VPOS="1230" HPOS="1670"/>
+							<String ID="string_728" HPOS="1679" VPOS="1236" WIDTH="32" HEIGHT="19" WC="0.11" CONTENT="10:"/><SP WIDTH="15" VPOS="1236" HPOS="1711"/>
+							<String ID="string_729" HPOS="1726" VPOS="1237" WIDTH="37" HEIGHT="17" WC="0.94" CONTENT="145"/>
+						</TextLine>
+						<TextLine ID="line_96" HPOS="1143" VPOS="1266" WIDTH="345" HEIGHT="21">
+							<String ID="string_730" HPOS="1143" VPOS="1267" WIDTH="21" HEIGHT="20" WC="0.95" CONTENT="pt"/><SP WIDTH="11" VPOS="1267" HPOS="1164"/>
+							<String ID="string_731" HPOS="1175" VPOS="1266" WIDTH="24" HEIGHT="17" WC="0.96" CONTENT="24"/><SP WIDTH="244" VPOS="1266" HPOS="1199"/>
+							<String ID="string_732" HPOS="1443" VPOS="1271" WIDTH="14" HEIGHT="12" WC="0.84" CONTENT="s."/><SP WIDTH="10" VPOS="1271" HPOS="1457"/>
+							<String ID="string_733" HPOS="1467" VPOS="1266" WIDTH="21" HEIGHT="17" WC="0.96" CONTENT="11"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_49" HPOS="1106" VPOS="1293" WIDTH="657" HEIGHT="53">
+						<TextLine ID="line_97" HPOS="1106" VPOS="1293" WIDTH="657" HEIGHT="22">
+							<String ID="string_734" HPOS="1106" VPOS="1300" WIDTH="8" HEIGHT="13" WC="0.93" CONTENT="»"/><SP WIDTH="39" VPOS="1300" HPOS="1114"/>
+							<String ID="string_735" HPOS="1153" VPOS="1293" WIDTH="38" HEIGHT="20" WC="0.33" CONTENT="[1:72]"/><SP WIDTH="44" VPOS="1293" HPOS="1191"/>
+							<String ID="string_736" HPOS="1235" VPOS="1305" WIDTH="27" HEIGHT="2" WC="0.0" CONTENT="—I|"/><SP WIDTH="38" VPOS="1305" HPOS="1262"/>
+							<String ID="string_737" HPOS="1300" VPOS="1305" WIDTH="28" HEIGHT="2" WC="0.4" CONTENT="—]I"/><SP WIDTH="34" VPOS="1305" HPOS="1328"/>
+							<String ID="string_738" HPOS="1362" VPOS="1293" WIDTH="61" HEIGHT="19" WC="0.51" CONTENT="61—"/><SP WIDTH="52" VPOS="1293" HPOS="1423"/>
+							<String ID="string_739" HPOS="1475" VPOS="1294" WIDTH="12" HEIGHT="20" WC="0.96" CONTENT="5"/><SP WIDTH="53" VPOS="1294" HPOS="1487"/>
+							<String ID="string_740" HPOS="1540" VPOS="1294" WIDTH="106" HEIGHT="20" WC="0.78" CONTENT="5110:99"/><SP WIDTH="35" VPOS="1294" HPOS="1646"/>
+							<String ID="string_741" HPOS="1681" VPOS="1295" WIDTH="30" HEIGHT="20" WC="0.79" CONTENT="110:"/><SP WIDTH="15" VPOS="1295" HPOS="1711"/>
+							<String ID="string_742" HPOS="1726" VPOS="1296" WIDTH="37" HEIGHT="18" WC="0.94" CONTENT="145"/>
+						</TextLine>
+						<TextLine ID="line_98" HPOS="1149" VPOS="1325" WIDTH="339" HEIGHT="21">
+							<String ID="string_743" HPOS="1149" VPOS="1325" WIDTH="49" HEIGHT="21" WC="0.91" CONTENT="pt25"/><SP WIDTH="244" VPOS="1325" HPOS="1198"/>
+							<String ID="string_744" HPOS="1442" VPOS="1325" WIDTH="46" HEIGHT="18" WC="0.3" CONTENT="sill"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_50" HPOS="1106" VPOS="1352" WIDTH="658" HEIGHT="54">
+						<TextLine ID="line_99" HPOS="1106" VPOS="1352" WIDTH="658" HEIGHT="22">
+							<String ID="string_745" HPOS="1106" VPOS="1359" WIDTH="9" HEIGHT="13" WC="0.92" CONTENT="»"/><SP WIDTH="38" VPOS="1359" HPOS="1115"/>
+							<String ID="string_746" HPOS="1153" VPOS="1353" WIDTH="38" HEIGHT="20" WC="0.0" CONTENT="[1:77]"/><SP WIDTH="44" VPOS="1353" HPOS="1191"/>
+							<String ID="string_747" HPOS="1235" VPOS="1364" WIDTH="28" HEIGHT="3" WC="0.38" CONTENT="—|"/><SP WIDTH="37" VPOS="1364" HPOS="1263"/>
+							<String ID="string_748" HPOS="1300" VPOS="1364" WIDTH="28" HEIGHT="2" WC="0.0" CONTENT="—]I]"/><SP WIDTH="34" VPOS="1364" HPOS="1328"/>
+							<String ID="string_749" HPOS="1362" VPOS="1352" WIDTH="61" HEIGHT="20" WC="0.0" CONTENT="6|—]"/><SP WIDTH="52" VPOS="1352" HPOS="1423"/>
+							<String ID="string_750" HPOS="1475" VPOS="1353" WIDTH="12" HEIGHT="20" WC="0.92" CONTENT="5"/><SP WIDTH="54" VPOS="1353" HPOS="1487"/>
+							<String ID="string_751" HPOS="1541" VPOS="1353" WIDTH="70" HEIGHT="20" WC="0.70" CONTENT="5110:"/><SP WIDTH="11" VPOS="1353" HPOS="1611"/>
+							<String ID="string_752" HPOS="1622" VPOS="1355" WIDTH="25" HEIGHT="18" WC="0.72" CONTENT="99"/><SP WIDTH="2" VPOS="1355" HPOS="1647"/>
+							<String ID="string_753" HPOS="1649" VPOS="1349" WIDTH="24" HEIGHT="34" WC="0.0" CONTENT=":1"/><SP WIDTH="8" VPOS="1349" HPOS="1673"/>
+							<String ID="string_754" HPOS="1681" VPOS="1354" WIDTH="31" HEIGHT="20" WC="0.95" CONTENT="10:"/><SP WIDTH="14" VPOS="1354" HPOS="1712"/>
+							<String ID="string_755" HPOS="1726" VPOS="1356" WIDTH="38" HEIGHT="17" WC="0.94" CONTENT="145"/>
+						</TextLine>
+						<TextLine ID="line_100" HPOS="1142" VPOS="1385" WIDTH="347" HEIGHT="21">
+							<String ID="string_756" HPOS="1142" VPOS="1386" WIDTH="22" HEIGHT="20" WC="0.96" CONTENT="pt"/><SP WIDTH="11" VPOS="1386" HPOS="1164"/>
+							<String ID="string_757" HPOS="1175" VPOS="1385" WIDTH="24" HEIGHT="17" WC="0.96" CONTENT="26"/><SP WIDTH="243" VPOS="1385" HPOS="1199"/>
+							<String ID="string_758" HPOS="1442" VPOS="1385" WIDTH="47" HEIGHT="17" WC="0.89" CONTENT="s.12"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_51" HPOS="1106" VPOS="1412" WIDTH="657" HEIGHT="53">
+						<TextLine ID="line_101" HPOS="1106" VPOS="1412" WIDTH="657" HEIGHT="22">
+							<String ID="string_759" HPOS="1106" VPOS="1419" WIDTH="9" HEIGHT="13" WC="0.91" CONTENT="»"/><SP WIDTH="12" VPOS="1419" HPOS="1115"/>
+							<String ID="string_760" HPOS="1127" VPOS="1408" WIDTH="18" HEIGHT="34" WC="0.40" CONTENT="I"/><SP WIDTH="7" VPOS="1408" HPOS="1145"/>
+							<String ID="string_761" HPOS="1152" VPOS="1412" WIDTH="39" HEIGHT="20" WC="0.40" CONTENT="1:27)"/><SP WIDTH="44" VPOS="1412" HPOS="1191"/>
+							<String ID="string_762" HPOS="1235" VPOS="1424" WIDTH="28" HEIGHT="2" WC="0.69" CONTENT="—I"/><SP WIDTH="37" VPOS="1424" HPOS="1263"/>
+							<String ID="string_763" HPOS="1300" VPOS="1424" WIDTH="28" HEIGHT="2" WC="0.10" CONTENT="—I"/><SP WIDTH="34" VPOS="1424" HPOS="1328"/>
+							<String ID="string_764" HPOS="1362" VPOS="1412" WIDTH="61" HEIGHT="19" WC="0.0" CONTENT="61—"/><SP WIDTH="52" VPOS="1412" HPOS="1423"/>
+							<String ID="string_765" HPOS="1475" VPOS="1413" WIDTH="12" HEIGHT="20" WC="0.79" CONTENT="5"/><SP WIDTH="54" VPOS="1413" HPOS="1487"/>
+							<String ID="string_766" HPOS="1541" VPOS="1413" WIDTH="70" HEIGHT="20" WC="0.22" CONTENT="5110:"/><SP WIDTH="12" VPOS="1413" HPOS="1611"/>
+							<String ID="string_767" HPOS="1623" VPOS="1415" WIDTH="24" HEIGHT="17" WC="0.22" CONTENT="99"/><SP WIDTH="6" VPOS="1415" HPOS="1647"/>
+							<String ID="string_768" HPOS="1653" VPOS="1409" WIDTH="18" HEIGHT="34" WC="0.53" CONTENT="|"/><SP WIDTH="9" VPOS="1409" HPOS="1671"/>
+							<String ID="string_769" HPOS="1680" VPOS="1414" WIDTH="31" HEIGHT="20" WC="0.53" CONTENT="10:"/><SP WIDTH="16" VPOS="1414" HPOS="1711"/>
+							<String ID="string_770" HPOS="1727" VPOS="1416" WIDTH="36" HEIGHT="17" WC="0.94" CONTENT="145"/>
+						</TextLine>
+						<TextLine ID="line_102" HPOS="1142" VPOS="1445" WIDTH="348" HEIGHT="20">
+							<String ID="string_771" HPOS="1142" VPOS="1446" WIDTH="22" HEIGHT="19" WC="0.94" CONTENT="pt"/><SP WIDTH="11" VPOS="1446" HPOS="1164"/>
+							<String ID="string_772" HPOS="1175" VPOS="1445" WIDTH="24" HEIGHT="17" WC="0.96" CONTENT="27"/><SP WIDTH="243" VPOS="1445" HPOS="1199"/>
+							<String ID="string_773" HPOS="1442" VPOS="1445" WIDTH="48" HEIGHT="17" WC="0.74" CONTENT="s.12"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_52" HPOS="1106" VPOS="1471" WIDTH="658" HEIGHT="54">
+						<TextLine ID="line_103" HPOS="1106" VPOS="1471" WIDTH="658" HEIGHT="22">
+							<String ID="string_774" HPOS="1106" VPOS="1478" WIDTH="9" HEIGHT="13" WC="0.92" CONTENT="»"/><SP WIDTH="12" VPOS="1478" HPOS="1115"/>
+							<String ID="string_775" HPOS="1127" VPOS="1467" WIDTH="18" HEIGHT="34" WC="0.20" CONTENT="I"/><SP WIDTH="8" VPOS="1467" HPOS="1145"/>
+							<String ID="string_776" HPOS="1153" VPOS="1472" WIDTH="38" HEIGHT="20" WC="0.0" CONTENT="1:27]"/><SP WIDTH="44" VPOS="1472" HPOS="1191"/>
+							<String ID="string_777" HPOS="1235" VPOS="1484" WIDTH="28" HEIGHT="2" WC="0.49" CONTENT="—I"/><SP WIDTH="37" VPOS="1484" HPOS="1263"/>
+							<String ID="string_778" HPOS="1300" VPOS="1483" WIDTH="27" HEIGHT="2" WC="0.84" CONTENT="—I"/><SP WIDTH="35" VPOS="1483" HPOS="1327"/>
+							<String ID="string_779" HPOS="1362" VPOS="1471" WIDTH="61" HEIGHT="20" WC="0.32" CONTENT="6/—"/><SP WIDTH="52" VPOS="1471" HPOS="1423"/>
+							<String ID="string_780" HPOS="1475" VPOS="1472" WIDTH="12" HEIGHT="21" WC="0.74" CONTENT="5"/><SP WIDTH="54" VPOS="1472" HPOS="1487"/>
+							<String ID="string_781" HPOS="1541" VPOS="1472" WIDTH="106" HEIGHT="20" WC="0.73" CONTENT="5110::99"/><SP WIDTH="33" VPOS="1472" HPOS="1647"/>
+							<String ID="string_782" HPOS="1680" VPOS="1474" WIDTH="31" HEIGHT="19" WC="0.25" CONTENT="110:"/><SP WIDTH="15" VPOS="1474" HPOS="1711"/>
+							<String ID="string_783" HPOS="1726" VPOS="1476" WIDTH="38" HEIGHT="17" WC="0.25" CONTENT="145"/>
+						</TextLine>
+						<TextLine ID="line_104" HPOS="1143" VPOS="1504" WIDTH="345" HEIGHT="21">
+							<String ID="string_784" HPOS="1143" VPOS="1505" WIDTH="21" HEIGHT="20" WC="0.95" CONTENT="pt"/><SP WIDTH="11" VPOS="1505" HPOS="1164"/>
+							<String ID="string_785" HPOS="1175" VPOS="1504" WIDTH="24" HEIGHT="17" WC="0.94" CONTENT="28"/><SP WIDTH="243" VPOS="1504" HPOS="1199"/>
+							<String ID="string_786" HPOS="1442" VPOS="1504" WIDTH="46" HEIGHT="17" WC="0.68" CONTENT="s.12"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_53" HPOS="1107" VPOS="1531" WIDTH="656" HEIGHT="54">
+						<TextLine ID="line_105" HPOS="1107" VPOS="1531" WIDTH="656" HEIGHT="22">
+							<String ID="string_787" HPOS="1107" VPOS="1538" WIDTH="8" HEIGHT="12" WC="0.92" CONTENT="»"/><SP WIDTH="39" VPOS="1538" HPOS="1115"/>
+							<String ID="string_788" HPOS="1154" VPOS="1532" WIDTH="37" HEIGHT="19" WC="0.6" CONTENT="1:71]"/><SP WIDTH="44" VPOS="1532" HPOS="1191"/>
+							<String ID="string_789" HPOS="1235" VPOS="1543" WIDTH="27" HEIGHT="2" WC="0.60" CONTENT="—|"/><SP WIDTH="38" VPOS="1543" HPOS="1262"/>
+							<String ID="string_790" HPOS="1300" VPOS="1543" WIDTH="28" HEIGHT="2" WC="0.0" CONTENT="—]I"/><SP WIDTH="34" VPOS="1543" HPOS="1328"/>
+							<String ID="string_791" HPOS="1362" VPOS="1531" WIDTH="61" HEIGHT="20" WC="0.29" CONTENT="61—"/><SP WIDTH="52" VPOS="1531" HPOS="1423"/>
+							<String ID="string_792" HPOS="1475" VPOS="1532" WIDTH="12" HEIGHT="20" WC="0.96" CONTENT="5"/><SP WIDTH="54" VPOS="1532" HPOS="1487"/>
+							<String ID="string_793" HPOS="1541" VPOS="1532" WIDTH="69" HEIGHT="20" WC="0.0" CONTENT="5110:"/><SP WIDTH="12" VPOS="1532" HPOS="1610"/>
+							<String ID="string_794" HPOS="1622" VPOS="1534" WIDTH="24" HEIGHT="17" WC="0.0" CONTENT="99"/><SP WIDTH="34" VPOS="1534" HPOS="1646"/>
+							<String ID="string_795" HPOS="1680" VPOS="1533" WIDTH="31" HEIGHT="20" WC="0.82" CONTENT="110:"/><SP WIDTH="15" VPOS="1533" HPOS="1711"/>
+							<String ID="string_796" HPOS="1726" VPOS="1535" WIDTH="37" HEIGHT="17" WC="0.78" CONTENT="145"/>
+						</TextLine>
+						<TextLine ID="line_106" HPOS="1143" VPOS="1564" WIDTH="346" HEIGHT="21">
+							<String ID="string_797" HPOS="1143" VPOS="1565" WIDTH="21" HEIGHT="20" WC="0.96" CONTENT="pt"/><SP WIDTH="11" VPOS="1565" HPOS="1164"/>
+							<String ID="string_798" HPOS="1175" VPOS="1564" WIDTH="25" HEIGHT="17" WC="0.96" CONTENT="29"/><SP WIDTH="242" VPOS="1564" HPOS="1200"/>
+							<String ID="string_799" HPOS="1442" VPOS="1564" WIDTH="47" HEIGHT="17" WC="0.52" CONTENT="8.12"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_54" HPOS="1106" VPOS="1591" WIDTH="657" HEIGHT="53">
+						<TextLine ID="line_107" HPOS="1106" VPOS="1591" WIDTH="657" HEIGHT="21">
+							<String ID="string_800" HPOS="1106" VPOS="1591" WIDTH="85" HEIGHT="20" WC="0.21" CONTENT="vb?"/><SP WIDTH="45" VPOS="1591" HPOS="1191"/>
+							<String ID="string_801" HPOS="1236" VPOS="1603" WIDTH="27" HEIGHT="2" WC="0.1" CONTENT="—)I"/><SP WIDTH="37" VPOS="1603" HPOS="1263"/>
+							<String ID="string_802" HPOS="1300" VPOS="1602" WIDTH="28" HEIGHT="2" WC="0.0" CONTENT="—]I"/><SP WIDTH="35" VPOS="1602" HPOS="1328"/>
+							<String ID="string_803" HPOS="1363" VPOS="1591" WIDTH="60" HEIGHT="19" WC="0.48" CONTENT="61—"/><SP WIDTH="52" VPOS="1591" HPOS="1423"/>
+							<String ID="string_804" HPOS="1475" VPOS="1591" WIDTH="12" HEIGHT="20" WC="0.86" CONTENT="5"/><SP WIDTH="53" VPOS="1591" HPOS="1487"/>
+							<String ID="string_805" HPOS="1540" VPOS="1591" WIDTH="106" HEIGHT="20" WC="0.84" CONTENT="5110:99"/><SP WIDTH="5" VPOS="1591" HPOS="1646"/>
+							<String ID="string_806" HPOS="1651" VPOS="1587" WIDTH="23" HEIGHT="35" WC="0.23" CONTENT="|"/><SP WIDTH="6" VPOS="1587" HPOS="1674"/>
+							<String ID="string_807" HPOS="1680" VPOS="1592" WIDTH="83" HEIGHT="20" WC="0.23" CONTENT="10:-145"/>
+						</TextLine>
+						<TextLine ID="line_108" HPOS="1143" VPOS="1623" WIDTH="346" HEIGHT="21">
+							<String ID="string_808" HPOS="1143" VPOS="1624" WIDTH="22" HEIGHT="20" WC="0.96" CONTENT="pt"/><SP WIDTH="10" VPOS="1624" HPOS="1165"/>
+							<String ID="string_809" HPOS="1175" VPOS="1623" WIDTH="25" HEIGHT="17" WC="0.96" CONTENT="30"/><SP WIDTH="242" VPOS="1623" HPOS="1200"/>
+							<String ID="string_810" HPOS="1442" VPOS="1623" WIDTH="47" HEIGHT="17" WC="0.70" CONTENT="s.13"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_55" HPOS="1106" VPOS="1650" WIDTH="657" HEIGHT="53">
+						<TextLine ID="line_109" HPOS="1106" VPOS="1650" WIDTH="657" HEIGHT="22">
+							<String ID="string_811" HPOS="1106" VPOS="1656" WIDTH="9" HEIGHT="13" WC="0.92" CONTENT="»"/><SP WIDTH="13" VPOS="1656" HPOS="1115"/>
+							<String ID="string_812" HPOS="1128" VPOS="1646" WIDTH="18" HEIGHT="33" WC="0.33" CONTENT="I"/><SP WIDTH="7" VPOS="1646" HPOS="1146"/>
+							<String ID="string_813" HPOS="1153" VPOS="1650" WIDTH="38" HEIGHT="20" WC="0.38" CONTENT="1:71]"/><SP WIDTH="45" VPOS="1650" HPOS="1191"/>
+							<String ID="string_814" HPOS="1236" VPOS="1662" WIDTH="27" HEIGHT="2" WC="0.81" CONTENT="—I"/><SP WIDTH="37" VPOS="1662" HPOS="1263"/>
+							<String ID="string_815" HPOS="1300" VPOS="1661" WIDTH="28" HEIGHT="3" WC="0.57" CONTENT="—I"/><SP WIDTH="35" VPOS="1661" HPOS="1328"/>
+							<String ID="string_816" HPOS="1363" VPOS="1650" WIDTH="60" HEIGHT="19" WC="0.29" CONTENT="61/—"/><SP WIDTH="52" VPOS="1650" HPOS="1423"/>
+							<String ID="string_817" HPOS="1475" VPOS="1651" WIDTH="12" HEIGHT="19" WC="0.96" CONTENT="5"/><SP WIDTH="53" VPOS="1651" HPOS="1487"/>
+							<String ID="string_818" HPOS="1540" VPOS="1650" WIDTH="70" HEIGHT="20" WC="0.0" CONTENT="5110:"/><SP WIDTH="12" VPOS="1650" HPOS="1610"/>
+							<String ID="string_819" HPOS="1622" VPOS="1653" WIDTH="24" HEIGHT="17" WC="0.0" CONTENT="99"/><SP WIDTH="35" VPOS="1653" HPOS="1646"/>
+							<String ID="string_820" HPOS="1681" VPOS="1652" WIDTH="30" HEIGHT="20" WC="0.81" CONTENT="110:"/><SP WIDTH="15" VPOS="1652" HPOS="1711"/>
+							<String ID="string_821" HPOS="1726" VPOS="1654" WIDTH="37" HEIGHT="17" WC="0.95" CONTENT="145"/>
+						</TextLine>
+						<TextLine ID="line_110" HPOS="1143" VPOS="1682" WIDTH="346" HEIGHT="21">
+							<String ID="string_822" HPOS="1143" VPOS="1683" WIDTH="21" HEIGHT="20" WC="0.96" CONTENT="pt"/><SP WIDTH="11" VPOS="1683" HPOS="1164"/>
+							<String ID="string_823" HPOS="1175" VPOS="1682" WIDTH="25" HEIGHT="18" WC="0.96" CONTENT="35"/><SP WIDTH="242" VPOS="1682" HPOS="1200"/>
+							<String ID="string_824" HPOS="1442" VPOS="1682" WIDTH="47" HEIGHT="18" WC="0.68" CONTENT="s,13"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_56" HPOS="1107" VPOS="1709" WIDTH="656" HEIGHT="22">
+						<TextLine ID="line_111" HPOS="1107" VPOS="1709" WIDTH="656" HEIGHT="22">
+							<String ID="string_825" HPOS="1107" VPOS="1716" WIDTH="8" HEIGHT="13" WC="0.92" CONTENT="»"/><SP WIDTH="9" VPOS="1716" HPOS="1115"/>
+							<String ID="string_826" HPOS="1124" VPOS="1705" WIDTH="22" HEIGHT="34" WC="0.78" CONTENT="|"/><SP WIDTH="19" VPOS="1705" HPOS="1146"/>
+							<String ID="string_827" HPOS="1165" VPOS="1709" WIDTH="95" HEIGHT="21" WC="0.49" CONTENT="471241]"/><SP WIDTH="41" VPOS="1709" HPOS="1260"/>
+							<String ID="string_828" HPOS="1301" VPOS="1721" WIDTH="27" HEIGHT="2" WC="0.12" CONTENT="—I"/><SP WIDTH="35" VPOS="1721" HPOS="1328"/>
+							<String ID="string_829" HPOS="1363" VPOS="1709" WIDTH="60" HEIGHT="20" WC="0.69" CONTENT="61—1"/><SP WIDTH="38" VPOS="1709" HPOS="1423"/>
+							<String ID="string_830" HPOS="1461" VPOS="1709" WIDTH="149" HEIGHT="21" WC="0.87" CONTENT="551128113:"/><SP WIDTH="12" VPOS="1709" HPOS="1610"/>
+							<String ID="string_831" HPOS="1622" VPOS="1710" WIDTH="141" HEIGHT="21" WC="0.0" CONTENT="22d/13:120d"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_57" HPOS="1107" VPOS="1829" WIDTH="656" HEIGHT="21">
+						<TextLine ID="line_112" HPOS="1107" VPOS="1829" WIDTH="656" HEIGHT="21">
+							<String ID="string_832" HPOS="1107" VPOS="1835" WIDTH="8" HEIGHT="13" WC="0.92" CONTENT="»"/><SP WIDTH="8" VPOS="1835" HPOS="1115"/>
+							<String ID="string_833" HPOS="1123" VPOS="1825" WIDTH="26" HEIGHT="33" WC="0.75" CONTENT="|"/><SP WIDTH="16" VPOS="1825" HPOS="1149"/>
+							<String ID="string_834" HPOS="1165" VPOS="1829" WIDTH="26" HEIGHT="19" WC="0.74" CONTENT="46"/><SP WIDTH="13" VPOS="1829" HPOS="1191"/>
+							<String ID="string_835" HPOS="1204" VPOS="1825" WIDTH="25" HEIGHT="33" WC="0.51" CONTENT="|"/><SP WIDTH="7" VPOS="1825" HPOS="1229"/>
+							<String ID="string_836" HPOS="1236" VPOS="1840" WIDTH="27" HEIGHT="3" WC="0.12" CONTENT="—I"/><SP WIDTH="38" VPOS="1840" HPOS="1263"/>
+							<String ID="string_837" HPOS="1301" VPOS="1840" WIDTH="27" HEIGHT="2" WC="0.36" CONTENT="—]"/><SP WIDTH="35" VPOS="1840" HPOS="1328"/>
+							<String ID="string_838" HPOS="1363" VPOS="1829" WIDTH="60" HEIGHT="19" WC="0.39" CONTENT="61—1"/><SP WIDTH="39" VPOS="1829" HPOS="1423"/>
+							<String ID="string_839" HPOS="1462" VPOS="1829" WIDTH="26" HEIGHT="20" WC="0.64" CONTENT="691"/><SP WIDTH="27" VPOS="1829" HPOS="1488"/>
+							<String ID="string_840" HPOS="1515" VPOS="1829" WIDTH="35" HEIGHT="19" WC="0.76" CONTENT="1611"/><SP WIDTH="30" VPOS="1829" HPOS="1550"/>
+							<String ID="string_841" HPOS="1580" VPOS="1829" WIDTH="30" HEIGHT="20" WC="0.84" CONTENT="14:"/><SP WIDTH="13" VPOS="1829" HPOS="1610"/>
+							<String ID="string_842" HPOS="1623" VPOS="1829" WIDTH="38" HEIGHT="20" WC="0.19" CONTENT="43dl"/><SP WIDTH="20" VPOS="1829" HPOS="1661"/>
+							<String ID="string_843" HPOS="1681" VPOS="1830" WIDTH="30" HEIGHT="20" WC="0.93" CONTENT="14:"/><SP WIDTH="13" VPOS="1830" HPOS="1711"/>
+							<String ID="string_844" HPOS="1724" VPOS="1830" WIDTH="39" HEIGHT="20" WC="0.52" CONTENT="97d]"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_58" HPOS="1107" VPOS="2067" WIDTH="656" HEIGHT="20">
+						<TextLine ID="line_113" HPOS="1107" VPOS="2067" WIDTH="656" HEIGHT="20">
+							<String ID="string_845" HPOS="1107" VPOS="2073" WIDTH="8" HEIGHT="13" WC="0.93" CONTENT="»"/><SP WIDTH="51" VPOS="2073" HPOS="1115"/>
+							<String ID="string_846" HPOS="1166" VPOS="2079" WIDTH="26" HEIGHT="2" WC="0.44" CONTENT="—]"/><SP WIDTH="44" VPOS="2079" HPOS="1192"/>
+							<String ID="string_847" HPOS="1236" VPOS="2079" WIDTH="28" HEIGHT="2" WC="0.64" CONTENT="—|"/><SP WIDTH="37" VPOS="2079" HPOS="1264"/>
+							<String ID="string_848" HPOS="1301" VPOS="2079" WIDTH="27" HEIGHT="1" WC="0.14" CONTENT="—I"/><SP WIDTH="35" VPOS="2079" HPOS="1328"/>
+							<String ID="string_849" HPOS="1363" VPOS="2067" WIDTH="61" HEIGHT="19" WC="0.42" CONTENT="61—1]1"/><SP WIDTH="26" VPOS="2067" HPOS="1424"/>
+							<String ID="string_850" HPOS="1450" VPOS="2067" WIDTH="38" HEIGHT="20" WC="0.94" CONTENT="1431"/><SP WIDTH="25" VPOS="2067" HPOS="1488"/>
+							<String ID="string_851" HPOS="1513" VPOS="2067" WIDTH="97" HEIGHT="20" WC="0.92" CONTENT="262117:"/><SP WIDTH="11" VPOS="2067" HPOS="1610"/>
+							<String ID="string_852" HPOS="1621" VPOS="2069" WIDTH="25" HEIGHT="18" WC="0.94" CONTENT="35"/><SP WIDTH="4" VPOS="2069" HPOS="1646"/>
+							<String ID="string_853" HPOS="1650" VPOS="2063" WIDTH="22" HEIGHT="34" WC="0.87" CONTENT="|"/><SP WIDTH="8" VPOS="2063" HPOS="1672"/>
+							<String ID="string_854" HPOS="1680" VPOS="2067" WIDTH="31" HEIGHT="20" WC="0.87" CONTENT="17:"/><SP WIDTH="15" VPOS="2067" HPOS="1711"/>
+							<String ID="string_855" HPOS="1726" VPOS="2070" WIDTH="37" HEIGHT="17" WC="0.95" CONTENT="135"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_59" HPOS="1444" VPOS="2099" WIDTH="47" HEIGHT="17">
+						<TextLine ID="line_114" HPOS="1444" VPOS="2099" WIDTH="47" HEIGHT="17">
+							<String ID="string_856" HPOS="1444" VPOS="2099" WIDTH="47" HEIGHT="17" WC="0.85" CONTENT="s.18"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_22" HPOS="1207" VPOS="132" WIDTH="6" HEIGHT="1987">
+					<TextBlock ID="block_60" HPOS="1207" VPOS="132" WIDTH="6" HEIGHT="1987">
+						<TextLine ID="line_115" HPOS="1207" VPOS="132" WIDTH="6" HEIGHT="1987">
+							<String ID="string_857" HPOS="1207" VPOS="132" WIDTH="6" HEIGHT="1987" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_23" HPOS="1273" VPOS="192" WIDTH="5" HEIGHT="1924">
+					<TextBlock ID="block_61" HPOS="1273" VPOS="192" WIDTH="5" HEIGHT="1924">
+						<TextLine ID="line_116" HPOS="1273" VPOS="192" WIDTH="5" HEIGHT="1924">
+							<String ID="string_858" HPOS="1273" VPOS="192" WIDTH="5" HEIGHT="1924" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_24" HPOS="1385" VPOS="198" WIDTH="4" HEIGHT="1918">
+					<TextBlock ID="block_62" HPOS="1385" VPOS="198" WIDTH="4" HEIGHT="1918">
+						<TextLine ID="line_117" HPOS="1385" VPOS="198" WIDTH="4" HEIGHT="1918">
+							<String ID="string_859" HPOS="1385" VPOS="198" WIDTH="4" HEIGHT="1918" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_25" HPOS="1433" VPOS="253" WIDTH="3" HEIGHT="1865">
+					<TextBlock ID="block_63" HPOS="1433" VPOS="253" WIDTH="3" HEIGHT="1865">
+						<TextLine ID="line_118" HPOS="1433" VPOS="253" WIDTH="3" HEIGHT="1865">
+							<String ID="string_860" HPOS="1433" VPOS="253" WIDTH="3" HEIGHT="1865" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_26" HPOS="1663" VPOS="193" WIDTH="5" HEIGHT="1923">
+					<TextBlock ID="block_64" HPOS="1663" VPOS="193" WIDTH="5" HEIGHT="1923">
+						<TextLine ID="line_119" HPOS="1663" VPOS="193" WIDTH="5" HEIGHT="1923">
+							<String ID="string_861" HPOS="1663" VPOS="193" WIDTH="5" HEIGHT="1923" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_27" HPOS="1833" VPOS="8" WIDTH="8" HEIGHT="1990">
+					<TextBlock ID="block_65" HPOS="1833" VPOS="8" WIDTH="8" HEIGHT="1990">
+						<TextLine ID="line_120" HPOS="1833" VPOS="8" WIDTH="8" HEIGHT="1990">
+							<String ID="string_862" HPOS="1833" VPOS="8" WIDTH="8" HEIGHT="1990" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

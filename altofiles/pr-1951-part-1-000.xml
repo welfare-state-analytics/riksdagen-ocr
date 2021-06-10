@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName></fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 4.1.1</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1803" HEIGHT="2342" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1803" HEIGHT="2342">
+				<ComposedBlock ID="cblock_0" HPOS="17" VPOS="0" WIDTH="1504" HEIGHT="8">
+					<TextBlock ID="block_0" HPOS="17" VPOS="0" WIDTH="1504" HEIGHT="8">
+						<TextLine ID="line_0" HPOS="17" VPOS="0" WIDTH="1504" HEIGHT="8">
+							<String ID="string_0" HPOS="17" VPOS="0" WIDTH="1504" HEIGHT="8" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="2" VPOS="947" WIDTH="8" HEIGHT="1050">
+					<TextBlock ID="block_1" HPOS="2" VPOS="947" WIDTH="8" HEIGHT="1050">
+						<TextLine ID="line_1" HPOS="2" VPOS="947" WIDTH="8" HEIGHT="1050">
+							<String ID="string_1" HPOS="2" VPOS="947" WIDTH="8" HEIGHT="1050" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="697" VPOS="312" WIDTH="340" HEIGHT="48">
+					<TextBlock ID="block_2" HPOS="697" VPOS="312" WIDTH="340" HEIGHT="48">
+						<TextLine ID="line_2" HPOS="697" VPOS="312" WIDTH="340" HEIGHT="48">
+							<String ID="string_2" HPOS="697" VPOS="312" WIDTH="340" HEIGHT="48" WC="0.96" CONTENT="REGISTER"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="818" VPOS="450" WIDTH="90" HEIGHT="24">
+					<TextBlock ID="block_3" HPOS="818" VPOS="450" WIDTH="90" HEIGHT="24">
+						<TextLine ID="line_3" HPOS="818" VPOS="450" WIDTH="90" HEIGHT="24">
+							<String ID="string_3" HPOS="818" VPOS="450" WIDTH="90" HEIGHT="24" WC="0.96" CONTENT="TILL"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="219" VPOS="581" WIDTH="1294" HEIGHT="76">
+					<TextBlock ID="block_4" HPOS="219" VPOS="581" WIDTH="1294" HEIGHT="76">
+						<TextLine ID="line_4" HPOS="219" VPOS="581" WIDTH="1294" HEIGHT="76">
+							<String ID="string_4" HPOS="219" VPOS="581" WIDTH="642" HEIGHT="72" WC="0.96" CONTENT="RIKSDAGENS"/><SP WIDTH="48" VPOS="581" HPOS="861"/>
+							<String ID="string_5" HPOS="909" VPOS="585" WIDTH="604" HEIGHT="72" WC="0.94" CONTENT="PROTOKOLL"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_5" HPOS="648" VPOS="758" WIDTH="435" HEIGHT="49">
+					<TextBlock ID="block_5" HPOS="648" VPOS="758" WIDTH="435" HEIGHT="49">
+						<TextLine ID="line_5" HPOS="648" VPOS="758" WIDTH="435" HEIGHT="49">
+							<String ID="string_6" HPOS="648" VPOS="758" WIDTH="146" HEIGHT="46" WC="0.96" CONTENT="MED"/><SP WIDTH="30" VPOS="758" HPOS="794"/>
+							<String ID="string_7" HPOS="824" VPOS="759" WIDTH="259" HEIGHT="48" WC="0.96" CONTENT="BIHANG"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_6" HPOS="699" VPOS="920" WIDTH="338" HEIGHT="48">
+					<TextBlock ID="block_6" HPOS="699" VPOS="920" WIDTH="338" HEIGHT="48">
+						<TextLine ID="line_6" HPOS="699" VPOS="920" WIDTH="338" HEIGHT="48">
+							<String ID="string_8" HPOS="699" VPOS="920" WIDTH="338" HEIGHT="48" WC="0.90" CONTENT="1951—1960"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_7" HPOS="698" VPOS="1174" WIDTH="330" HEIGHT="31">
+					<TextBlock ID="block_7" HPOS="698" VPOS="1174" WIDTH="330" HEIGHT="31">
+						<TextLine ID="line_7" HPOS="698" VPOS="1174" WIDTH="330" HEIGHT="31">
+							<String ID="string_9" HPOS="698" VPOS="1174" WIDTH="153" HEIGHT="30" WC="0.96" CONTENT="FÖRSTA"/><SP WIDTH="18" VPOS="1174" HPOS="851"/>
+							<String ID="string_10" HPOS="869" VPOS="1180" WIDTH="159" HEIGHT="25" WC="0.96" CONTENT="BANDET"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_8" HPOS="615" VPOS="1255" WIDTH="487" HEIGHT="38">
+					<TextBlock ID="block_8" HPOS="615" VPOS="1255" WIDTH="487" HEIGHT="38">
+						<TextLine ID="line_8" HPOS="615" VPOS="1255" WIDTH="487" HEIGHT="38">
+							<String ID="string_11" HPOS="615" VPOS="1255" WIDTH="487" HEIGHT="38" WC="0.92" CONTENT="PERSONREGISTER"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_9" HPOS="757" VPOS="1339" WIDTH="207" HEIGHT="4">
+					<TextBlock ID="block_9" HPOS="757" VPOS="1339" WIDTH="207" HEIGHT="4">
+						<TextLine ID="line_9" HPOS="757" VPOS="1339" WIDTH="207" HEIGHT="4">
+							<String ID="string_12" HPOS="757" VPOS="1339" WIDTH="207" HEIGHT="4" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_10" HPOS="677" VPOS="1386" WIDTH="362" HEIGHT="37">
+					<TextBlock ID="block_10" HPOS="677" VPOS="1386" WIDTH="362" HEIGHT="37">
+						<TextLine ID="line_10" HPOS="677" VPOS="1386" WIDTH="362" HEIGHT="37">
+							<String ID="string_13" HPOS="677" VPOS="1386" WIDTH="362" HEIGHT="37" WC="0.79" CONTENT="SAKREGISTER"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_11" HPOS="784" VPOS="1483" WIDTH="155" HEIGHT="57">
+					<TextBlock ID="block_11" HPOS="784" VPOS="1483" WIDTH="155" HEIGHT="57">
+						<TextLine ID="line_11" HPOS="784" VPOS="1483" WIDTH="155" HEIGHT="57">
+							<String ID="string_14" HPOS="784" VPOS="1483" WIDTH="155" HEIGHT="57" WC="0.0" CONTENT="AK"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_12" HPOS="589" VPOS="1748" WIDTH="566" HEIGHT="6">
+					<TextBlock ID="block_12" HPOS="589" VPOS="1748" WIDTH="566" HEIGHT="6">
+						<TextLine ID="line_12" HPOS="589" VPOS="1748" WIDTH="566" HEIGHT="6">
+							<String ID="string_15" HPOS="589" VPOS="1748" WIDTH="566" HEIGHT="6" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_13" HPOS="652" VPOS="1862" WIDTH="408" HEIGHT="102">
+					<TextBlock ID="block_13" HPOS="652" VPOS="1862" WIDTH="408" HEIGHT="102">
+						<TextLine ID="line_13" HPOS="793" VPOS="1862" WIDTH="131" HEIGHT="18">
+							<String ID="string_16" HPOS="793" VPOS="1862" WIDTH="131" HEIGHT="18" WC="0.96" CONTENT="SVENSKA"/>
+						</TextLine>
+						<TextLine ID="line_14" HPOS="652" VPOS="1903" WIDTH="408" HEIGHT="20">
+							<String ID="string_17" HPOS="652" VPOS="1903" WIDTH="408" HEIGHT="20" WC="0.92" CONTENT="TRYCKERIAKTIEBOLAGET"/>
+						</TextLine>
+						<TextLine ID="line_15" HPOS="728" VPOS="1945" WIDTH="259" HEIGHT="19">
+							<String ID="string_18" HPOS="728" VPOS="1945" WIDTH="187" HEIGHT="19" WC="0.95" CONTENT="STOCKHOLM"/><SP WIDTH="14" VPOS="1945" HPOS="915"/>
+							<String ID="string_19" HPOS="929" VPOS="1947" WIDTH="58" HEIGHT="17" WC="0.96" CONTENT="1962"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_14" HPOS="736" VPOS="2338" WIDTH="560" HEIGHT="3">
+					<TextBlock ID="block_14" HPOS="736" VPOS="2338" WIDTH="560" HEIGHT="3">
+						<TextLine ID="line_16" HPOS="736" VPOS="2338" WIDTH="560" HEIGHT="3">
+							<String ID="string_20" HPOS="736" VPOS="2338" WIDTH="560" HEIGHT="3" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_15" HPOS="1791" VPOS="669" WIDTH="12" HEIGHT="1593">
+					<TextBlock ID="block_15" HPOS="1791" VPOS="669" WIDTH="12" HEIGHT="1593">
+						<TextLine ID="line_17" HPOS="1791" VPOS="669" WIDTH="12" HEIGHT="1593">
+							<String ID="string_21" HPOS="1791" VPOS="669" WIDTH="12" HEIGHT="1593" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
