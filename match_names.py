@@ -4,12 +4,13 @@ from alto import parse_file
 import progressbar
 
 def main():
-    pattern = "[A-ZÅÖÄ][a-zäöå]{2,12},? [A-ZÅÖÄ][a-zäöå]{2,12}( [A-ZÅÖÄ][a-zäöå]{2,12})?"
+    pattern = "[A-ZÅÖÄ][a-zäöåA-ZÅÄÖ]{2,12}, [A-ZÅÖÄ][a-zäöå]{2,12}( [A-ZÅÖÄ][a-zäöå]{2,12})?"
     e = re.compile(pattern)
 
     print("EXAMPLES:")
     print(e.match(" Matsson, Carl Johan"))
     print(e.match("Matsson, Carl Johan"))
+    print(e.match("MATSSON, Carl Johan"))
     print(e.match("Matsson, Carl"))
 
     print(e.match("Matsson, CaRl Johan"))
@@ -80,6 +81,7 @@ def to_df(ms):
                 #print(name)#, description.split("Yttran")[0])
 
                 match = e.search(description)
+                description = description.replace(" | ", " ")
                 #print(match)
                 if match is not None:
                     year = int(match.group(0)[3:])
