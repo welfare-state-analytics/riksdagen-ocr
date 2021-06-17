@@ -91,7 +91,11 @@ def to_df(ms):
                         pass
                     else:
                         municipality = municipality.group(0).replace(",", "").strip()
-                    row = [decade, name, year, municipality]
+
+                    capitalized_name = name.lower().split()
+                    capitalized_name = " ".join([wd.capitalize() for wd in capitalized_name])
+
+                    row = [decade, capitalized_name, year, municipality]
 
                     rows.append(row)
 
