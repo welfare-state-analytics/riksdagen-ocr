@@ -4,7 +4,7 @@ from alto import parse_file
 import progressbar
 
 def main():
-    name = "[A-ZÅÖÄÉ][a-zäöåéA-ZÅÄÖ]{2,15}"
+    name = "[A-ZÅÖÄÉ][a-zäöåéA-ZÅÄÖ\\-]{2,25}"
     opt_name = "( " + name + ")?"
     born = "f\\. [0-9]{4,4}" # Born eg. f. 1929
     pattern = name + ", " + name + opt_name + opt_name + "[\S  ]{0,25}" + born
@@ -14,6 +14,7 @@ def main():
     print("EXAMPLES:")
     print(e.match("Matsson, Carl Johan sdds f. 1234"))
     print(e.match("Matsson, Carl Johan, f. 1234"))
+    print(e.match("Matsson, Carl-Johan, f. 1234"))
     print(e.match("MATSSON, Carl Johan, f. 1234"))
     print(e.match("Matsson, Carl Magnus Isak i dssdd f. 1234"))
 
@@ -80,7 +81,7 @@ def to_df(ms):
     municipalities = pd.read_csv("tatorter.csv")
     municipalities = set(municipalities["Tätort"])
 
-    name = "[A-ZÅÖÄ][a-zäöåA-ZÅÄÖ]{2,15}"
+    name = "[A-ZÅÖÄ][a-zäöåA-ZÅÄÖ\\-]{2,25}"
     opt_name = "( " + name + ")?"
     namepattern = name + ", " + name + opt_name + opt_name
     eName = re.compile(namepattern)
@@ -112,7 +113,8 @@ def to_df(ms):
 
                 name = namematch.group(0)
                 capitalized_name = name.lower().split()
-                capitalized_name = " ".join([wd.capitalize() for wd in capitalized_name])
+                capitalized_name = " ".join(["-".join([w.capitalize() for w in wd.split("-")])
+                    for wd in capitalized_name])
 
                 row = [decade, capitalized_name, year, municipality]
 

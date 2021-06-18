@@ -37,9 +37,9 @@ decade,name,year,municipality
 1921,"Antonsson, Anders",1856,Malmö
 1921,"Aronson, Ernst Karl",1876,Hedemora
 1921,"Asplund, Carl Immanuel",1872,Luleå
-1921,"Barnekow, Kjell Ragnar Mac",1877,
+1921,"Barnekow, Kjell Ragnar Mac-Doug-",1877,
 1921,"Barthelson, Clemens Gustaf",1854,Halna
-1921,"Friis, Johan Gabriel",1862,Söderö
+1921,"Beck-Friis, Johan Gabriel",1862,Söderö
 1921,"Bengtsson, Carl Emil",1875,Kullen
 1921,"Bengtsson, Sven",1866,Norup
 1921,"Berge, Nils Adolf",1869,Hagalund
@@ -324,7 +324,7 @@ decade,name,year,municipality
 1921,"Ljung, Erik Walfrid",1878,Svalöv
 1921,"Ljunggren, August",1874,Elof
 1921,"Ljungkvist, Sven Edvin",1880,Borås
-1921,"Ljunglund, Leonard Kristian Vin",1867,Stockholm
+1921,"Ljunglund, Leonard Kristian Vin-",1867,Stockholm
 1921,"Lorichs, Lorentz Ludvig",1867,Bernshammar
 1921,"Lundberg, Måns Bengtsson",1867,Malmö
 1921,"Lundbom, Johan Erik",1876,Stordalen
@@ -489,7 +489,7 @@ decade,name,year,municipality
 1921,"Sneidern, Axel Wilhelm Teodor",1875,
 1921,"Sommelius, Malte",1851,Hälsingborg
 1921,"Spens, Jakob Wilhelm",1861,Jönköping
-1921,"Spångberg, August Konrad Ferdi",1893,Charlottenberg
+1921,"Spångberg, August Konrad Ferdi-",1893,Charlottenberg
 1921,"Starbäck, Karl",1863,Stockholm
 1921,"Stjernberg, Nils Fredrik",1873,
 1921,"Stjernstedt, Johan Lars Wilhelm",1865,Änhammar
@@ -579,7 +579,7 @@ decade,name,year,municipality
 1921,"Vougt, Allan Georg Fredrik",1895,Malmö
 1921,"Vrang, Erik Persson",1870,Falköping
 1921,"Wrangel, Anton Magnus Herman",1857,
-1921,"Steyern, Nils Einar Len",1887,
+1921,"Steyern, Nils Einar Len-",1887,
 1921,"Västberg, Johan Mauritz",1886,Sundsvall
 1921,"Åkerberg, Olof Harald",1883,Örebro
 1921,"Åkerlund, Erik Gabriel Henrik",1853,
@@ -649,9 +649,9 @@ decade,name,year,municipality
 1931,"Asplund, Carl Immanuel",1872,Luleå
 1931,"Back, Johannes",1892,Solna
 1931,"Bagge, Gösta Adolfsson",1882,Stockholm
-1931,"Barnekow, Kjell Ragnar Mac",1877,Sörbytorp
+1931,"Barnekow, Kjell Ragnar Mac-Dougall",1877,Sörbytorp
 1931,"Beck, Johan Wilhelm",1881,Bengtstorp
-1931,"Friis, Carl Sigvard",1886,Harg
+1931,"Beck-Friis, Carl Sigvard",1886,Harg
 1931,"Bengtsson, Carl Emil",1875,Kullen
 1931,"Bengtsson, Carl Ludvig",1874,
 1931,"Bengtsson, Sven",1866,Norup
@@ -801,7 +801,7 @@ decade,name,year,municipality
 1931,"Gustafson, Ruth Valborg Maria",1881,Stockholm
 1931,"Gustavson, David Emanuel",1898,Sala
 1931,"Gustavson, John Aron",1890,Guntorp
-1931,"Gyllenswärd, Ragnar Hugo Ferdi",1891,
+1931,"Gyllenswärd, Ragnar Hugo Ferdi-",1891,
 1931,"Göunther, Christian Ernst",1886,
 1931,"Gärde, Johannes Natanael",1880,Stockholm
 1931,"Hagander, Johan Oscar",1896,
@@ -818,7 +818,7 @@ decade,name,year,municipality
 1931,"Hamilton, Raoul Gustaf",1855,Ovesholm
 1931,"Hammarlund, Nestor",1888,Errarp
 1931,"Hammarskjöld, Carl Gustav Valdemar",1865,Stockholm
-1931,"Hammarskjöld, Knut Hjalmar Leo",1862,
+1931,"Hammarskjöld, Knut Hjalmar Leo-",1862,
 1931,"Hamrin, Felix Teodor",1875,Stockholm
 1931,"Hansson, Anders",1864,Ravlunda
 1931,"Hansson, Anders Emil",1882,Trollhättan
@@ -905,7 +905,7 @@ decade,name,year,municipality
 1931,"Johansson, Nils Ivar",1899,Mysinge
 1931,"Johansson, Olof",1867,Edsbyn
 1931,"Johansson, Sven Albert",1875,Krogstorp
-1931,"Dahr, Carl Robert",1862,Jönköping
+1931,"Johansson-Dahr, Carl Robert",1862,Jönköping
 1931,"Johnsson, Gustaf Leonard",1887,Kalmar
 1931,"Johnsson, Johan Georg",1877,Norrahammar
 1931,"Jonsson, Carl Arvid Daniel",1886,Skedsbygd
@@ -947,7 +947,7 @@ decade,name,year,municipality
 1931,"Laurin, Harald",1875,Överby
 1931,"Leander, Axel",1888,Ystad
 1931,"Leander, Ulrik",1858,Karlskrona
-1931,"Jönsson, Axel",1888,Ystad
+1931,"Leander-Jönsson, Axel",1888,Ystad
 1931,"Leffler, Justus Edvin",1875,Kinna
 1931,"Leo, Henning Vilhelm",1885,Lidingö
 1931,"Levinson, Karl Samuel",1885,
@@ -1091,7 +1091,7 @@ decade,name,year,municipality
 1931,"Pauli, Ivan Hjalmar Emanuel",1885,Stockholm
 1931,"Paulsen, Anders Olof",1876,Arlöv
 1931,"Pehrsson, Axel Alarik",1883,
-1931,"Bramstorp, Axel Pehrsson",1883,Bramstorp
+1931,"Pehrsson-Bramstorp, Axel Pehrsson-Bramstorp",1883,Bramstorp
 1931,"Pehrsson, Osear Magnus",1887,Hörby
 1931,"Pehrsson, Per",1867,Göteborg
 1931,"Persson, Gunnar",1885,Falla
@@ -1130,7 +1130,7 @@ decade,name,year,municipality
 1931,"Ryberg, Karl Arthur",1882,Dalum
 1931,"Rydberg, August Wilhelm",1869,Barkarby
 1931,"Råstock, Anders",1874,Råstock
-1931,"Christiansson, Solveig Adina Olena",1902,Göteborg
+1931,"Rönn-Christiansson, Solveig Adina Olena",1902,Göteborg
 1931,"Sandberg, Olov Evert",1886,Böle
 1931,"Sandegård, Karl Johan",1880,Stockholm
 1931,"Sandler, Rickard Johannes",1884,Stockholm
@@ -1256,7 +1256,7 @@ decade,name,year,municipality
 1931,"Örne, Anders Emanuel",1881,Stockholm
 1931,"Östergren, Theodor",1878,Karlskrona
 1931,"Östlund, Agda Maria",1870,Stockholm
-1941,"Ericsson, Ragnar Bernhard",1887,Dansjö
+1941,"Aaby-Ericsson, Ragnar Bernhard",1887,Dansjö
 1941,"Dolfsson, Erik Holger Jonatan",1908,Bynsberg
 1941,"Ager, Ruth Maria",1904,Bromma
 1941,"Ahlkvist, Karl Emil",1899,Jordholmen
@@ -1312,8 +1312,8 @@ decade,name,year,municipality
 1941,"Arnemark, Gustaf Emil",1888,Stockholm
 1941,"Bagge, Gösta Adolfsson",1882,Stockholm
 1941,"Bark, Otto Hernfrid",1895,Riddarhyttan
-1941,"Barnekow, Kjell Ragnar Mae",1877,Sörbytorp
-1941,"Friis, Carl Sigvard",1886,Harg
+1941,"Barnekow, Kjell Ragnar Mae-Dougall",1877,Sörbytorp
+1941,"Beck-Friis, Carl Sigvard",1886,Harg
 1941,"Bengtsson, Carl Ludvig",1874,
 1941,"Bengtsson, Göte Tore Edvin",1911,Halmstad
 1941,"Bengtson, Torsten Stanley",1914,Danderyd
@@ -1582,13 +1582,13 @@ decade,name,year,municipality
 1941,"Linder, Fredrik William",1876,Malmö
 1941,"Linderot, Gerda Maria Cecilia",1891,Stockholm
 1941,"Linderot, Sven Harald",1889,Stockholm
-1941,"Andersson, Signe Vilhel",1909,Hjo
+1941,"Linderoth-Andersson, Signe Vilhel-",1909,Hjo
 1941,"Lindgren, Justus",1896,
 1941,"Lindholm, Per Sigurd",1904,Sandviken
 1941,"Lindmark, Carl Viktor",1880,Drängsmark
 1941,"Lindmark, Ewald Eug",1885,Drängsmark
 1941,"Lindqvist, Axel Albert",1878,
-1941,"Pettersson, Anna Elvira",1906,Östersund
+1941,"Lindqvist-Pettersson, Anna Elvira",1906,Östersund
 1941,"Lindskog, Elsa Ingeborg",1904,Kvarnsveden
 1941,"Lindström, Helge Börge",1901,Rossbol
 1941,"Lindström, Karl Alfred Rickard",1894,Stockholm
@@ -1701,7 +1701,7 @@ decade,name,year,municipality
 1941,"Osvald, Karl Hugo",1892,Uppsala
 1941,"Pauli, Ivan Hjalmar Emanuel",1885,Stockholm
 1941,"Paulsen, Anders Olof",1876,Arlöv
-1941,"Bramstorp, Axel Alarik",1883,Bramstorp
+1941,"Pehrsson-Bramstorp, Axel Alarik",1883,Bramstorp
 1941,"Persson, Bror Waldemar",1891,Halmstad
 1941,"Persson, Fritz Josef Hugo",1904,Växjö
 1941,"Persson, Gunnar",1885,Falla
@@ -1738,7 +1738,7 @@ decade,name,year,municipality
 1941,"Rudewall, Folke",1895,
 1941,"Ryberg, Karl Artur",1882,Dalum
 1941,"Rydh, Munck",1891,Östersund
-1941,"Christiansson, Solveig Adina Olena",1902,Göteborg
+1941,"Rönn-Christiansson, Solveig Adina Olena",1902,Göteborg
 1941,"Sandberg, John Malkolm Valfrid",1887,Sommen
 1941,"Sandberg, Olov Evert",1886,Böle
 1941,"Sandegård, Karl Johan",1880,Stockholm
@@ -1759,11 +1759,11 @@ decade,name,year,municipality
 1941,"Sjögren, Carl Einar",1887,Ultuna
 1941,"Sjölin, Bengt Johan Olof",1886,Trollhättan
 1941,"Sjöstrand, Helga Kristina",1890,Eksjö
-1941,"Bengtsson, Anna Maria",1889,Göteborg
-1941,"Skantze, Lars",1897,Karlskrona
+1941,"Sjöström-Bengtsson, Anna Maria",1889,Göteborg
+1941,"Skantze, Lars-Olof Harald",1897,Karlskrona
 1941,"Skoglund, Gösta Teodor",1903,Umeå
 1941,"Skoglund, John Martin",1892,Doverstorp
-1941,"Lindblom, Hulda Ottilia",1986,Sundsvall
+1941,"Skoglund-Lindblom, Hulda Ottilia",1986,Sundsvall
 1941,"Sköld, Per Edvin",1891,Toftaröd
 1941,"Sköldin, Per Arthur",1898,Sundbyberg
 1941,"Spetz, Gunnar",1891,Håbygård
@@ -1888,7 +1888,7 @@ decade,name,year,municipality
 1951,"Andersson, Karl Abel Mauritz",1887,Löfbo
 1951,"Andersson, Karl Albert",1895,Björkäng
 1951,"Andersson, Karl Bertil",1897,Surahammar
-1951,"Andersson, Karl",1921,
+1951,"Andersson, Karl-Gustav",1921,
 1951,"Andersson, Karl Herman",1889,Rixö
 1951,"Andersson, Karl Johan",1904,Alfredshem
 1951,"Andersson, Lars Erik",1888,Hedensbyn
@@ -1905,7 +1905,7 @@ decade,name,year,municipality
 1951,"Antonsson, Johannes Mikael",1921,Dahla
 1951,"Apelqvist, Harry",1905,
 1951,"Arweson, Bengt Emil Mattias",1904,Gothem
-1951,"Arvidson, John",1902,Hög
+1951,"Arvidson, John-Arvid",1902,Hög
 1951,"Asp, Per Einar",1906,Kilafors
 1951,"Aspling, Sven Gustaf",1912,Sundbyberg
 1951,"Bark, Otto Hernfrid",1895,Riddarhyttan
@@ -1949,7 +1949,7 @@ decade,name,year,municipality
 1951,"Böök, Klas Erik",1909,
 1951,"Carbell, Erik Erland Engelbrekt",1913,Stockholm
 1951,"Carlqvist, Ingeborg Hermine",1891,Helsingborg
-1951,"Carlsson, Carl",1889,Bakeröd
+1951,"Carlsson, Carl-Olof",1889,Bakeröd
 1951,"Carlsson, Carl Walfrid",1901,Stockholm
 1951,"Carlsson, Clas Erik",1914,Vikmanshyttan
 1951,"Carlsson, Erik Ragnar Artur",1903,Västerås
@@ -2053,18 +2053,18 @@ decade,name,year,municipality
 1951,"Hallagard, Gustav Albert",1887,Hallagården
 1951,"Hallberg, Gustav Arvid",1884,Falun
 1951,"Hallen, Harald Martin",1884,Arvika
-1951,"Hageby, Hugo Johan Fredrik",1919,Hjortkvarn
+1951,"Hageby, Hugo Johan Fredrik-Adolf",1919,Hjortkvarn
 1951,"Hammar, Anders Olof",1895,Folkärna
 1951,"Hammarskjöld, Dag Hjalmar Agne",1905,Stockholm
 1951,"Hammarsten, Erik Martin",1927,Älfsbyn
 1951,"Hamrin, Mac Teodor Pennycoock",1910,Kalmar
 1951,"Hamrin, Rickard Yngve",1907,Jönköping
-1951,"Thorell, Ruth Lizzie",1903,Uppsala
+1951,"Hamrin-Thorell, Ruth Lizzie",1903,Uppsala
 1951,"Hansson, Gustaf Harry",1894,Göteborg
 1951,"Hansson, Karl Emil",1879,Skediga
 1951,"Hansson, Nils Birger",1900,Ronneby
 1951,"Hansson, Nils Gunnar",1902,Skegrie
-1951,"Hansson, Per",1918,Vällingby
+1951,"Hansson, Per-Olof",1918,Vällingby
 1951,"Hansson, Stig Folke",1913,Önnarp
 1951,"Heckscher, Gunnar Edvard",1909,Stockholm
 1951,"Hedblom, Staffan Björn Anders",1924,Johanneshov
@@ -2119,7 +2119,7 @@ decade,name,year,municipality
 1951,"Johansson, Anders Emil",1891,Kråkered
 1951,"Johansson, Carl Edvin",1900,Torp
 1951,"Johansson, Carl Ejnar Konstantin",1889,Kalmar
-1951,"Johansson, Carl",1902,Södertälje
+1951,"Johansson, Carl-Erik",1902,Södertälje
 1951,"Johansson, Elsa Amalia",1888,Pryssgården
 1951,"Johansson, Gustav Robert",1911,Dockered
 1951,"Johansson, Johan Fridolf",1894,Lugnvik
@@ -2194,9 +2194,9 @@ decade,name,year,municipality
 1951,"Lassinantti, Isak Ragnvald",1915,Luleå
 1951,"Leander, Axel",1888,Ystad
 1951,"Lemne, Mats Herman",1919,Stockholm
-1951,"Eliasson, Anna",1912,Huddinge
+1951,"Lewen-Eliasson, Anna-Lisa",1912,Huddinge
 1951,"Levin, Hans Samuel",1899,Kämpinge
-1951,"Frostenson, Ulla Ebba",1910,Drottningholm
+1951,"Lidman-Frostenson, Ulla Ebba Ca-",1910,Drottningholm
 1951,"Lidskog, Carl Ingvar Gustaf",1919,Vallentuna
 1951,"Liljedahl, Edith Virginia",1901,Gävle
 1951,"Lindahl, Lars Hjalmar",1894,Laxå
@@ -2204,7 +2204,7 @@ decade,name,year,municipality
 1951,"Lindberg, Marta Sylvia",1912,Frövi
 1951,"Lindblom, Erik August",1888,Falun
 1951,"Lindell, Ingvar Albert",1904,Stockholm
-1951,"Lindelöw, Karl",1920,Nygård
+1951,"Lindelöw, Karl-Gustav",1920,Nygård
 1951,"Lindgren, Justus Hilmer",1896,
 1951,"Lindholm, Per Sigurd",1904,Sandviken
 1951,"Lindskog, Elsa Ingeborg",1904,Borlänge
@@ -2212,7 +2212,7 @@ decade,name,year,municipality
 1951,"Lindström, Ulla Gunilla",1909,Stockholm
 1951,"Lingman, John",1901,Stockholm
 1951,"Lodenius, Viktor Gunnar",1892,Hammarby
-1951,"Lothigius, Carl",1919,Örserumsbrunn
+1951,"Lothigius, Carl-Wilhelm",1919,Örserumsbrunn
 1951,"Lundberg, John Inge",1905,Uppsala
 1951,"Lundgren, Per Gordon",1890,Umeå
 1951,"Lundkvist, Karl Svante",1919,Eskilstuna
@@ -2262,7 +2262,7 @@ decade,name,year,municipality
 1951,"Nilsson, Harald Torsten Leonard",1905,Stockholm
 1951,"Nilsson, Henning Ferdinand",1908,Gävle
 1951,"Nilsson, Hjalmar",1886,Alnarp
-1951,"Nilsson, Jan",1924,Västerås
+1951,"Nilsson, Jan-Ivar Nathanael",1924,Västerås
 1951,"Nilsson, Johan",1873,Kristianstad
 1951,"Nilsson, Johan Magnus",1891,Varuträsk
 1951,"Nilsson, Jöns Olof",1905,Bästekille
@@ -2280,7 +2280,7 @@ decade,name,year,municipality
 1951,"Nordkvist, Nils Sigfrid",1889,Kalmar
 1951,"Nordqvist, Olof Helmer",1896,Karlskoga
 1951,"Nordström, Margareta",1907,Johanneshov
-1951,"Nordlander, Mikael Inge Carl",1909,Hornö
+1951,"Nordlander, Mikael Inge Carl-Hen-",1909,Hornö
 1951,"Norling, Anton",1889,Göteborg
 1951,"Norman, David Robert",1887,Fagersta
 1951,"Norrby, Samuel Johannes",1906,Åkersberga
@@ -2344,7 +2344,7 @@ decade,name,year,municipality
 1951,"Renström, Nanny Helena",1903,Kumla
 1951,"Rimmerfors, Axel Einar",1900,Bromma
 1951,"Rimas, Karl Sigvard Emanuel",1909,Åsandby
-1951,"Ringaby, Per",1916,Ringaby
+1951,"Ringaby, Per-Erik",1916,Ringaby
 1951,"Rosenberg, Nils Ragnar Wiking",1897,Hässleholm
 1951,"Rubbestad, Axel Ludvig",1888,Rubbestad
 1951,"Rudewall, Folke",1895,
@@ -2356,7 +2356,7 @@ decade,name,year,municipality
 1951,"Sandström, Ragnhild Maria Andrea",1901,Teg
 1951,"Schmidt, Carl Sixtensson",1894,Göteborg
 1951,"Schött, Lars Erik",1911,Kalmar
-1951,"Wiberg, Ingrid",1911,Göteborg
+1951,"Segerstedt-Wiberg, Ingrid",1911,Göteborg
 1951,"Sehlstedt, Ossian Alfons",1904,Eskilstuna
 1951,"Senander, Knut Erik Waldemar",1889,
 1951,"Seth, Torgil Gabriel Alexander",1895,Bratteborg
@@ -2367,7 +2367,7 @@ decade,name,year,municipality
 1951,"Sjölin, Bengt Johan Olof",1886,Trollhättan
 1951,"Sjöqvist, Birgitta Kristina",1910,Sunne
 1951,"Sjöstrand, Helga Kristina",1890,Umeå
-1951,"Bengtsson, Anna Maria",1889,Göteborg
+1951,"Sjöström-Bengtsson, Anna Maria",1889,Göteborg
 1951,"Sjövall, Elisabeth",1915,Göteborg
 1951,"Skoglund, Gösta Teodor",1903,
 1951,"Skoglund, Johan Martin",1892,Doverstorp
@@ -2430,10 +2430,10 @@ decade,name,year,municipality
 1951,"Utbult, Karl Birger",1884,Öckerö
 1951,"Wachtmeister, Hans Wilhelm Axelsson",1913,Wambåsa
 1951,"Wahlund, Sven Gösta William",1901,
-1951,"Wahrendorff, John Harry Alexan",1903,Kil
+1951,"Wahrendorff, John Harry Alexan-",1903,Kil
 1951,"Wallentheim, Adolf Valentin",1898,Nacka
-1951,"Wallentheim, Annie Emilia Elisa",1902,Nacka
-1951,"Gunne, Annie Kristina",1912,
+1951,"Wallentheim, Annie Emilia Elisa-",1902,Nacka
+1951,"Wallerius-Gunne, Annie Kristina",1912,
 1951,"Wallin, Eivor Linnea",1904,Skutskär
 1951,"Ward, Karl Selim Valentin",1888,Norrköping
 1951,"Wehtje, Ernst Jonas",1891,Malmö
@@ -2483,7 +2483,7 @@ decade,name,year,municipality
 1961,"Andersson, Ebon",1896,Stockholm
 1961,"Andersson, Ivar",1918,
 1961,"Anderson, John",1902,
-1961,"Andersson, Karl",1921,Storfors
+1961,"Andersson, Karl-Gustav",1921,Storfors
 1961,"Andersson, Lennart",1927,Södertälje
 1961,"Andersson, Rosa",1908,Strängnäs
 1961,"Anderson, Ruth",1908,Lerum
@@ -2497,7 +2497,7 @@ decade,name,year,municipality
 1961,"Antby, Sven",1908,Anten
 1961,"Antonsson, Johannes",1921,Heberg
 1961,"Arweson, Bengt",1904,Gothem
-1961,"Arvidson, John",1902,Stockholm
+1961,"Arvidson, John-Arvid",1902,Stockholm
 1961,"Aspling, Sven",1912,Sundbyberg
 1961,"Axelson, Anders",1910,Fagerås
 1961,"Bengtsson, Bengt",1915,Järnbrott
@@ -2556,7 +2556,7 @@ decade,name,year,municipality
 1961,"Elmstedt, Claes",1928,Ronneby
 1961,"Elofsson, Gustaf",1897,
 1961,"Elowsson, Nils",1890,
-1961,"Enskog, Carl",1915,Västerås
+1961,"Enskog, Carl-Gustav",1915,Västerås
 1961,"Eriksson, Etty",1897,Ängelholm
 1961,"Ericsson, Gunnar",1919,Åtvidaberg
 1961,"Ericsson, John",1907,Stockholm
@@ -2572,7 +2572,7 @@ decade,name,year,municipality
 1961,"Fagerlund, Bengt",1914,
 1961,"Fagerström, Lars",1910,Boden
 1961,"Fahlander, Gustaf",1892,Eskilstuna
-1961,"Feldt, Kjell",1931,
+1961,"Feldt, Kjell-Olof",1931,
 1961,"Winther, Ethel",1927,Älvsjö
 1961,"Forsberg, Anders",1914,Nässjö
 1961,"Forsling, Ruth",1923,Stockholm
@@ -2589,7 +2589,7 @@ decade,name,year,municipality
 1961,"Gustavsson, Gusti",1912,Ängelholm
 1961,"Gustafsson, Hans",1912,Vällingby
 1961,"Gustafsson, Lars",1925,Barkarby
-1961,"Gustafsson, Nils",1922,Byske
+1961,"Gustafsson, Nils-Eric",1922,Byske
 1961,"Gustafson, Sven",1911,
 1961,"Gustavsson, Åke",1943,Nässjö
 1961,"Widemar, Ingrid",1912,Stockholm
@@ -2598,7 +2598,7 @@ decade,name,year,municipality
 1961,"Hammarberg, Sven",1912,
 1961,"Hammarsten, Erik",1927,Älvsbyn
 1961,"Hamrin, Mac",1910,Kalmar
-1961,"Thorell, Ruth",1903,Uppsala
+1961,"Hamrin-Thorell, Ruth",1903,Uppsala
 1961,"Hansson, Gustaf Henry",1894,Göteborg
 1961,"Hansson, Nils",1900,
 1961,"Hansson, Nils",1902,Trelleborg
@@ -2612,7 +2612,7 @@ decade,name,year,municipality
 1961,"Hedlund, Gunnar",1900,Rådom
 1961,"Hellström, Mats",1942,Stockholm
 1961,"Henrikson, Lars",1915,
-1961,"Hermansson, Carl",1917,Stockholm
+1961,"Hermansson, Carl-Henrik",1917,Stockholm
 1961,"Hermansson, Herbert",1906,Torslanda
 1961,"Hermansson, Rune",1917,Stockholm
 1961,"Heurlin, Dagmar",1919,Bromma
@@ -2622,7 +2622,7 @@ decade,name,year,municipality
 1961,"Holmberg, Yngve",1925,Stockholm
 1961,"Holmqvist, Eric",1917,Malmö
 1961,"Hugosson, Kurt",1931,Göteborg
-1961,"Häll, Karl",1929,Malmberget
+1961,"Häll, Karl-Erik",1929,Malmberget
 1961,"Högström, Ivar",1913,
 1961,"Hörnlund, Gördis",1924,Borås
 1961,"Jadestig, Thure",1922,Hallstahammar
@@ -2632,7 +2632,7 @@ decade,name,year,municipality
 1961,"Jansson, Paul",1924,Moholm
 1961,"Johansson, Anders",1891,Borås
 1961,"Johansson, Carl",1900,Nösund
-1961,"Johansson, Carl",1902,
+1961,"Johansson, Carl-Erik",1902,
 1961,"Johanson, Eric",1905,Västervik
 1961,"Johansson, Erik",1923,Simrishamn
 1961,"Johansson, John",1904,
@@ -2664,7 +2664,7 @@ decade,name,year,municipality
 1961,"Krönmark, Eric",1931,
 1961,"Källenius, Sten",1912,Stockholm
 1961,"Källqvist, Eric",1898,Kristinehamn
-1961,"Landberg, Maj",1922,
+1961,"Landberg, Maj-Lis",1922,
 1961,"Landgren, Axel",1898,Ystad
 1961,"Larsson, Anton",1915,Tösse
 1961,"Larsson, Erik",1910,Norderön
@@ -2676,9 +2676,9 @@ decade,name,year,municipality
 1961,"Larsson, Uno",1915,Kristinehamn
 1961,"Eliasson, Anna Lisa",1912,Huddinge
 1961,"Levin, Hans",1899,Kämpinge
-1961,"Levin, Karl",1923,Lund
+1961,"Levin, Karl-Axel",1923,Lund
 1961,"Lidbom, Carl",1926,Stockholm
-1961,"Frostenson, Ulla",1910,
+1961,"Lidman-Frostenson, Ulla",1910,
 1961,"Lindahl, Essen",1916,Lidingö
 1961,"Lindahl, Lars",1894,Laxå
 1961,"Lindberg, Marta",1912,Frövi
@@ -2691,7 +2691,7 @@ decade,name,year,municipality
 1961,"Lindström, Ulla",1909,Stockholm
 1961,"Ljungberg, Blenda",1907,
 1961,"Lokander, Kaj",1913,Karlstad
-1961,"Lothigius, Carl",1919,Gränna
+1961,"Lothigius, Carl-Wilhelm",1919,Gränna
 1961,"Ludvigsson, Ingrid",1920,Torshälla
 1961,"Lundbeck, Alice",1909,Stockholm
 1961,"Lundberg, John",1905,
@@ -2715,15 +2715,15 @@ decade,name,year,municipality
 1961,"Nelander, Eric",1902,Trelleborg
 1961,"Nestrup, Nils",1894,Halmstad
 1961,"Nihlfors, Folke",1910,Farsta
-1961,"Nilsson, Anna",1924,Hamarslund
+1961,"Nilsson, Anna-Lisa",1924,Hamarslund
 1961,"Nilsson, Bernt",1919,Kalmar
 1961,"Nilsson, Eric",1905,Svalöv
 1961,"Nilsson, Gustav",1897,Varberg
 1961,"Nilsson, Henning",1908,Gävle
-1961,"Nilsson, Jan",1924,
+1961,"Nilsson, Jan-Ivan",1924,
 1961,"Nilsson, Jöns",1905,Vitaby
 1961,"Nilsson, Nils",1907,
-1961,"Nilsson, Sven",1925,
+1961,"Nilsson, Sven-Eric",1925,
 1961,"Nilsson, Tore",1919,Vännäs
 1961,"Norberg, Eric",1907,Timrå
 1961,"Nord, Josef",1894,Fyrunga
@@ -2762,7 +2762,7 @@ decade,name,year,municipality
 1961,"Petersson, Per",1919,
 1961,"Ranmark, Dagmar",1899,Säffle
 1961,"Rask, Karl",1911,Bredaryd
-1961,"Ringaby, Per",1916,Ullersäter
+1961,"Ringaby, Per-Eric",1916,Ullersäter
 1961,"Rosvall, Anna",1911,Dösjebro
 1961,"Ryding, Gunvor",1918,Göteborg
 1961,"Sandler, Rickard",1884,Stockhom
@@ -2774,7 +2774,7 @@ decade,name,year,municipality
 1961,"Seth, Torgil Gabriel",1895,Bratteborg
 1961,"Sigurdsen, Gertrud",1923,
 1961,"Sjövall, Elisabet",1915,Göteborg
-1961,"Skantz, Anna",1923,Malmö
+1961,"Skantz, Anna-Greta",1923,Malmö
 1961,"Skoglund, Gösta",1903,Umeå
 1961,"Sköld, Per Edvin",1891,Höör
 1961,"Spetz, Gunnar",1891,Håbygård
@@ -2789,7 +2789,7 @@ decade,name,year,municipality
 1961,"Strandberg, Bertil",1920,Boden
 1961,"Stridsman, Torsten",1926,Luleå
 1961,"Sträng, Gunnar",1906,Spånga
-1961,"Strömberg, Karl",1926,
+1961,"Strömberg, Karl-Erik",1926,
 1961,"Ståhle, Nils",1901,Fagersta
 1961,"Sundberg, Ingrid",1925,Bjuv
 1961,"Sundelin, Gustaf",1890,
@@ -2812,7 +2812,7 @@ decade,name,year,municipality
 1961,"Söderquist, Martin",1893,Solna
 1961,"Söderström, Kurt",1914,
 1961,"Sörenson, Joel",1915,Älvsjö
-1961,"Sörenson, Lars",1920,
+1961,"Sörenson, Lars-Ingvar",1920,
 1961,"Sörlin, Thore",1906,Åsele
 1961,"Thunborg, Carsten",1918,Skärholmen
 1961,"Thunvall, Gunbjörg",1912,Ramsjö
@@ -2827,12 +2827,12 @@ decade,name,year,municipality
 1961,"Wennerfors, Alf",1928,Sundbyberg
 1961,"Werbro, Wiking",1913,
 1961,"Werner, Lars",1935,Trollbäcken
-1961,"Westberg, Hans",1926,Hofors
+1961,"Westberg, Hans-Olov",1926,Hofors
 1961,"Westberg, Olof",1911,
 1961,"Vigelsbo, Sven",1898,Sala
 1961,"Wiklund, Bengt",1919,Härnösand
 1961,"Wiklund, Olof",1902,Öjebyn
-1961,"Wikström, Jan",1932,Stockholm
+1961,"Wikström, Jan-Erik",1932,Stockholm
 1961,"Wååg, Nils Erik",1921,Kristianstad
 1961,"Wärnberg, Erik",1919,Rimforsa
 1961,"Zachrisson, Bertil",1926,Stockholm
@@ -2841,6 +2841,6 @@ decade,name,year,municipality
 1961,"Åkerlund, Henrik",1914,Lidingö
 1961,"Åkesson, Sten",1900,Örebro
 1961,"Åsbrink, Eva",1912,Skara
-1961,"Österdahl, Sven",1917,Visby
+1961,"Österdahl, Sven-Otto",1917,Visby
 1961,"Östlund, Carl",1894,Myckle
 1961,"Östrand, Erik",1907,Söderhamn
