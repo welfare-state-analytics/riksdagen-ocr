@@ -4,14 +4,18 @@ from alto import parse_file
 import progressbar
 
 def main():
-    pattern = "[A-ZÅÖÄ][a-zäöåA-ZÅÄÖ]{2,12}, [A-ZÅÖÄ][a-zäöå]{2,12}( [A-ZÅÖÄ][a-zäöå]{2,12})?"
+    name = "[A-ZÅÖÄÉ][a-zäöåéA-ZÅÄÖ]{2,15}"
+    opt_name = "( " + name + ")?"
+    born = "f\\. [0-9]{4,4}" # Born eg. f. 1929
+    pattern = name + ", " + name + opt_name + opt_name + "[\S  ]{0,25}" + born
+    print(pattern)
     e = re.compile(pattern)
 
     print("EXAMPLES:")
-    print(e.match(" Matsson, Carl Johan"))
-    print(e.match("Matsson, Carl Johan"))
-    print(e.match("MATSSON, Carl Johan"))
-    print(e.match("Matsson, Carl"))
+    print(e.match("Matsson, Carl Johan sdds f. 1234"))
+    print(e.match("Matsson, Carl Johan, f. 1234"))
+    print(e.match("MATSSON, Carl Johan, f. 1234"))
+    print(e.match("Matsson, Carl Magnus Isak i dssdd f. 1234"))
 
     print(e.match("Matsson, CaRl Johan"))
     print(e.match("Matsson"))
@@ -58,6 +62,8 @@ def main():
 
         decade_m = ms.get(decade, {})
         for name, description in m.items():
+            if len(name.split()[0]) <= 1:
+                name = name[2:]
             decade_m[name] = description
         ms[decade] = decade_m
 
@@ -67,7 +73,6 @@ def to_df(ms):
     pattern = "f. [0-9]{4,4}"
     e = re.compile(pattern)
 
-
     pattern2 = ", [A-ZÅÖÄ][a-zäöå]{2,20},"
     e2 = re.compile(pattern2)
 
@@ -75,29 +80,43 @@ def to_df(ms):
     municipalities = pd.read_csv("tatorter.csv")
     municipalities = set(municipalities["Tätort"])
 
+    name = "[A-ZÅÖÄ][a-zäöåA-ZÅÄÖ]{2,15}"
+    opt_name = "( " + name + ")?"
+    namepattern = name + ", " + name + opt_name + opt_name
+    eName = re.compile(namepattern)
+
     for decade in ms:
         for name, description in ms[decade].items():
-            if "f. " in description[:40]:
-                #print(name)#, description.split("Yttran")[0])
+            #if "f. " in description[:40]:
+            #print(name)#, description.split("Yttran")[0])
 
-                match = e.search(description)
-                description = description.replace(" | ", " ")
-                #print(match)
-                if match is not None:
-                    year = int(match.group(0)[3:])
-                    municipality = e2.search(description)
+            match = e.search(name)
+            description = description.replace(" | ", " ")
+            #print(match)
 
-                    if municipality is None:
-                        pass
-                    else:
-                        municipality = municipality.group(0).replace(",", "").strip()
+            if "almkvist" in name.lower():
+                print(name)
+                print(description)
+                print()
 
-                    capitalized_name = name.lower().split()
-                    capitalized_name = " ".join([wd.capitalize() for wd in capitalized_name])
+            namematch = eName.search(name)
 
-                    row = [decade, capitalized_name, year, municipality]
+            if match is not None and namematch is not None:
+                year = int(match.group(0)[3:])
+                municipality = e2.search(description)
 
-                    rows.append(row)
+                if municipality is None:
+                    pass
+                else:
+                    municipality = municipality.group(0).replace(",", "").strip()
+
+                name = namematch.group(0)
+                capitalized_name = name.lower().split()
+                capitalized_name = " ".join([wd.capitalize() for wd in capitalized_name])
+
+                row = [decade, capitalized_name, year, municipality]
+
+                rows.append(row)
 
     df = pd.DataFrame(rows, columns=["decade", "name", "year", "municipality"])
     return df
