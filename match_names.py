@@ -74,7 +74,7 @@ def to_df(ms):
     pattern = "f. [0-9]{4,4}"
     e = re.compile(pattern)
 
-    pattern2 = ", [A-ZÅÖÄ][a-zäöå]{2,20},"
+    pattern2 = " [A-ZÅÖÄ][a-zäöå]{2,20},"
     e2 = re.compile(pattern2)
 
     rows = []
@@ -86,6 +86,9 @@ def to_df(ms):
     namepattern = name + ", " + name + opt_name + opt_name
     eName = re.compile(namepattern)
 
+    locations = pd.read_csv("locations.csv")["Location"]
+    locations = set(locations)
+
     for decade in ms:
         for name, description in ms[decade].items():
             #if "f. " in description[:40]:
@@ -93,6 +96,7 @@ def to_df(ms):
 
             match = e.search(name)
             description = description.replace(" | ", " ")
+            description = description.replace("- ", "")
             #print(match)
 
             if "almkvist" in name.lower():
@@ -104,12 +108,13 @@ def to_df(ms):
 
             if match is not None and namematch is not None:
                 year = int(match.group(0)[3:])
-                municipality = e2.search(description)
+                municipality = None
+                for m in e2.finditer(description):
+                    m = m.group(0).replace(",", "").strip()
 
-                if municipality is None:
-                    pass
-                else:
-                    municipality = municipality.group(0).replace(",", "").strip()
+                    if m in locations:#m != "Johannesnäs":
+                        municipality = m
+                        break
 
                 name = namematch.group(0)
                 capitalized_name = name.lower().split()
