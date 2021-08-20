@@ -4,7 +4,7 @@ import progressbar
 from lxml import etree
 import pandas as pd
 
-pattern = "[A-ZÅÄÖÉ][a-zåäöéA-ZÅÄÖÉ]{2,20} i ([A-ZÅÄÖÉ][a-zåäöéA-ZÅÄÖÉ]{2,20}):"
+pattern = "[A-ZÅÄÖÉ][a-zåäöéA-ZÅÄÖÉ]{2,20} i ([A-ZÅÄÖÉ][a-zåäöéA-ZÅÄÖÉ]{2,20})( \\([a-zåäöéA-ZÅÄÖÉ]{2,20}\\))?:"
 exp = re.compile(pattern)
 
 s = "Herr LARSSON i Hedenäset (cp)"
@@ -30,6 +30,8 @@ for outfolder in progressbar.progressbar(folders):
                 if paragraph.attrib.get("type") == "speaker":
                     paragraph = paragraph.text
                     for m in exp.findall(paragraph):
+                        #print(m)
+                        m = m[0]
                         locations.append([m, outfolder])
 
 
@@ -38,4 +40,4 @@ df = df.drop_duplicates()
 df = df.reset_index(drop=True)
 df = df.sort_values("place")
 print(df)
-df.to_csv("locations.csv")
+df.to_csv("locations.csv", index=False)
