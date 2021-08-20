@@ -78,15 +78,15 @@ def to_df(ms):
     e2 = re.compile(pattern2)
 
     rows = []
-    municipalities = pd.read_csv("tatorter.csv")
-    municipalities = set(municipalities["Tätort"])
+    #municipalities = pd.read_csv("tatorter.csv")
+    #municipalities = set(municipalities["Tätort"])
 
     name = "[A-ZÅÖÄ][a-zäöåA-ZÅÄÖ\\-]{2,25}"
     opt_name = "( " + name + ")?"
     namepattern = name + ", " + name + opt_name + opt_name
     eName = re.compile(namepattern)
 
-    locations = pd.read_csv("locations.csv")["Location"]
+    locations = pd.read_csv("locations.csv")["place"]
     locations = set(locations)
 
     for decade in ms:
@@ -99,10 +99,6 @@ def to_df(ms):
             description = description.replace("- ", "")
             #print(match)
 
-            if "almkvist" in name.lower():
-                print(name)
-                print(description)
-                print()
 
             namematch = eName.search(name)
 
@@ -115,6 +111,8 @@ def to_df(ms):
                     if m in locations:#m != "Johannesnäs":
                         municipality = m
                         break
+                if "hansson" in name.lower() and "Önnarp" in description:
+                    print(municipality, description)
 
                 name = namematch.group(0)
                 capitalized_name = name.lower().split()

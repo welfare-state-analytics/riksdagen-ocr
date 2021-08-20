@@ -4,7 +4,7 @@ import progressbar
 from lxml import etree
 import pandas as pd
 
-pattern = "[A-ZÅÄÖÉ][a-zåäöéA-ZÅÄÖÉ]{2,20} i ([A-ZÅÄÖÉ][a-zåäöéA-ZÅÄÖÉ]{2,20})( \\([a-zåäöéA-ZÅÄÖÉ]{2,20}\\))?:"
+pattern = "[A-ZÅÄÖÉ][a-zåäöéA-ZÅÄÖÉ]{2,20} i ([A-ZÅÄÖÉ][a-zåäöéA-ZÅÄÖÉ]{2,20})( \\([a-zåäöéA-ZÅÄÖÉ]{1,20}\\))?"
 exp = re.compile(pattern)
 
 s = "Herr LARSSON i Hedenäset (cp)"
