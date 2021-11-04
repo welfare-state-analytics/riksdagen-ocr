@@ -71,6 +71,9 @@ def main():
     return ms
 
 def to_df(ms):
+    district_pattern = "[A-ZÅÖÄ][a-zäöå][a-zäöåA-ZÅÖÄ ]{2,35} län"
+    district_e = re.compile(district_pattern)
+
     pattern = "f. [0-9]{4,4}"
     e = re.compile(pattern)
 
@@ -105,6 +108,7 @@ def to_df(ms):
             if match is not None and namematch is not None:
                 year = int(match.group(0)[3:])
                 municipality = None
+                district = None
                 for m in e2.finditer(description):
                     m = m.group(0).replace(",", "").strip()
 
@@ -113,17 +117,25 @@ def to_df(ms):
                         break
                 if "hansson" in name.lower() and "Önnarp" in description:
                     print(municipality, description)
+                
+                for m in district_e.finditer(description):
+                    m = m.group(0)
+                    district = m
 
                 name = namematch.group(0)
                 capitalized_name = name.lower().split()
                 capitalized_name = " ".join(["-".join([w.capitalize() for w in wd.split("-")])
                     for wd in capitalized_name])
-
-                row = [decade, capitalized_name, year, municipality]
+                chamber = None
+                if "LAK" in description:
+                    chamber = "ak"
+                elif "LFK" in description:
+                    chamber = "fk"
+                row = [decade, capitalized_name, year, municipality, district, chamber]
 
                 rows.append(row)
 
-    df = pd.DataFrame(rows, columns=["decade", "name", "year", "municipality"])
+    df = pd.DataFrame(rows, columns=["decade", "name", "year", "municipality", "district", "chamber"])
     return df
 
 if __name__ == '__main__':
