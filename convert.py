@@ -30,3 +30,6 @@ for _, row in years.iterrows():
 			tess_command = ["tesseract", str(fname), "statscalender/" + plain_fname, "-l", "swe", "alto"]
 			print(" ".join(tess_command))
 			subprocess.call(tess_command)
+
+		for fname in p1.glob("*.png"):
+			subprocess.call(["rm", str(fname)])
