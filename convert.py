@@ -4,7 +4,7 @@ import sys
 from pathlib import Path
 import subprocess
 
-years = pd.read_csv("metadata/years.csv")
+years = pd.read_csv("metadata/statskalender_mop_pages.csv")
 print(years)
 
 p = Path(sys.argv[1])
