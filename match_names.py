@@ -81,7 +81,7 @@ def to_df(ms):
     e2 = re.compile(pattern2)
 
     rows = []
-    #municipalities = pd.read_csv("tatorter.csv")
+    #municipalities = pd.read_csv("metadata/tatorter.csv")
     #municipalities = set(municipalities["Tätort"])
 
     name = "[A-ZÅÖÄ][a-zäöåA-ZÅÄÖ\\-]{2,25}"
@@ -144,4 +144,4 @@ if __name__ == '__main__':
 
     print(df)
 
-    df.to_csv("mps.csv", index=False)
+    df.to_csv("metadata/mps.csv", index=False)
