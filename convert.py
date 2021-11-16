@@ -2,6 +2,9 @@
 OCR specific pages with tesseract.
 Takes in a folder of PDFs, converts them into images, and OCRs the
 pages mentioned in read
+
+Currently, the CSV lists years and their associated start and end pages.
+Moreover, the PDF names need to be *YYYY.pdf for the script to work.
 """
 import pandas as pd
 import os
@@ -43,9 +46,11 @@ def main(args):
 
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser(description=__doc__)
-	parser.add_argument("--infolder", type=str, default="pdfs/")
-	parser.add_argument("--csv_path", type=str, default="metadata/statskalender_mop_pages.csv")
-	parser.add_argument("--outfolder", type=str, default="statscalender/")
+	parser.add_argument("--infolder", type=str, default="pdfs/", help="Convert and OCR all PDFs in this folder")
+	parser.add_argument("--csv_path", type=str, default="metadata/statskalender_mop_pages.csv",
+		help="Path to CSV which tells what pages to OCR per PDF file")
+	parser.add_argument("--outfolder", type=str, default="statscalender/",
+		help="Write all ALTO XML output files in this folder")
 	args = parser.parse_args()
 
 	main(args)
