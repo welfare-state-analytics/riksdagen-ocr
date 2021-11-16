@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName></fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 4.1.1</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1052" HEIGHT="1580" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1052" HEIGHT="1580">
+				<ComposedBlock ID="cblock_0" HPOS="425" VPOS="54" WIDTH="196" HEIGHT="18">
+					<TextBlock ID="block_0" HPOS="425" VPOS="54" WIDTH="196" HEIGHT="18">
+						<TextLine ID="line_0" HPOS="425" VPOS="54" WIDTH="196" HEIGHT="18">
+							<String ID="string_0" HPOS="425" VPOS="54" WIDTH="67" HEIGHT="18" WC="0.96" CONTENT="Andra"/><SP WIDTH="12" VPOS="54" HPOS="492"/>
+							<String ID="string_1" HPOS="504" VPOS="54" WIDTH="117" HEIGHT="18" WC="0.95" CONTENT="kammaren."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="856" VPOS="50" WIDTH="132" HEIGHT="26">
+					<TextBlock ID="block_1" HPOS="856" VPOS="50" WIDTH="132" HEIGHT="26">
+						<TextLine ID="line_1" HPOS="856" VPOS="50" WIDTH="132" HEIGHT="26">
+							<String ID="string_2" HPOS="856" VPOS="50" WIDTH="132" HEIGHT="26" WC="0.89" CONTENT="[171—178]"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="60" VPOS="82" WIDTH="906" HEIGHT="6">
+					<TextBlock ID="block_2" HPOS="60" VPOS="82" WIDTH="906" HEIGHT="6">
+						<TextLine ID="line_2" HPOS="60" VPOS="82" WIDTH="906" HEIGHT="6">
+							<String ID="string_3" HPOS="60" VPOS="82" WIDTH="906" HEIGHT="6" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="58" VPOS="101" WIDTH="456" HEIGHT="115">
+					<TextBlock ID="block_3" HPOS="58" VPOS="101" WIDTH="456" HEIGHT="47">
+						<TextLine ID="line_3" HPOS="58" VPOS="101" WIDTH="456" HEIGHT="24">
+							<String ID="string_4" HPOS="58" VPOS="103" WIDTH="62" HEIGHT="21" WC="0.96" CONTENT="Hoppe,"/><SP WIDTH="19" VPOS="103" HPOS="120"/>
+							<String ID="string_5" HPOS="139" VPOS="104" WIDTH="51" HEIGHT="16" WC="0.96" CONTENT="Ernst"/><SP WIDTH="17" VPOS="104" HPOS="190"/>
+							<String ID="string_6" HPOS="207" VPOS="104" WIDTH="45" HEIGHT="19" WC="0.93" CONTENT="Carl,"/><SP WIDTH="16" VPOS="104" HPOS="252"/>
+							<String ID="string_7" HPOS="268" VPOS="104" WIDTH="112" HEIGHT="21" WC="0.87" CONTENT="Kontr.prost"/><SP WIDTH="15" VPOS="104" HPOS="380"/>
+							<String ID="string_8" HPOS="395" VPOS="101" WIDTH="53" HEIGHT="23" WC="0.87" CONTENT="[657],"/><SP WIDTH="13" VPOS="101" HPOS="448"/>
+							<String ID="string_9" HPOS="461" VPOS="104" WIDTH="11" HEIGHT="16" WC="0.91" CONTENT="f."/><SP WIDTH="14" VPOS="104" HPOS="472"/>
+							<String ID="string_10" HPOS="486" VPOS="103" WIDTH="28" HEIGHT="20" WC="0.96" CONTENT="87;"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="84" VPOS="126" WIDTH="167" HEIGHT="22">
+							<String ID="string_11" HPOS="84" VPOS="127" WIDTH="21" HEIGHT="17" WC="0.93" CONTENT="37"/><SP WIDTH="13" VPOS="127" HPOS="105"/>
+							<String ID="string_12" HPOS="118" VPOS="126" WIDTH="43" HEIGHT="22" WC="0.92" CONTENT="(adr."/><SP WIDTH="13" VPOS="126" HPOS="161"/>
+							<String ID="string_13" HPOS="174" VPOS="126" WIDTH="77" HEIGHT="21" WC="0.95" CONTENT="Motala)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_4" HPOS="58" VPOS="150" WIDTH="456" HEIGHT="47">
+						<TextLine ID="line_5" HPOS="58" VPOS="150" WIDTH="456" HEIGHT="21">
+							<String ID="string_14" HPOS="58" VPOS="151" WIDTH="99" HEIGHT="20" WC="0.96" CONTENT="Johansson,"/><SP WIDTH="16" VPOS="151" HPOS="157"/>
+							<String ID="string_15" HPOS="173" VPOS="152" WIDTH="39" HEIGHT="16" WC="0.95" CONTENT="Nils"/><SP WIDTH="15" VPOS="152" HPOS="212"/>
+							<String ID="string_16" HPOS="227" VPOS="152" WIDTH="44" HEIGHT="19" WC="0.95" CONTENT="Ivar,"/><SP WIDTH="14" VPOS="152" HPOS="271"/>
+							<String ID="string_17" HPOS="285" VPOS="151" WIDTH="126" HEIGHT="20" WC="0.93" CONTENT="Lantbrukare,"/><SP WIDTH="14" VPOS="151" HPOS="411"/>
+							<String ID="string_18" HPOS="425" VPOS="152" WIDTH="11" HEIGHT="15" WC="0.92" CONTENT="f."/><SP WIDTH="15" VPOS="152" HPOS="436"/>
+							<String ID="string_19" HPOS="451" VPOS="152" WIDTH="27" HEIGHT="19" WC="0.96" CONTENT="99;"/><SP WIDTH="15" VPOS="152" HPOS="478"/>
+							<String ID="string_20" HPOS="493" VPOS="150" WIDTH="21" HEIGHT="17" WC="0.96" CONTENT="37"/>
+						</TextLine>
+						<TextLine ID="line_6" HPOS="82" VPOS="173" WIDTH="294" HEIGHT="24">
+							<String ID="string_21" HPOS="82" VPOS="174" WIDTH="43" HEIGHT="22" WC="0.87" CONTENT="(adr."/><SP WIDTH="14" VPOS="174" HPOS="125"/>
+							<String ID="string_22" HPOS="139" VPOS="176" WIDTH="85" HEIGHT="21" WC="0.92" CONTENT="Mysinge,"/><SP WIDTH="15" VPOS="176" HPOS="224"/>
+							<String ID="string_23" HPOS="239" VPOS="173" WIDTH="51" HEIGHT="19" WC="0.96" CONTENT="Östra"/><SP WIDTH="13" VPOS="173" HPOS="290"/>
+							<String ID="string_24" HPOS="303" VPOS="173" WIDTH="73" HEIGHT="22" WC="0.93" CONTENT="Husby)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_5" HPOS="61" VPOS="200" WIDTH="317" HEIGHT="16">
+						<TextLine ID="line_7" HPOS="61" VPOS="200" WIDTH="317" HEIGHT="16">
+							<String ID="string_25" HPOS="61" VPOS="200" WIDTH="27" HEIGHT="16" WC="0.96" CONTENT="En"/><SP WIDTH="13" VPOS="200" HPOS="88"/>
+							<String ID="string_26" HPOS="101" VPOS="200" WIDTH="68" HEIGHT="16" WC="0.96" CONTENT="vakant."/><SP WIDTH="206" VPOS="200" HPOS="169"/>
+							<String ID="string_27" HPOS="375" VPOS="200" WIDTH="3" HEIGHT="2" WC="0.46" CONTENT="Å"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="56" VPOS="257" WIDTH="459" HEIGHT="433">
+					<TextBlock ID="block_6" HPOS="59" VPOS="257" WIDTH="312" HEIGHT="24">
+						<TextLine ID="line_8" HPOS="59" VPOS="257" WIDTH="312" HEIGHT="24">
+							<String ID="string_28" HPOS="59" VPOS="257" WIDTH="62" HEIGHT="24" WC="0.95" CONTENT="[172]"/><SP WIDTH="79" VPOS="257" HPOS="121"/>
+							<String ID="string_29" HPOS="200" VPOS="258" WIDTH="121" HEIGHT="23" WC="0.95" CONTENT="Jönköpings"/><SP WIDTH="12" VPOS="258" HPOS="321"/>
+							<String ID="string_30" HPOS="333" VPOS="258" WIDTH="38" HEIGHT="18" WC="0.96" CONTENT="län."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_7" HPOS="58" VPOS="287" WIDTH="457" HEIGHT="47">
+						<TextLine ID="line_9" HPOS="58" VPOS="287" WIDTH="456" HEIGHT="23">
+							<String ID="string_31" HPOS="58" VPOS="289" WIDTH="97" HEIGHT="20" WC="0.95" CONTENT="Carlström,"/><SP WIDTH="19" VPOS="289" HPOS="155"/>
+							<String ID="string_32" HPOS="174" VPOS="290" WIDTH="54" HEIGHT="16" WC="0.96" CONTENT="Oscar"/><SP WIDTH="15" VPOS="290" HPOS="228"/>
+							<String ID="string_33" HPOS="243" VPOS="289" WIDTH="74" HEIGHT="21" WC="0.96" CONTENT="Ludvig,"/><SP WIDTH="13" VPOS="289" HPOS="317"/>
+							<String ID="string_34" HPOS="330" VPOS="289" WIDTH="120" HEIGHT="16" WC="0.96" CONTENT="Lantbrukare"/><SP WIDTH="12" VPOS="289" HPOS="450"/>
+							<String ID="string_35" HPOS="462" VPOS="287" WIDTH="52" HEIGHT="23" WC="0.95" CONTENT="[950],"/>
+						</TextLine>
+						<TextLine ID="line_10" HPOS="83" VPOS="311" WIDTH="432" HEIGHT="23">
+							<String ID="string_36" HPOS="83" VPOS="314" WIDTH="11" HEIGHT="16" WC="0.90" CONTENT="f."/><SP WIDTH="21" VPOS="314" HPOS="94"/>
+							<String ID="string_37" HPOS="115" VPOS="313" WIDTH="27" HEIGHT="20" WC="0.96" CONTENT="79;"/><SP WIDTH="20" VPOS="313" HPOS="142"/>
+							<String ID="string_38" HPOS="162" VPOS="313" WIDTH="22" HEIGHT="17" WC="0.93" CONTENT="37"/><SP WIDTH="16" VPOS="313" HPOS="184"/>
+							<String ID="string_39" HPOS="200" VPOS="311" WIDTH="43" HEIGHT="22" WC="0.91" CONTENT="(adr."/><SP WIDTH="14" VPOS="311" HPOS="243"/>
+							<String ID="string_40" HPOS="257" VPOS="313" WIDTH="60" HEIGHT="21" WC="0.93" CONTENT="Sävsjö"/><SP WIDTH="13" VPOS="313" HPOS="317"/>
+							<String ID="string_41" HPOS="330" VPOS="312" WIDTH="99" HEIGHT="22" WC="0.91" CONTENT="södergård,"/><SP WIDTH="14" VPOS="312" HPOS="429"/>
+							<String ID="string_42" HPOS="443" VPOS="312" WIDTH="72" HEIGHT="22" WC="0.96" CONTENT="Sävsjö)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_8" HPOS="58" VPOS="335" WIDTH="456" HEIGHT="47">
+						<TextLine ID="line_11" HPOS="58" VPOS="335" WIDTH="456" HEIGHT="24">
+							<String ID="string_43" HPOS="58" VPOS="337" WIDTH="49" HEIGHT="20" WC="0.96" CONTENT="Fast,"/><SP WIDTH="6" VPOS="337" HPOS="107"/>
+							<String ID="string_44" HPOS="113" VPOS="338" WIDTH="56" HEIGHT="21" WC="0.96" CONTENT="Johan"/><SP WIDTH="9" VPOS="338" HPOS="169"/>
+							<String ID="string_45" HPOS="178" VPOS="338" WIDTH="43" HEIGHT="16" WC="0.93" CONTENT="Erik"/><SP WIDTH="9" VPOS="338" HPOS="221"/>
+							<String ID="string_46" HPOS="230" VPOS="338" WIDTH="74" HEIGHT="19" WC="0.92" CONTENT="Gereon,"/><SP WIDTH="10" VPOS="338" HPOS="304"/>
+							<String ID="string_47" HPOS="314" VPOS="337" WIDTH="140" HEIGHT="17" WC="0.96" CONTENT="Möbelsnickare"/><SP WIDTH="8" VPOS="337" HPOS="454"/>
+							<String ID="string_48" HPOS="462" VPOS="335" WIDTH="52" HEIGHT="24" WC="0.91" CONTENT="[508],"/>
+						</TextLine>
+						<TextLine ID="line_12" HPOS="82" VPOS="360" WIDTH="233" HEIGHT="22">
+							<String ID="string_49" HPOS="82" VPOS="362" WIDTH="12" HEIGHT="16" WC="0.92" CONTENT="f."/><SP WIDTH="14" VPOS="362" HPOS="94"/>
+							<String ID="string_50" HPOS="108" VPOS="362" WIDTH="28" HEIGHT="19" WC="0.94" CONTENT="83;"/><SP WIDTH="15" VPOS="362" HPOS="136"/>
+							<String ID="string_51" HPOS="151" VPOS="361" WIDTH="21" HEIGHT="17" WC="0.93" CONTENT="37"/><SP WIDTH="13" VPOS="361" HPOS="172"/>
+							<String ID="string_52" HPOS="185" VPOS="360" WIDTH="43" HEIGHT="21" WC="0.91" CONTENT="(adr."/><SP WIDTH="12" VPOS="360" HPOS="228"/>
+							<String ID="string_53" HPOS="240" VPOS="360" WIDTH="75" HEIGHT="22" WC="0.96" CONTENT="Nässjö)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_9" HPOS="58" VPOS="385" WIDTH="456" HEIGHT="45">
+						<TextLine ID="line_13" HPOS="58" VPOS="385" WIDTH="456" HEIGHT="21">
+							<String ID="string_54" HPOS="58" VPOS="385" WIDTH="100" HEIGHT="20" WC="0.95" CONTENT="Andersson,"/><SP WIDTH="13" VPOS="385" HPOS="158"/>
+							<String ID="string_55" HPOS="171" VPOS="385" WIDTH="65" HEIGHT="16" WC="0.96" CONTENT="Gustav"/><SP WIDTH="9" VPOS="385" HPOS="236"/>
+							<String ID="string_56" HPOS="245" VPOS="385" WIDTH="52" HEIGHT="20" WC="0.93" CONTENT="Emil,"/><SP WIDTH="10" VPOS="385" HPOS="297"/>
+							<String ID="string_57" HPOS="307" VPOS="386" WIDTH="153" HEIGHT="20" WC="0.91" CONTENT="Hemmansägare,"/><SP WIDTH="7" VPOS="386" HPOS="460"/>
+							<String ID="string_58" HPOS="467" VPOS="386" WIDTH="12" HEIGHT="15" WC="0.92" CONTENT="f."/><SP WIDTH="8" VPOS="386" HPOS="479"/>
+							<String ID="string_59" HPOS="487" VPOS="385" WIDTH="27" HEIGHT="19" WC="0.96" CONTENT="90;"/>
+						</TextLine>
+						<TextLine ID="line_14" HPOS="83" VPOS="407" WIDTH="319" HEIGHT="23">
+							<String ID="string_60" HPOS="83" VPOS="409" WIDTH="22" HEIGHT="17" WC="0.73" CONTENT="37"/><SP WIDTH="13" VPOS="409" HPOS="105"/>
+							<String ID="string_61" HPOS="118" VPOS="408" WIDTH="43" HEIGHT="21" WC="0.91" CONTENT="(adr."/><SP WIDTH="14" VPOS="408" HPOS="161"/>
+							<String ID="string_62" HPOS="175" VPOS="408" WIDTH="103" HEIGHT="22" WC="0.92" CONTENT="Södergård,"/><SP WIDTH="13" VPOS="408" HPOS="278"/>
+							<String ID="string_63" HPOS="291" VPOS="407" WIDTH="111" HEIGHT="22" WC="0.91" CONTENT="Hällabäck)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_10" HPOS="57" VPOS="432" WIDTH="457" HEIGHT="46">
+						<TextLine ID="line_15" HPOS="57" VPOS="432" WIDTH="457" HEIGHT="22">
+							<String ID="string_64" HPOS="57" VPOS="437" WIDTH="33" HEIGHT="12" WC="0.96" CONTENT="von"/><SP WIDTH="11" VPOS="437" HPOS="90"/>
+							<String ID="string_65" HPOS="101" VPOS="432" WIDTH="46" HEIGHT="20" WC="0.96" CONTENT="Seth,"/><SP WIDTH="19" VPOS="432" HPOS="147"/>
+							<String ID="string_66" HPOS="166" VPOS="434" WIDTH="61" HEIGHT="20" WC="0.95" CONTENT="Torgil"/><SP WIDTH="19" VPOS="434" HPOS="227"/>
+							<String ID="string_67" HPOS="246" VPOS="433" WIDTH="72" HEIGHT="16" WC="0.96" CONTENT="Gabriel"/><SP WIDTH="17" VPOS="433" HPOS="318"/>
+							<String ID="string_68" HPOS="335" VPOS="433" WIDTH="104" HEIGHT="19" WC="0.96" CONTENT="Alexander,"/><SP WIDTH="14" VPOS="433" HPOS="439"/>
+							<String ID="string_69" HPOS="453" VPOS="433" WIDTH="61" HEIGHT="20" WC="0.96" CONTENT="Greve,"/>
+						</TextLine>
+						<TextLine ID="line_16" HPOS="83" VPOS="455" WIDTH="431" HEIGHT="23">
+							<String ID="string_70" HPOS="83" VPOS="458" WIDTH="64" HEIGHT="20" WC="0.92" CONTENT="Ryttm."/><SP WIDTH="12" VPOS="458" HPOS="147"/>
+							<String ID="string_71" HPOS="159" VPOS="455" WIDTH="53" HEIGHT="23" WC="0.93" CONTENT="[369],"/><SP WIDTH="20" VPOS="455" HPOS="212"/>
+							<String ID="string_72" HPOS="232" VPOS="458" WIDTH="11" HEIGHT="15" WC="0.92" CONTENT="f."/><SP WIDTH="15" VPOS="458" HPOS="243"/>
+							<String ID="string_73" HPOS="258" VPOS="457" WIDTH="27" HEIGHT="19" WC="0.96" CONTENT="95;"/><SP WIDTH="21" VPOS="457" HPOS="285"/>
+							<String ID="string_74" HPOS="306" VPOS="456" WIDTH="22" HEIGHT="17" WC="0.72" CONTENT="387"/><SP WIDTH="13" VPOS="456" HPOS="328"/>
+							<String ID="string_75" HPOS="341" VPOS="455" WIDTH="43" HEIGHT="22" WC="0.92" CONTENT="(adr."/><SP WIDTH="16" VPOS="455" HPOS="384"/>
+							<String ID="string_76" HPOS="400" VPOS="457" WIDTH="114" HEIGHT="21" WC="0.90" CONTENT="Bratteborg)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_11" HPOS="56" VPOS="480" WIDTH="459" HEIGHT="22">
+						<TextLine ID="line_17" HPOS="56" VPOS="480" WIDTH="459" HEIGHT="22">
+							<String ID="string_77" HPOS="56" VPOS="480" WIDTH="102" HEIGHT="22" WC="0.96" CONTENT="Andersson,"/><SP WIDTH="18" VPOS="480" HPOS="158"/>
+							<String ID="string_78" HPOS="176" VPOS="481" WIDTH="43" HEIGHT="16" WC="0.96" CONTENT="Karl"/><SP WIDTH="18" VPOS="481" HPOS="219"/>
+							<String ID="string_79" HPOS="237" VPOS="481" WIDTH="46" HEIGHT="16" WC="0.96" CONTENT="Abel"/><SP WIDTH="16" VPOS="481" HPOS="283"/>
+							<String ID="string_80" HPOS="299" VPOS="481" WIDTH="78" HEIGHT="20" WC="0.96" CONTENT="Mauritz,"/><SP WIDTH="13" VPOS="481" HPOS="377"/>
+							<String ID="string_81" HPOS="390" VPOS="481" WIDTH="125" HEIGHT="20" WC="0.96" CONTENT="Lantbrukare,"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_12" HPOS="59" VPOS="503" WIDTH="373" HEIGHT="22">
+						<TextLine ID="line_18" HPOS="59" VPOS="503" WIDTH="373" HEIGHT="22">
+							<String ID="string_82" HPOS="59" VPOS="506" WIDTH="35" HEIGHT="15" WC="0.49" CONTENT="&quot;of."/><SP WIDTH="14" VPOS="506" HPOS="94"/>
+							<String ID="string_83" HPOS="108" VPOS="504" WIDTH="28" HEIGHT="20" WC="0.96" CONTENT="87;"/><SP WIDTH="14" VPOS="504" HPOS="136"/>
+							<String ID="string_84" HPOS="150" VPOS="504" WIDTH="22" HEIGHT="17" WC="0.93" CONTENT="37"/><SP WIDTH="13" VPOS="504" HPOS="172"/>
+							<String ID="string_85" HPOS="185" VPOS="503" WIDTH="42" HEIGHT="22" WC="0.88" CONTENT="(adr."/><SP WIDTH="14" VPOS="503" HPOS="227"/>
+							<String ID="string_86" HPOS="241" VPOS="505" WIDTH="67" HEIGHT="20" WC="0.91" CONTENT="Löbbo,"/><SP WIDTH="14" VPOS="505" HPOS="308"/>
+							<String ID="string_87" HPOS="322" VPOS="503" WIDTH="110" HEIGHT="22" WC="0.91" CONTENT="Hällabäck)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_13" HPOS="58" VPOS="527" WIDTH="456" HEIGHT="47">
+						<TextLine ID="line_19" HPOS="58" VPOS="527" WIDTH="456" HEIGHT="23">
+							<String ID="string_88" HPOS="58" VPOS="528" WIDTH="91" HEIGHT="20" WC="0.95" CONTENT="Dahlbäck,"/><SP WIDTH="16" VPOS="528" HPOS="149"/>
+							<String ID="string_89" HPOS="165" VPOS="529" WIDTH="55" HEIGHT="17" WC="0.96" CONTENT="Oscar"/><SP WIDTH="16" VPOS="529" HPOS="220"/>
+							<String ID="string_90" HPOS="236" VPOS="529" WIDTH="78" HEIGHT="20" WC="0.96" CONTENT="Fredrik,"/><SP WIDTH="14" VPOS="529" HPOS="314"/>
+							<String ID="string_91" HPOS="328" VPOS="530" WIDTH="121" HEIGHT="20" WC="0.96" CONTENT="Borgmästare"/><SP WIDTH="13" VPOS="530" HPOS="449"/>
+							<String ID="string_92" HPOS="462" VPOS="527" WIDTH="52" HEIGHT="23" WC="0.92" CONTENT="[508],"/>
+						</TextLine>
+						<TextLine ID="line_20" HPOS="83" VPOS="551" WIDTH="269" HEIGHT="23">
+							<String ID="string_93" HPOS="83" VPOS="554" WIDTH="11" HEIGHT="15" WC="0.92" CONTENT="f."/><SP WIDTH="14" VPOS="554" HPOS="94"/>
+							<String ID="string_94" HPOS="108" VPOS="553" WIDTH="29" HEIGHT="19" WC="0.96" CONTENT="86;"/><SP WIDTH="14" VPOS="553" HPOS="137"/>
+							<String ID="string_95" HPOS="151" VPOS="552" WIDTH="22" HEIGHT="17" WC="0.93" CONTENT="37"/><SP WIDTH="13" VPOS="552" HPOS="173"/>
+							<String ID="string_96" HPOS="186" VPOS="551" WIDTH="43" HEIGHT="22" WC="0.92" CONTENT="(adr."/><SP WIDTH="11" VPOS="551" HPOS="229"/>
+							<String ID="string_97" HPOS="240" VPOS="551" WIDTH="112" HEIGHT="23" WC="0.96" CONTENT="Jönköping)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_14" HPOS="58" VPOS="576" WIDTH="456" HEIGHT="46">
+						<TextLine ID="line_21" HPOS="58" VPOS="576" WIDTH="456" HEIGHT="21">
+							<String ID="string_98" HPOS="58" VPOS="576" WIDTH="105" HEIGHT="20" WC="0.96" CONTENT="Gustafsson,"/><SP WIDTH="16" VPOS="576" HPOS="163"/>
+							<String ID="string_99" HPOS="179" VPOS="578" WIDTH="54" HEIGHT="15" WC="0.96" CONTENT="Frans"/><SP WIDTH="16" VPOS="578" HPOS="233"/>
+							<String ID="string_100" HPOS="249" VPOS="577" WIDTH="62" HEIGHT="20" WC="0.93" CONTENT="Edvin,"/><SP WIDTH="17" VPOS="577" HPOS="311"/>
+							<String ID="string_101" HPOS="328" VPOS="577" WIDTH="83" HEIGHT="20" WC="0.91" CONTENT="Banvakt,"/><SP WIDTH="14" VPOS="577" HPOS="411"/>
+							<String ID="string_102" HPOS="425" VPOS="578" WIDTH="12" HEIGHT="15" WC="0.91" CONTENT="f."/><SP WIDTH="14" VPOS="578" HPOS="437"/>
+							<String ID="string_103" HPOS="451" VPOS="577" WIDTH="28" HEIGHT="20" WC="0.96" CONTENT="88;"/><SP WIDTH="14" VPOS="577" HPOS="479"/>
+							<String ID="string_104" HPOS="493" VPOS="577" WIDTH="21" HEIGHT="17" WC="0.96" CONTENT="37"/>
+						</TextLine>
+						<TextLine ID="line_22" HPOS="83" VPOS="599" WIDTH="124" HEIGHT="23">
+							<String ID="string_105" HPOS="83" VPOS="599" WIDTH="44" HEIGHT="22" WC="0.92" CONTENT="(adr."/><SP WIDTH="13" VPOS="599" HPOS="127"/>
+							<String ID="string_106" HPOS="140" VPOS="599" WIDTH="67" HEIGHT="23" WC="0.92" CONTENT="Bogla)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_15" HPOS="58" VPOS="625" WIDTH="456" HEIGHT="46">
+						<TextLine ID="line_23" HPOS="58" VPOS="625" WIDTH="456" HEIGHT="22">
+							<String ID="string_107" HPOS="58" VPOS="625" WIDTH="103" HEIGHT="19" WC="0.96" CONTENT="Pettersson,"/><SP WIDTH="16" VPOS="625" HPOS="161"/>
+							<String ID="string_108" HPOS="177" VPOS="626" WIDTH="44" HEIGHT="21" WC="0.96" CONTENT="John"/><SP WIDTH="14" VPOS="626" HPOS="221"/>
+							<String ID="string_109" HPOS="235" VPOS="625" WIDTH="82" HEIGHT="20" WC="0.92" CONTENT="Vilhelm,"/><SP WIDTH="20" VPOS="625" HPOS="317"/>
+							<String ID="string_110" HPOS="337" VPOS="625" WIDTH="153" HEIGHT="22" WC="0.92" CONTENT="Hemmansägare,"/><SP WIDTH="13" VPOS="625" HPOS="490"/>
+							<String ID="string_111" HPOS="503" VPOS="626" WIDTH="11" HEIGHT="16" WC="0.92" CONTENT="f."/>
+						</TextLine>
+						<TextLine ID="line_24" HPOS="83" VPOS="647" WIDTH="392" HEIGHT="24">
+							<String ID="string_112" HPOS="83" VPOS="650" WIDTH="28" HEIGHT="18" WC="0.96" CONTENT="93;"/><SP WIDTH="14" VPOS="650" HPOS="111"/>
+							<String ID="string_113" HPOS="125" VPOS="649" WIDTH="22" HEIGHT="17" WC="0.93" CONTENT="37"/><SP WIDTH="13" VPOS="649" HPOS="147"/>
+							<String ID="string_114" HPOS="160" VPOS="647" WIDTH="42" HEIGHT="22" WC="0.89" CONTENT="(adr."/><SP WIDTH="14" VPOS="647" HPOS="202"/>
+							<String ID="string_115" HPOS="216" VPOS="650" WIDTH="61" HEIGHT="20" WC="0.93" CONTENT="Sävsjö"/><SP WIDTH="13" VPOS="650" HPOS="277"/>
+							<String ID="string_116" HPOS="290" VPOS="648" WIDTH="100" HEIGHT="22" WC="0.92" CONTENT="norregård,"/><SP WIDTH="14" VPOS="648" HPOS="390"/>
+							<String ID="string_117" HPOS="404" VPOS="648" WIDTH="71" HEIGHT="23" WC="0.96" CONTENT="Sävsjö)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_16" HPOS="59" VPOS="673" WIDTH="111" HEIGHT="17">
+						<TextLine ID="line_25" HPOS="59" VPOS="673" WIDTH="111" HEIGHT="17">
+							<String ID="string_118" HPOS="59" VPOS="673" WIDTH="27" HEIGHT="16" WC="0.96" CONTENT="En"/><SP WIDTH="14" VPOS="673" HPOS="86"/>
+							<String ID="string_119" HPOS="100" VPOS="674" WIDTH="70" HEIGHT="16" WC="0.95" CONTENT="vakant."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_5" HPOS="59" VPOS="730" WIDTH="311" HEIGHT="24">
+					<TextBlock ID="block_17" HPOS="59" VPOS="730" WIDTH="311" HEIGHT="24">
+						<TextLine ID="line_26" HPOS="59" VPOS="730" WIDTH="311" HEIGHT="24">
+							<String ID="string_120" HPOS="59" VPOS="730" WIDTH="61" HEIGHT="24" WC="0.96" CONTENT="[173]"/><SP WIDTH="79" VPOS="730" HPOS="120"/>
+							<String ID="string_121" HPOS="199" VPOS="732" WIDTH="121" HEIGHT="22" WC="0.90" CONTENT="Kronobergs"/><SP WIDTH="12" VPOS="732" HPOS="320"/>
+							<String ID="string_122" HPOS="332" VPOS="732" WIDTH="38" HEIGHT="18" WC="0.96" CONTENT="län."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_6" HPOS="57" VPOS="762" WIDTH="458" HEIGHT="284">
+					<TextBlock ID="block_18" HPOS="57" VPOS="762" WIDTH="458" HEIGHT="45">
+						<TextLine ID="line_27" HPOS="57" VPOS="762" WIDTH="458" HEIGHT="21">
+							<String ID="string_123" HPOS="57" VPOS="762" WIDTH="89" HEIGHT="19" WC="0.96" CONTENT="Svensson,"/><SP WIDTH="21" VPOS="762" HPOS="146"/>
+							<String ID="string_124" HPOS="167" VPOS="763" WIDTH="65" HEIGHT="16" WC="0.96" CONTENT="Gustav"/><SP WIDTH="20" VPOS="763" HPOS="232"/>
+							<String ID="string_125" HPOS="252" VPOS="763" WIDTH="83" HEIGHT="20" WC="0.96" CONTENT="Hjalmar,"/><SP WIDTH="24" VPOS="763" HPOS="335"/>
+							<String ID="string_126" HPOS="359" VPOS="763" WIDTH="125" HEIGHT="20" WC="0.81" CONTENT="Lantbrukare,"/><SP WIDTH="19" VPOS="763" HPOS="484"/>
+							<String ID="string_127" HPOS="503" VPOS="764" WIDTH="12" HEIGHT="15" WC="0.90" CONTENT="f."/>
+						</TextLine>
+						<TextLine ID="line_28" HPOS="83" VPOS="784" WIDTH="336" HEIGHT="23">
+							<String ID="string_128" HPOS="83" VPOS="787" WIDTH="28" HEIGHT="19" WC="0.96" CONTENT="81;"/><SP WIDTH="14" VPOS="787" HPOS="111"/>
+							<String ID="string_129" HPOS="125" VPOS="786" WIDTH="22" HEIGHT="17" WC="0.93" CONTENT="37"/><SP WIDTH="13" VPOS="786" HPOS="147"/>
+							<String ID="string_130" HPOS="160" VPOS="784" WIDTH="42" HEIGHT="22" WC="0.90" CONTENT="(adr."/><SP WIDTH="14" VPOS="784" HPOS="202"/>
+							<String ID="string_131" HPOS="216" VPOS="787" WIDTH="84" HEIGHT="19" WC="0.92" CONTENT="Grönvik,"/><SP WIDTH="13" VPOS="787" HPOS="300"/>
+							<String ID="string_132" HPOS="313" VPOS="785" WIDTH="106" HEIGHT="22" WC="0.89" CONTENT="Hensmåla)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_19" HPOS="57" VPOS="809" WIDTH="457" HEIGHT="47">
+						<TextLine ID="line_29" HPOS="57" VPOS="809" WIDTH="457" HEIGHT="21">
+							<String ID="string_133" HPOS="57" VPOS="809" WIDTH="54" HEIGHT="21" WC="0.90" CONTENT="Nolin,"/><SP WIDTH="19" VPOS="809" HPOS="111"/>
+							<String ID="string_134" HPOS="130" VPOS="811" WIDTH="40" HEIGHT="16" WC="0.96" CONTENT="Carl"/><SP WIDTH="19" VPOS="811" HPOS="170"/>
+							<String ID="string_135" HPOS="189" VPOS="811" WIDTH="60" HEIGHT="19" WC="0.96" CONTENT="Oscar,"/><SP WIDTH="21" VPOS="811" HPOS="249"/>
+							<String ID="string_136" HPOS="270" VPOS="811" WIDTH="125" HEIGHT="19" WC="0.93" CONTENT="Lantbrukare,"/><SP WIDTH="20" VPOS="811" HPOS="395"/>
+							<String ID="string_137" HPOS="415" VPOS="811" WIDTH="12" HEIGHT="16" WC="0.90" CONTENT="f."/><SP WIDTH="19" VPOS="811" HPOS="427"/>
+							<String ID="string_138" HPOS="446" VPOS="811" WIDTH="28" HEIGHT="19" WC="0.95" CONTENT="83;"/><SP WIDTH="19" VPOS="811" HPOS="474"/>
+							<String ID="string_139" HPOS="493" VPOS="810" WIDTH="21" HEIGHT="17" WC="0.96" CONTENT="37"/>
+						</TextLine>
+						<TextLine ID="line_30" HPOS="82" VPOS="833" WIDTH="250" HEIGHT="23">
+							<String ID="string_140" HPOS="82" VPOS="833" WIDTH="44" HEIGHT="22" WC="0.92" CONTENT="(adr."/><SP WIDTH="14" VPOS="833" HPOS="126"/>
+							<String ID="string_141" HPOS="140" VPOS="833" WIDTH="79" HEIGHT="21" WC="0.92" CONTENT="Iremåla,"/><SP WIDTH="13" VPOS="833" HPOS="219"/>
+							<String ID="string_142" HPOS="232" VPOS="833" WIDTH="100" HEIGHT="23" WC="0.96" CONTENT="Tingsryd)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_20" HPOS="58" VPOS="858" WIDTH="456" HEIGHT="46">
+						<TextLine ID="line_31" HPOS="58" VPOS="858" WIDTH="456" HEIGHT="22">
+							<String ID="string_143" HPOS="58" VPOS="858" WIDTH="91" HEIGHT="19" WC="0.96" CONTENT="Mattsson,"/><SP WIDTH="12" VPOS="858" HPOS="149"/>
+							<String ID="string_144" HPOS="161" VPOS="859" WIDTH="60" HEIGHT="16" WC="0.96" CONTENT="Victor"/><SP WIDTH="11" VPOS="859" HPOS="221"/>
+							<String ID="string_145" HPOS="232" VPOS="859" WIDTH="60" HEIGHT="21" WC="0.93" CONTENT="Julius,"/><SP WIDTH="10" VPOS="859" HPOS="292"/>
+							<String ID="string_146" HPOS="302" VPOS="859" WIDTH="154" HEIGHT="21" WC="0.92" CONTENT="Hemmansägare,"/><SP WIDTH="9" VPOS="859" HPOS="456"/>
+							<String ID="string_147" HPOS="465" VPOS="859" WIDTH="11" HEIGHT="16" WC="0.92" CONTENT="f."/><SP WIDTH="10" VPOS="859" HPOS="476"/>
+							<String ID="string_148" HPOS="486" VPOS="859" WIDTH="28" HEIGHT="19" WC="0.95" CONTENT="87;"/>
+						</TextLine>
+						<TextLine ID="line_32" HPOS="83" VPOS="880" WIDTH="185" HEIGHT="24">
+							<String ID="string_149" HPOS="83" VPOS="881" WIDTH="22" HEIGHT="18" WC="0.90" CONTENT="37"/><SP WIDTH="12" VPOS="881" HPOS="105"/>
+							<String ID="string_150" HPOS="117" VPOS="880" WIDTH="43" HEIGHT="22" WC="0.86" CONTENT="(adr."/><SP WIDTH="14" VPOS="880" HPOS="160"/>
+							<String ID="string_151" HPOS="174" VPOS="881" WIDTH="94" HEIGHT="23" WC="0.91" CONTENT="Eneryda)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_21" HPOS="58" VPOS="905" WIDTH="456" HEIGHT="23">
+						<TextLine ID="line_33" HPOS="58" VPOS="905" WIDTH="456" HEIGHT="23">
+							<String ID="string_152" HPOS="58" VPOS="905" WIDTH="95" HEIGHT="20" WC="0.96" CONTENT="Gustafson,"/><SP WIDTH="15" VPOS="905" HPOS="153"/>
+							<String ID="string_153" HPOS="168" VPOS="907" WIDTH="43" HEIGHT="15" WC="0.94" CONTENT="Karl"/><SP WIDTH="22" VPOS="907" HPOS="211"/>
+							<String ID="string_154" HPOS="233" VPOS="907" WIDTH="84" HEIGHT="21" WC="0.93" CONTENT="Hjalmar,"/><SP WIDTH="16" VPOS="907" HPOS="317"/>
+							<String ID="string_155" HPOS="333" VPOS="907" WIDTH="154" HEIGHT="21" WC="0.91" CONTENT="Hemmansägare,"/><SP WIDTH="16" VPOS="907" HPOS="487"/>
+							<String ID="string_156" HPOS="503" VPOS="908" WIDTH="11" HEIGHT="15" WC="0.91" CONTENT="f."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_22" HPOS="60" VPOS="928" WIDTH="246" HEIGHT="23">
+						<TextLine ID="line_34" HPOS="60" VPOS="928" WIDTH="246" HEIGHT="23">
+							<String ID="string_157" HPOS="60" VPOS="948" WIDTH="2" HEIGHT="3" WC="0.55" CONTENT="-"/><SP WIDTH="21" VPOS="948" HPOS="62"/>
+							<String ID="string_158" HPOS="83" VPOS="931" WIDTH="28" HEIGHT="19" WC="0.86" CONTENT="93;"/><SP WIDTH="14" VPOS="931" HPOS="111"/>
+							<String ID="string_159" HPOS="125" VPOS="929" WIDTH="22" HEIGHT="18" WC="0.93" CONTENT="87"/><SP WIDTH="13" VPOS="929" HPOS="147"/>
+							<String ID="string_160" HPOS="160" VPOS="928" WIDTH="44" HEIGHT="22" WC="0.91" CONTENT="(adr."/><SP WIDTH="13" VPOS="928" HPOS="204"/>
+							<String ID="string_161" HPOS="217" VPOS="929" WIDTH="89" HEIGHT="22" WC="0.92" CONTENT="Dädesjö)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_23" HPOS="58" VPOS="953" WIDTH="456" HEIGHT="46">
+						<TextLine ID="line_35" HPOS="58" VPOS="953" WIDTH="456" HEIGHT="22">
+							<String ID="string_162" HPOS="58" VPOS="953" WIDTH="108" HEIGHT="22" WC="0.95" CONTENT="Magnusson,"/><SP WIDTH="14" VPOS="953" HPOS="166"/>
+							<String ID="string_163" HPOS="180" VPOS="955" WIDTH="42" HEIGHT="15" WC="0.96" CONTENT="Erik"/><SP WIDTH="13" VPOS="955" HPOS="222"/>
+							<String ID="string_164" HPOS="235" VPOS="955" WIDTH="41" HEIGHT="16" WC="0.96" CONTENT="Otto"/><SP WIDTH="9" VPOS="955" HPOS="276"/>
+							<String ID="string_165" HPOS="285" VPOS="955" WIDTH="95" HEIGHT="19" WC="0.96" CONTENT="Bernhard,"/><SP WIDTH="10" VPOS="955" HPOS="380"/>
+							<String ID="string_166" HPOS="390" VPOS="955" WIDTH="124" HEIGHT="20" WC="0.96" CONTENT="Lantbrukare,"/>
+						</TextLine>
+						<TextLine ID="line_36" HPOS="82" VPOS="977" WIDTH="367" HEIGHT="22">
+							<String ID="string_167" HPOS="82" VPOS="979" WIDTH="12" HEIGHT="15" WC="0.91" CONTENT="f."/><SP WIDTH="14" VPOS="979" HPOS="94"/>
+							<String ID="string_168" HPOS="108" VPOS="978" WIDTH="29" HEIGHT="19" WC="0.96" CONTENT="00;"/><SP WIDTH="14" VPOS="978" HPOS="137"/>
+							<String ID="string_169" HPOS="151" VPOS="977" WIDTH="22" HEIGHT="17" WC="0.93" CONTENT="37"/><SP WIDTH="13" VPOS="977" HPOS="173"/>
+							<String ID="string_170" HPOS="186" VPOS="977" WIDTH="42" HEIGHT="21" WC="0.92" CONTENT="(adr."/><SP WIDTH="14" VPOS="977" HPOS="228"/>
+							<String ID="string_171" HPOS="242" VPOS="978" WIDTH="88" HEIGHT="19" WC="0.92" CONTENT="Tumhult,"/><SP WIDTH="14" VPOS="978" HPOS="330"/>
+							<String ID="string_172" HPOS="344" VPOS="977" WIDTH="105" HEIGHT="22" WC="0.92" CONTENT="Målaskog)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_24" HPOS="58" VPOS="1000" WIDTH="456" HEIGHT="22">
+						<TextLine ID="line_37" HPOS="58" VPOS="1000" WIDTH="456" HEIGHT="22">
+							<String ID="string_173" HPOS="58" VPOS="1001" WIDTH="89" HEIGHT="20" WC="0.96" CONTENT="Rosander,"/><SP WIDTH="13" VPOS="1001" HPOS="147"/>
+							<String ID="string_174" HPOS="160" VPOS="1002" WIDTH="32" HEIGHT="16" WC="0.96" CONTENT="Per"/><SP WIDTH="13" VPOS="1002" HPOS="192"/>
+							<String ID="string_175" HPOS="205" VPOS="1002" WIDTH="66" HEIGHT="20" WC="0.96" CONTENT="Gustaf,"/><SP WIDTH="13" VPOS="1002" HPOS="271"/>
+							<String ID="string_176" HPOS="284" VPOS="1002" WIDTH="87" HEIGHT="19" WC="0.93" CONTENT="Direktör,"/><SP WIDTH="10" VPOS="1002" HPOS="371"/>
+							<String ID="string_177" HPOS="381" VPOS="1002" WIDTH="11" HEIGHT="16" WC="0.89" CONTENT="f."/><SP WIDTH="10" VPOS="1002" HPOS="392"/>
+							<String ID="string_178" HPOS="402" VPOS="1002" WIDTH="28" HEIGHT="19" WC="0.96" CONTENT="82;"/><SP WIDTH="11" VPOS="1002" HPOS="430"/>
+							<String ID="string_179" HPOS="441" VPOS="1002" WIDTH="22" HEIGHT="16" WC="0.93" CONTENT="39"/><SP WIDTH="8" VPOS="1002" HPOS="463"/>
+							<String ID="string_180" HPOS="471" VPOS="1000" WIDTH="43" HEIGHT="22" WC="0.92" CONTENT="(adr."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_25" HPOS="60" VPOS="1024" WIDTH="110" HEIGHT="22">
+						<TextLine ID="line_38" HPOS="60" VPOS="1024" WIDTH="110" HEIGHT="22">
+							<String ID="string_181" HPOS="60" VPOS="1043" WIDTH="2" HEIGHT="3" WC="0.0" CONTENT="."/><SP WIDTH="20" VPOS="1043" HPOS="62"/>
+							<String ID="string_182" HPOS="82" VPOS="1024" WIDTH="88" HEIGHT="22" WC="0.93" CONTENT="Målerås)."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_7" HPOS="59" VPOS="1076" WIDTH="294" HEIGHT="25">
+					<TextBlock ID="block_26" HPOS="59" VPOS="1076" WIDTH="294" HEIGHT="25">
+						<TextLine ID="line_39" HPOS="59" VPOS="1076" WIDTH="294" HEIGHT="25">
+							<String ID="string_183" HPOS="59" VPOS="1076" WIDTH="61" HEIGHT="25" WC="0.95" CONTENT="[174]"/><SP WIDTH="98" VPOS="1076" HPOS="120"/>
+							<String ID="string_184" HPOS="218" VPOS="1079" WIDTH="86" HEIGHT="17" WC="0.94" CONTENT="Kalmar"/><SP WIDTH="11" VPOS="1079" HPOS="304"/>
+							<String ID="string_185" HPOS="315" VPOS="1079" WIDTH="38" HEIGHT="17" WC="0.95" CONTENT="län."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_8" HPOS="57" VPOS="1109" WIDTH="457" HEIGHT="381">
+					<TextBlock ID="block_27" HPOS="58" VPOS="1109" WIDTH="455" HEIGHT="45">
+						<TextLine ID="line_40" HPOS="58" VPOS="1109" WIDTH="455" HEIGHT="20">
+							<String ID="string_186" HPOS="58" VPOS="1109" WIDTH="77" HEIGHT="20" WC="0.96" CONTENT="Jonsson,"/><SP WIDTH="19" VPOS="1109" HPOS="135"/>
+							<String ID="string_187" HPOS="154" VPOS="1109" WIDTH="40" HEIGHT="16" WC="0.96" CONTENT="Carl"/><SP WIDTH="13" VPOS="1109" HPOS="194"/>
+							<String ID="string_188" HPOS="207" VPOS="1109" WIDTH="55" HEIGHT="16" WC="0.96" CONTENT="Arvid"/><SP WIDTH="13" VPOS="1109" HPOS="262"/>
+							<String ID="string_189" HPOS="275" VPOS="1109" WIDTH="69" HEIGHT="20" WC="0.96" CONTENT="Daniel,"/><SP WIDTH="20" VPOS="1109" HPOS="344"/>
+							<String ID="string_190" HPOS="364" VPOS="1109" WIDTH="125" HEIGHT="20" WC="0.93" CONTENT="Lantbrukare,"/><SP WIDTH="14" VPOS="1109" HPOS="489"/>
+							<String ID="string_191" HPOS="503" VPOS="1110" WIDTH="10" HEIGHT="16" WC="0.93" CONTENT="f."/>
+						</TextLine>
+						<TextLine ID="line_41" HPOS="82" VPOS="1131" WIDTH="360" HEIGHT="23">
+							<String ID="string_192" HPOS="82" VPOS="1133" WIDTH="29" HEIGHT="19" WC="0.96" CONTENT="86;"/><SP WIDTH="14" VPOS="1133" HPOS="111"/>
+							<String ID="string_193" HPOS="125" VPOS="1132" WIDTH="22" HEIGHT="17" WC="0.91" CONTENT="37"/><SP WIDTH="13" VPOS="1132" HPOS="147"/>
+							<String ID="string_194" HPOS="160" VPOS="1131" WIDTH="43" HEIGHT="22" WC="0.91" CONTENT="(adr."/><SP WIDTH="14" VPOS="1131" HPOS="203"/>
+							<String ID="string_195" HPOS="217" VPOS="1133" WIDTH="109" HEIGHT="21" WC="0.91" CONTENT="Skedsbygd,"/><SP WIDTH="14" VPOS="1133" HPOS="326"/>
+							<String ID="string_196" HPOS="340" VPOS="1132" WIDTH="102" HEIGHT="21" WC="0.96" CONTENT="Alsterbro)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_28" HPOS="57" VPOS="1156" WIDTH="456" HEIGHT="45">
+						<TextLine ID="line_42" HPOS="57" VPOS="1156" WIDTH="456" HEIGHT="21">
+							<String ID="string_197" HPOS="57" VPOS="1156" WIDTH="72" HEIGHT="20" WC="0.95" CONTENT="Werner,"/><SP WIDTH="18" VPOS="1156" HPOS="129"/>
+							<String ID="string_198" HPOS="147" VPOS="1157" WIDTH="66" HEIGHT="19" WC="0.93" CONTENT="Alfred,"/><SP WIDTH="20" VPOS="1157" HPOS="213"/>
+							<String ID="string_199" HPOS="233" VPOS="1157" WIDTH="166" HEIGHT="20" WC="0.90" CONTENT="Lokomotivförare,"/><SP WIDTH="19" VPOS="1157" HPOS="399"/>
+							<String ID="string_200" HPOS="418" VPOS="1158" WIDTH="12" HEIGHT="15" WC="0.92" CONTENT="f."/><SP WIDTH="14" VPOS="1158" HPOS="430"/>
+							<String ID="string_201" HPOS="444" VPOS="1157" WIDTH="28" HEIGHT="19" WC="0.96" CONTENT="85;"/><SP WIDTH="20" VPOS="1157" HPOS="472"/>
+							<String ID="string_202" HPOS="492" VPOS="1157" WIDTH="21" HEIGHT="17" WC="0.90" CONTENT="37"/>
+						</TextLine>
+						<TextLine ID="line_43" HPOS="81" VPOS="1179" WIDTH="158" HEIGHT="22">
+							<String ID="string_203" HPOS="81" VPOS="1179" WIDTH="43" HEIGHT="22" WC="0.91" CONTENT="(adr."/><SP WIDTH="13" VPOS="1179" HPOS="124"/>
+							<String ID="string_204" HPOS="137" VPOS="1179" WIDTH="102" HEIGHT="22" WC="0.96" CONTENT="Hultsfred)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_29" HPOS="58" VPOS="1202" WIDTH="456" HEIGHT="47">
+						<TextLine ID="line_44" HPOS="58" VPOS="1202" WIDTH="456" HEIGHT="24">
+							<String ID="string_205" HPOS="58" VPOS="1204" WIDTH="72" HEIGHT="20" WC="0.95" CONTENT="Lundell,"/><SP WIDTH="19" VPOS="1204" HPOS="130"/>
+							<String ID="string_206" HPOS="149" VPOS="1205" WIDTH="74" HEIGHT="16" WC="0.95" CONTENT="Torsten"/><SP WIDTH="19" VPOS="1205" HPOS="223"/>
+							<String ID="string_207" HPOS="242" VPOS="1205" WIDTH="98" HEIGHT="19" WC="0.96" CONTENT="Valdemar,"/><SP WIDTH="14" VPOS="1205" HPOS="340"/>
+							<String ID="string_208" HPOS="354" VPOS="1205" WIDTH="69" HEIGHT="21" WC="0.96" CONTENT="Kapten"/><SP WIDTH="13" VPOS="1205" HPOS="423"/>
+							<String ID="string_209" HPOS="436" VPOS="1202" WIDTH="53" HEIGHT="24" WC="0.93" CONTENT="[315],"/><SP WIDTH="14" VPOS="1202" HPOS="489"/>
+							<String ID="string_210" HPOS="503" VPOS="1206" WIDTH="11" HEIGHT="15" WC="0.91" CONTENT="f."/>
+						</TextLine>
+						<TextLine ID="line_45" HPOS="83" VPOS="1227" WIDTH="329" HEIGHT="22">
+							<String ID="string_211" HPOS="83" VPOS="1229" WIDTH="28" HEIGHT="19" WC="0.96" CONTENT="89;"/><SP WIDTH="14" VPOS="1229" HPOS="111"/>
+							<String ID="string_212" HPOS="125" VPOS="1227" WIDTH="22" HEIGHT="18" WC="0.93" CONTENT="37"/><SP WIDTH="13" VPOS="1227" HPOS="147"/>
+							<String ID="string_213" HPOS="160" VPOS="1227" WIDTH="43" HEIGHT="21" WC="0.91" CONTENT="(adr."/><SP WIDTH="13" VPOS="1227" HPOS="203"/>
+							<String ID="string_214" HPOS="216" VPOS="1229" WIDTH="95" HEIGHT="20" WC="0.91" CONTENT="Ebbetorp,"/><SP WIDTH="14" VPOS="1229" HPOS="311"/>
+							<String ID="string_215" HPOS="325" VPOS="1227" WIDTH="87" HEIGHT="22" WC="0.96" CONTENT="Smedby)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_30" HPOS="58" VPOS="1250" WIDTH="456" HEIGHT="48">
+						<TextLine ID="line_46" HPOS="58" VPOS="1250" WIDTH="455" HEIGHT="24">
+							<String ID="string_216" HPOS="58" VPOS="1252" WIDTH="97" HEIGHT="19" WC="0.96" CONTENT="Gustafson,"/><SP WIDTH="13" VPOS="1252" HPOS="155"/>
+							<String ID="string_217" HPOS="168" VPOS="1252" WIDTH="46" HEIGHT="17" WC="0.96" CONTENT="Emil"/><SP WIDTH="12" VPOS="1252" HPOS="214"/>
+							<String ID="string_218" HPOS="226" VPOS="1253" WIDTH="73" HEIGHT="21" WC="0.96" CONTENT="August,"/><SP WIDTH="12" VPOS="1253" HPOS="299"/>
+							<String ID="string_219" HPOS="311" VPOS="1253" WIDTH="120" HEIGHT="16" WC="0.96" CONTENT="Lantbrukare"/><SP WIDTH="13" VPOS="1253" HPOS="431"/>
+							<String ID="string_220" HPOS="444" VPOS="1250" WIDTH="41" HEIGHT="23" WC="0.96" CONTENT="[136"/><SP WIDTH="8" VPOS="1250" HPOS="485"/>
+							<String ID="string_221" HPOS="493" VPOS="1251" WIDTH="20" HEIGHT="22" WC="0.71" CONTENT="a],"/>
+						</TextLine>
+						<TextLine ID="line_47" HPOS="81" VPOS="1275" WIDTH="433" HEIGHT="23">
+							<String ID="string_222" HPOS="81" VPOS="1277" WIDTH="12" HEIGHT="16" WC="0.91" CONTENT="f."/><SP WIDTH="14" VPOS="1277" HPOS="93"/>
+							<String ID="string_223" HPOS="107" VPOS="1275" WIDTH="29" HEIGHT="21" WC="0.96" CONTENT="87;"/><SP WIDTH="14" VPOS="1275" HPOS="136"/>
+							<String ID="string_224" HPOS="150" VPOS="1276" WIDTH="22" HEIGHT="17" WC="0.84" CONTENT="37"/><SP WIDTH="13" VPOS="1276" HPOS="172"/>
+							<String ID="string_225" HPOS="185" VPOS="1275" WIDTH="42" HEIGHT="22" WC="0.91" CONTENT="(adr."/><SP WIDTH="14" VPOS="1275" HPOS="227"/>
+							<String ID="string_226" HPOS="241" VPOS="1277" WIDTH="90" HEIGHT="20" WC="0.92" CONTENT="Kampens"/><SP WIDTH="12" VPOS="1277" HPOS="331"/>
+							<String ID="string_227" HPOS="343" VPOS="1276" WIDTH="48" HEIGHT="22" WC="0.96" CONTENT="gård,"/><SP WIDTH="10" VPOS="1276" HPOS="391"/>
+							<String ID="string_228" HPOS="401" VPOS="1275" WIDTH="113" HEIGHT="22" WC="0.92" CONTENT="Vimmerby)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_31" HPOS="57" VPOS="1300" WIDTH="456" HEIGHT="46">
+						<TextLine ID="line_48" HPOS="57" VPOS="1300" WIDTH="456" HEIGHT="22">
+							<String ID="string_229" HPOS="57" VPOS="1300" WIDTH="53" HEIGHT="19" WC="0.96" CONTENT="Holm,"/><SP WIDTH="16" VPOS="1300" HPOS="110"/>
+							<String ID="string_230" HPOS="126" VPOS="1301" WIDTH="66" HEIGHT="16" WC="0.96" CONTENT="Gustav"/><SP WIDTH="13" VPOS="1301" HPOS="192"/>
+							<String ID="string_231" HPOS="205" VPOS="1301" WIDTH="99" HEIGHT="21" WC="0.93" CONTENT="Engelbert,"/><SP WIDTH="14" VPOS="1301" HPOS="304"/>
+							<String ID="string_232" HPOS="318" VPOS="1301" WIDTH="129" HEIGHT="19" WC="0.91" CONTENT="Lantarbetare,"/><SP WIDTH="13" VPOS="1301" HPOS="447"/>
+							<String ID="string_233" HPOS="460" VPOS="1301" WIDTH="12" HEIGHT="16" WC="0.92" CONTENT="f."/><SP WIDTH="14" VPOS="1301" HPOS="472"/>
+							<String ID="string_234" HPOS="486" VPOS="1301" WIDTH="27" HEIGHT="19" WC="0.96" CONTENT="83;"/>
+						</TextLine>
+						<TextLine ID="line_49" HPOS="82" VPOS="1322" WIDTH="385" HEIGHT="24">
+							<String ID="string_235" HPOS="82" VPOS="1324" WIDTH="22" HEIGHT="17" WC="0.88" CONTENT="37"/><SP WIDTH="13" VPOS="1324" HPOS="104"/>
+							<String ID="string_236" HPOS="117" VPOS="1322" WIDTH="43" HEIGHT="22" WC="0.92" CONTENT="(adr."/><SP WIDTH="14" VPOS="1322" HPOS="160"/>
+							<String ID="string_237" HPOS="174" VPOS="1325" WIDTH="110" HEIGHT="21" WC="0.91" CONTENT="Björkdalen,"/><SP WIDTH="13" VPOS="1325" HPOS="284"/>
+							<String ID="string_238" HPOS="297" VPOS="1325" WIDTH="82" HEIGHT="21" WC="0.92" CONTENT="Hjorteds"/><SP WIDTH="13" VPOS="1325" HPOS="379"/>
+							<String ID="string_239" HPOS="392" VPOS="1323" WIDTH="75" HEIGHT="22" WC="0.90" CONTENT="station)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_32" HPOS="57" VPOS="1346" WIDTH="456" HEIGHT="48">
+						<TextLine ID="line_50" HPOS="57" VPOS="1346" WIDTH="456" HEIGHT="24">
+							<String ID="string_240" HPOS="57" VPOS="1348" WIDTH="97" HEIGHT="19" WC="0.96" CONTENT="Johansson,"/><SP WIDTH="13" VPOS="1348" HPOS="154"/>
+							<String ID="string_241" HPOS="167" VPOS="1349" WIDTH="45" HEIGHT="16" WC="0.96" CONTENT="Sven"/><SP WIDTH="13" VPOS="1349" HPOS="212"/>
+							<String ID="string_242" HPOS="225" VPOS="1349" WIDTH="66" HEIGHT="19" WC="0.93" CONTENT="Albert,"/><SP WIDTH="14" VPOS="1349" HPOS="291"/>
+							<String ID="string_243" HPOS="305" VPOS="1349" WIDTH="147" HEIGHT="21" WC="0.92" CONTENT="Hemmansägare"/><SP WIDTH="9" VPOS="1349" HPOS="452"/>
+							<String ID="string_244" HPOS="461" VPOS="1346" WIDTH="52" HEIGHT="24" WC="0.94" CONTENT="[950],"/>
+						</TextLine>
+						<TextLine ID="line_51" HPOS="81" VPOS="1371" WIDTH="379" HEIGHT="23">
+							<String ID="string_245" HPOS="81" VPOS="1373" WIDTH="12" HEIGHT="15" WC="0.92" CONTENT="f."/><SP WIDTH="15" VPOS="1373" HPOS="93"/>
+							<String ID="string_246" HPOS="108" VPOS="1371" WIDTH="28" HEIGHT="21" WC="0.95" CONTENT="75;"/><SP WIDTH="14" VPOS="1371" HPOS="136"/>
+							<String ID="string_247" HPOS="150" VPOS="1371" WIDTH="21" HEIGHT="18" WC="0.93" CONTENT="37"/><SP WIDTH="14" VPOS="1371" HPOS="171"/>
+							<String ID="string_248" HPOS="185" VPOS="1371" WIDTH="42" HEIGHT="21" WC="0.92" CONTENT="(adr."/><SP WIDTH="14" VPOS="1371" HPOS="227"/>
+							<String ID="string_249" HPOS="241" VPOS="1373" WIDTH="102" HEIGHT="21" WC="0.92" CONTENT="Krogstorp,"/><SP WIDTH="10" VPOS="1373" HPOS="343"/>
+							<String ID="string_250" HPOS="353" VPOS="1371" WIDTH="107" HEIGHT="22" WC="0.91" CONTENT="Jämserum)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_33" HPOS="58" VPOS="1393" WIDTH="455" HEIGHT="49">
+						<TextLine ID="line_52" HPOS="58" VPOS="1393" WIDTH="455" HEIGHT="23">
+							<String ID="string_251" HPOS="58" VPOS="1393" WIDTH="66" HEIGHT="22" WC="0.96" CONTENT="Lindén,"/><SP WIDTH="19" VPOS="1393" HPOS="124"/>
+							<String ID="string_252" HPOS="143" VPOS="1397" WIDTH="43" HEIGHT="16" WC="0.95" CONTENT="Lars"/><SP WIDTH="16" VPOS="1397" HPOS="186"/>
+							<String ID="string_253" HPOS="202" VPOS="1397" WIDTH="82" HEIGHT="19" WC="0.93" CONTENT="Vilhelm,"/><SP WIDTH="17" VPOS="1397" HPOS="284"/>
+							<String ID="string_254" HPOS="301" VPOS="1397" WIDTH="145" HEIGHT="19" WC="0.92" CONTENT="Folkskollärare,"/><SP WIDTH="14" VPOS="1397" HPOS="446"/>
+							<String ID="string_255" HPOS="460" VPOS="1398" WIDTH="11" HEIGHT="15" WC="0.92" CONTENT="f."/><SP WIDTH="14" VPOS="1398" HPOS="471"/>
+							<String ID="string_256" HPOS="485" VPOS="1397" WIDTH="28" HEIGHT="19" WC="0.96" CONTENT="98;"/>
+						</TextLine>
+						<TextLine ID="line_53" HPOS="83" VPOS="1418" WIDTH="281" HEIGHT="24">
+							<String ID="string_257" HPOS="83" VPOS="1419" WIDTH="21" HEIGHT="18" WC="0.93" CONTENT="37"/><SP WIDTH="14" VPOS="1419" HPOS="104"/>
+							<String ID="string_258" HPOS="118" VPOS="1418" WIDTH="43" HEIGHT="22" WC="0.91" CONTENT="(adr."/><SP WIDTH="14" VPOS="1418" HPOS="161"/>
+							<String ID="string_259" HPOS="175" VPOS="1420" WIDTH="77" HEIGHT="22" WC="0.96" CONTENT="Nygård,"/><SP WIDTH="15" VPOS="1420" HPOS="252"/>
+							<String ID="string_260" HPOS="267" VPOS="1419" WIDTH="97" HEIGHT="23" WC="0.94" CONTENT="Gamleby)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_34" HPOS="57" VPOS="1443" WIDTH="456" HEIGHT="47">
+						<TextLine ID="line_54" HPOS="57" VPOS="1443" WIDTH="456" HEIGHT="23">
+							<String ID="string_261" HPOS="57" VPOS="1443" WIDTH="100" HEIGHT="22" WC="0.92" CONTENT="Tornegård,"/><SP WIDTH="13" VPOS="1443" HPOS="157"/>
+							<String ID="string_262" HPOS="170" VPOS="1445" WIDTH="55" HEIGHT="16" WC="0.96" CONTENT="Oscar"/><SP WIDTH="12" VPOS="1445" HPOS="225"/>
+							<String ID="string_263" HPOS="237" VPOS="1445" WIDTH="71" HEIGHT="21" WC="0.96" CONTENT="Sigfrid,"/><SP WIDTH="13" VPOS="1445" HPOS="308"/>
+							<String ID="string_264" HPOS="321" VPOS="1445" WIDTH="125" HEIGHT="19" WC="0.93" CONTENT="Lantbrukare,"/><SP WIDTH="13" VPOS="1445" HPOS="446"/>
+							<String ID="string_265" HPOS="459" VPOS="1445" WIDTH="12" HEIGHT="15" WC="0.90" CONTENT="f."/><SP WIDTH="14" VPOS="1445" HPOS="471"/>
+							<String ID="string_266" HPOS="485" VPOS="1444" WIDTH="28" HEIGHT="20" WC="0.96" CONTENT="89;"/>
+						</TextLine>
+						<TextLine ID="line_55" HPOS="83" VPOS="1467" WIDTH="194" HEIGHT="23">
+							<String ID="string_267" HPOS="83" VPOS="1468" WIDTH="21" HEIGHT="17" WC="0.90" CONTENT="87"/><SP WIDTH="14" VPOS="1468" HPOS="104"/>
+							<String ID="string_268" HPOS="118" VPOS="1467" WIDTH="43" HEIGHT="21" WC="0.91" CONTENT="(adr."/><SP WIDTH="13" VPOS="1467" HPOS="161"/>
+							<String ID="string_269" HPOS="174" VPOS="1467" WIDTH="103" HEIGHT="23" WC="0.92" CONTENT="Torngård)."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_9" HPOS="521" VPOS="92" WIDTH="7" HEIGHT="1396">
+					<TextBlock ID="block_35" HPOS="521" VPOS="92" WIDTH="7" HEIGHT="1396">
+						<TextLine ID="line_56" HPOS="521" VPOS="92" WIDTH="7" HEIGHT="1396">
+							<String ID="string_270" HPOS="521" VPOS="92" WIDTH="7" HEIGHT="1396" WC="0.95" CONTENT=" "/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_10" HPOS="534" VPOS="102" WIDTH="457" HEIGHT="46">
+					<TextBlock ID="block_36" HPOS="534" VPOS="102" WIDTH="457" HEIGHT="46">
+						<TextLine ID="line_57" HPOS="534" VPOS="102" WIDTH="457" HEIGHT="22">
+							<String ID="string_271" HPOS="534" VPOS="103" WIDTH="74" HEIGHT="19" WC="0.93" CONTENT="Ohlsson,"/><SP WIDTH="19" VPOS="103" HPOS="608"/>
+							<String ID="string_272" HPOS="627" VPOS="104" WIDTH="73" HEIGHT="20" WC="0.96" CONTENT="Sigvard"/><SP WIDTH="19" VPOS="104" HPOS="700"/>
+							<String ID="string_273" HPOS="719" VPOS="104" WIDTH="71" HEIGHT="19" WC="0.95" CONTENT="Walter,"/><SP WIDTH="14" VPOS="104" HPOS="790"/>
+							<String ID="string_274" HPOS="804" VPOS="104" WIDTH="74" HEIGHT="20" WC="0.91" CONTENT="Murare,"/><SP WIDTH="17" VPOS="104" HPOS="878"/>
+							<String ID="string_275" HPOS="895" VPOS="104" WIDTH="11" HEIGHT="16" WC="0.91" CONTENT="f."/><SP WIDTH="14" VPOS="104" HPOS="906"/>
+							<String ID="string_276" HPOS="920" VPOS="104" WIDTH="28" HEIGHT="19" WC="0.96" CONTENT="08;"/><SP WIDTH="14" VPOS="104" HPOS="948"/>
+							<String ID="string_277" HPOS="962" VPOS="102" WIDTH="29" HEIGHT="18" WC="0.92" CONTENT="37."/>
+						</TextLine>
+						<TextLine ID="line_58" HPOS="557" VPOS="126" WIDTH="151" HEIGHT="22">
+							<String ID="string_278" HPOS="557" VPOS="126" WIDTH="43" HEIGHT="22" WC="0.91" CONTENT="(adr."/><SP WIDTH="14" VPOS="126" HPOS="600"/>
+							<String ID="string_279" HPOS="614" VPOS="126" WIDTH="94" HEIGHT="21" WC="0.91" CONTENT="Kastlösa)."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_11" HPOS="533" VPOS="190" WIDTH="458" HEIGHT="173">
+					<TextBlock ID="block_37" HPOS="535" VPOS="190" WIDTH="299" HEIGHT="24">
+						<TextLine ID="line_59" HPOS="535" VPOS="190" WIDTH="299" HEIGHT="24">
+							<String ID="string_280" HPOS="535" VPOS="190" WIDTH="61" HEIGHT="24" WC="0.96" CONTENT="[175]"/><SP WIDTH="95" VPOS="190" HPOS="596"/>
+							<String ID="string_281" HPOS="691" VPOS="192" WIDTH="92" HEIGHT="18" WC="0.96" CONTENT="Gotlands"/><SP WIDTH="12" VPOS="192" HPOS="783"/>
+							<String ID="string_282" HPOS="795" VPOS="193" WIDTH="39" HEIGHT="17" WC="0.96" CONTENT="län."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_38" HPOS="534" VPOS="222" WIDTH="457" HEIGHT="45">
+						<TextLine ID="line_60" HPOS="534" VPOS="222" WIDTH="457" HEIGHT="23">
+							<String ID="string_283" HPOS="534" VPOS="222" WIDTH="69" HEIGHT="20" WC="0.96" CONTENT="Gardell,"/><SP WIDTH="12" VPOS="222" HPOS="603"/>
+							<String ID="string_284" HPOS="615" VPOS="224" WIDTH="57" HEIGHT="15" WC="0.96" CONTENT="Petter"/><SP WIDTH="12" VPOS="224" HPOS="672"/>
+							<String ID="string_285" HPOS="684" VPOS="224" WIDTH="86" HEIGHT="18" WC="0.92" CONTENT="Theodor,"/><SP WIDTH="10" VPOS="224" HPOS="770"/>
+							<String ID="string_286" HPOS="780" VPOS="224" WIDTH="148" HEIGHT="21" WC="0.92" CONTENT="Hemmansägare"/><SP WIDTH="9" VPOS="224" HPOS="928"/>
+							<String ID="string_287" HPOS="937" VPOS="222" WIDTH="54" HEIGHT="23" WC="0.95" CONTENT="[950],"/>
+						</TextLine>
+						<TextLine ID="line_61" HPOS="558" VPOS="245" WIDTH="376" HEIGHT="22">
+							<String ID="string_288" HPOS="558" VPOS="248" WIDTH="11" HEIGHT="15" WC="0.92" CONTENT="f."/><SP WIDTH="15" VPOS="248" HPOS="569"/>
+							<String ID="string_289" HPOS="584" VPOS="247" WIDTH="27" HEIGHT="19" WC="0.96" CONTENT="72;"/><SP WIDTH="15" VPOS="247" HPOS="611"/>
+							<String ID="string_290" HPOS="626" VPOS="246" WIDTH="22" HEIGHT="17" WC="0.93" CONTENT="37"/><SP WIDTH="12" VPOS="246" HPOS="648"/>
+							<String ID="string_291" HPOS="660" VPOS="245" WIDTH="43" HEIGHT="22" WC="0.87" CONTENT="(adr."/><SP WIDTH="14" VPOS="245" HPOS="703"/>
+							<String ID="string_292" HPOS="717" VPOS="247" WIDTH="61" HEIGHT="16" WC="0.91" CONTENT="Gahns"/><SP WIDTH="13" VPOS="247" HPOS="778"/>
+							<String ID="string_293" HPOS="791" VPOS="248" WIDTH="42" HEIGHT="19" WC="0.93" CONTENT="Näs,"/><SP WIDTH="14" VPOS="248" HPOS="833"/>
+							<String ID="string_294" HPOS="847" VPOS="246" WIDTH="87" HEIGHT="21" WC="0.87" CONTENT="Fidenäs)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_39" HPOS="533" VPOS="270" WIDTH="457" HEIGHT="46">
+						<TextLine ID="line_62" HPOS="533" VPOS="270" WIDTH="457" HEIGHT="22">
+							<String ID="string_295" HPOS="533" VPOS="270" WIDTH="94" HEIGHT="20" WC="0.91" CONTENT="Söderdahl,"/><SP WIDTH="19" VPOS="270" HPOS="627"/>
+							<String ID="string_296" HPOS="646" VPOS="272" WIDTH="42" HEIGHT="15" WC="0.95" CONTENT="Karl"/><SP WIDTH="17" VPOS="272" HPOS="688"/>
+							<String ID="string_297" HPOS="705" VPOS="271" WIDTH="78" HEIGHT="20" WC="0.95" CONTENT="Fredrik,"/><SP WIDTH="14" VPOS="271" HPOS="783"/>
+							<String ID="string_298" HPOS="797" VPOS="271" WIDTH="90" HEIGHT="21" WC="0.93" CONTENT="Snickare,"/><SP WIDTH="13" VPOS="271" HPOS="887"/>
+							<String ID="string_299" HPOS="900" VPOS="272" WIDTH="12" HEIGHT="16" WC="0.92" CONTENT="f."/><SP WIDTH="13" VPOS="272" HPOS="912"/>
+							<String ID="string_300" HPOS="925" VPOS="272" WIDTH="29" HEIGHT="19" WC="0.96" CONTENT="82;"/><SP WIDTH="14" VPOS="272" HPOS="954"/>
+							<String ID="string_301" HPOS="968" VPOS="271" WIDTH="22" HEIGHT="17" WC="0.62" CONTENT="37"/>
+						</TextLine>
+						<TextLine ID="line_63" HPOS="557" VPOS="293" WIDTH="124" HEIGHT="23">
+							<String ID="string_302" HPOS="557" VPOS="293" WIDTH="43" HEIGHT="22" WC="0.92" CONTENT="(adr."/><SP WIDTH="14" VPOS="293" HPOS="600"/>
+							<String ID="string_303" HPOS="614" VPOS="293" WIDTH="67" HEIGHT="23" WC="0.96" CONTENT="Visby)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_40" HPOS="533" VPOS="317" WIDTH="458" HEIGHT="46">
+						<TextLine ID="line_64" HPOS="533" VPOS="317" WIDTH="458" HEIGHT="23">
+							<String ID="string_304" HPOS="533" VPOS="318" WIDTH="87" HEIGHT="20" WC="0.92" CONTENT="Svedman,"/><SP WIDTH="7" VPOS="318" HPOS="620"/>
+							<String ID="string_305" HPOS="627" VPOS="319" WIDTH="63" HEIGHT="17" WC="0.96" CONTENT="Gustaf"/><SP WIDTH="4" VPOS="319" HPOS="690"/>
+							<String ID="string_306" HPOS="694" VPOS="319" WIDTH="58" HEIGHT="20" WC="0.96" CONTENT="Adolf,"/><SP WIDTH="8" VPOS="319" HPOS="752"/>
+							<String ID="string_307" HPOS="760" VPOS="319" WIDTH="23" HEIGHT="16" WC="0.96" CONTENT="fd."/><SP WIDTH="7" VPOS="319" HPOS="783"/>
+							<String ID="string_308" HPOS="790" VPOS="319" WIDTH="88" HEIGHT="17" WC="0.96" CONTENT="Redaktör"/><SP WIDTH="6" VPOS="319" HPOS="878"/>
+							<String ID="string_309" HPOS="884" VPOS="317" WIDTH="54" HEIGHT="23" WC="0.92" CONTENT="[976],"/><SP WIDTH="6" VPOS="317" HPOS="938"/>
+							<String ID="string_310" HPOS="944" VPOS="320" WIDTH="11" HEIGHT="16" WC="0.85" CONTENT="f."/><SP WIDTH="8" VPOS="320" HPOS="955"/>
+							<String ID="string_311" HPOS="963" VPOS="318" WIDTH="28" HEIGHT="21" WC="0.96" CONTENT="78;"/>
+						</TextLine>
+						<TextLine ID="line_65" HPOS="559" VPOS="341" WIDTH="157" HEIGHT="22">
+							<String ID="string_312" HPOS="559" VPOS="343" WIDTH="21" HEIGHT="17" WC="0.92" CONTENT="37"/><SP WIDTH="14" VPOS="343" HPOS="580"/>
+							<String ID="string_313" HPOS="594" VPOS="342" WIDTH="43" HEIGHT="21" WC="0.91" CONTENT="(adr."/><SP WIDTH="13" VPOS="342" HPOS="637"/>
+							<String ID="string_314" HPOS="650" VPOS="341" WIDTH="66" HEIGHT="22" WC="0.96" CONTENT="Visby)."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_12" HPOS="533" VPOS="404" WIDTH="459" HEIGHT="272">
+					<TextBlock ID="block_41" HPOS="535" VPOS="404" WIDTH="294" HEIGHT="26">
+						<TextLine ID="line_66" HPOS="535" VPOS="404" WIDTH="294" HEIGHT="26">
+							<String ID="string_315" HPOS="535" VPOS="404" WIDTH="60" HEIGHT="26" WC="0.96" CONTENT="[176]"/><SP WIDTH="93" VPOS="404" HPOS="595"/>
+							<String ID="string_316" HPOS="688" VPOS="408" WIDTH="91" HEIGHT="21" WC="0.96" CONTENT="Blekinge"/><SP WIDTH="12" VPOS="408" HPOS="779"/>
+							<String ID="string_317" HPOS="791" VPOS="408" WIDTH="38" HEIGHT="17" WC="0.96" CONTENT="län."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_42" HPOS="534" VPOS="438" WIDTH="458" HEIGHT="45">
+						<TextLine ID="line_67" HPOS="534" VPOS="438" WIDTH="458" HEIGHT="22">
+							<String ID="string_318" HPOS="534" VPOS="438" WIDTH="93" HEIGHT="21" WC="0.96" CONTENT="Holmgren,"/><SP WIDTH="25" VPOS="438" HPOS="627"/>
+							<String ID="string_319" HPOS="652" VPOS="439" WIDTH="52" HEIGHT="21" WC="0.96" CONTENT="Björn"/><SP WIDTH="25" VPOS="439" HPOS="704"/>
+							<String ID="string_320" HPOS="729" VPOS="439" WIDTH="120" HEIGHT="19" WC="0.93" CONTENT="Frithiofsson,"/><SP WIDTH="22" VPOS="439" HPOS="849"/>
+							<String ID="string_321" HPOS="871" VPOS="439" WIDTH="121" HEIGHT="17" WC="0.96" CONTENT="Kommendör"/>
+						</TextLine>
+						<TextLine ID="line_68" HPOS="558" VPOS="461" WIDTH="343" HEIGHT="22">
+							<String ID="string_322" HPOS="558" VPOS="461" WIDTH="53" HEIGHT="22" WC="0.71" CONTENT="[447],"/><SP WIDTH="13" VPOS="461" HPOS="611"/>
+							<String ID="string_323" HPOS="624" VPOS="463" WIDTH="11" HEIGHT="16" WC="0.84" CONTENT="f."/><SP WIDTH="15" VPOS="463" HPOS="635"/>
+							<String ID="string_324" HPOS="650" VPOS="461" WIDTH="27" HEIGHT="20" WC="0.96" CONTENT="72;"/><SP WIDTH="15" VPOS="461" HPOS="677"/>
+							<String ID="string_325" HPOS="692" VPOS="461" WIDTH="21" HEIGHT="17" WC="0.93" CONTENT="37"/><SP WIDTH="13" VPOS="461" HPOS="713"/>
+							<String ID="string_326" HPOS="726" VPOS="461" WIDTH="43" HEIGHT="21" WC="0.92" CONTENT="(adr."/><SP WIDTH="13" VPOS="461" HPOS="769"/>
+							<String ID="string_327" HPOS="782" VPOS="461" WIDTH="119" HEIGHT="22" WC="0.96" CONTENT="Karlskrona)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_43" HPOS="534" VPOS="481" WIDTH="456" HEIGHT="50">
+						<TextLine ID="line_69" HPOS="534" VPOS="481" WIDTH="456" HEIGHT="27">
+							<String ID="string_328" HPOS="534" VPOS="486" WIDTH="95" HEIGHT="19" WC="0.95" CONTENT="Törnkvist,"/><SP WIDTH="12" VPOS="486" HPOS="629"/>
+							<String ID="string_329" HPOS="641" VPOS="487" WIDTH="53" HEIGHT="21" WC="0.95" CONTENT="Algot"/><SP WIDTH="12" VPOS="487" HPOS="694"/>
+							<String ID="string_330" HPOS="706" VPOS="481" WIDTH="85" HEIGHT="25" WC="0.96" CONTENT="Åkesson,"/><SP WIDTH="20" VPOS="481" HPOS="791"/>
+							<String ID="string_331" HPOS="811" VPOS="487" WIDTH="88" HEIGHT="16" WC="0.96" CONTENT="Redaktör"/><SP WIDTH="13" VPOS="487" HPOS="899"/>
+							<String ID="string_332" HPOS="912" VPOS="485" WIDTH="53" HEIGHT="23" WC="0.90" CONTENT="[512],"/><SP WIDTH="13" VPOS="485" HPOS="965"/>
+							<String ID="string_333" HPOS="978" VPOS="488" WIDTH="12" HEIGHT="16" WC="0.92" CONTENT="f."/>
+						</TextLine>
+						<TextLine ID="line_70" HPOS="559" VPOS="509" WIDTH="251" HEIGHT="22">
+							<String ID="string_334" HPOS="559" VPOS="510" WIDTH="27" HEIGHT="20" WC="0.92" CONTENT="79;"/><SP WIDTH="15" VPOS="510" HPOS="586"/>
+							<String ID="string_335" HPOS="601" VPOS="510" WIDTH="21" HEIGHT="17" WC="0.92" CONTENT="37"/><SP WIDTH="14" VPOS="510" HPOS="622"/>
+							<String ID="string_336" HPOS="636" VPOS="509" WIDTH="42" HEIGHT="21" WC="0.92" CONTENT="(adr."/><SP WIDTH="14" VPOS="509" HPOS="678"/>
+							<String ID="string_337" HPOS="692" VPOS="509" WIDTH="118" HEIGHT="22" WC="0.95" CONTENT="Karlskrona)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_44" HPOS="534" VPOS="533" WIDTH="456" HEIGHT="47">
+						<TextLine ID="line_71" HPOS="534" VPOS="533" WIDTH="456" HEIGHT="24">
+							<String ID="string_338" HPOS="534" VPOS="534" WIDTH="81" HEIGHT="22" WC="0.91" CONTENT="Wolgast,"/><SP WIDTH="8" VPOS="534" HPOS="615"/>
+							<String ID="string_339" HPOS="623" VPOS="536" WIDTH="36" HEIGHT="15" WC="0.96" CONTENT="Tor"/><SP WIDTH="8" VPOS="536" HPOS="659"/>
+							<String ID="string_340" HPOS="667" VPOS="536" WIDTH="83" HEIGHT="19" WC="0.93" CONTENT="Herman,"/><SP WIDTH="8" VPOS="536" HPOS="750"/>
+							<String ID="string_341" HPOS="758" VPOS="535" WIDTH="185" HEIGHT="22" WC="0.91" CONTENT="Pensionssakkunnig"/><SP WIDTH="7" VPOS="535" HPOS="943"/>
+							<String ID="string_342" HPOS="950" VPOS="533" WIDTH="40" HEIGHT="23" WC="0.94" CONTENT="[93],"/>
+						</TextLine>
+						<TextLine ID="line_72" HPOS="558" VPOS="557" WIDTH="300" HEIGHT="23">
+							<String ID="string_343" HPOS="558" VPOS="560" WIDTH="12" HEIGHT="15" WC="0.91" CONTENT="f."/><SP WIDTH="14" VPOS="560" HPOS="570"/>
+							<String ID="string_344" HPOS="584" VPOS="559" WIDTH="28" HEIGHT="19" WC="0.96" CONTENT="91;"/><SP WIDTH="15" VPOS="559" HPOS="612"/>
+							<String ID="string_345" HPOS="627" VPOS="559" WIDTH="21" HEIGHT="16" WC="0.93" CONTENT="37"/><SP WIDTH="13" VPOS="559" HPOS="648"/>
+							<String ID="string_346" HPOS="661" VPOS="557" WIDTH="43" HEIGHT="22" WC="0.89" CONTENT="(adr."/><SP WIDTH="14" VPOS="557" HPOS="704"/>
+							<String ID="string_347" HPOS="718" VPOS="557" WIDTH="140" HEIGHT="23" WC="0.96" CONTENT="Bräkne-Hoby)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_45" HPOS="534" VPOS="582" WIDTH="456" HEIGHT="45">
+						<TextLine ID="line_73" HPOS="534" VPOS="582" WIDTH="456" HEIGHT="22">
+							<String ID="string_348" HPOS="534" VPOS="582" WIDTH="83" HEIGHT="22" WC="0.96" CONTENT="Hällgren,"/><SP WIDTH="14" VPOS="582" HPOS="617"/>
+							<String ID="string_349" HPOS="631" VPOS="583" WIDTH="41" HEIGHT="16" WC="0.95" CONTENT="Elof"/><SP WIDTH="11" VPOS="583" HPOS="672"/>
+							<String ID="string_350" HPOS="683" VPOS="583" WIDTH="80" HEIGHT="20" WC="0.95" CONTENT="Wendel,"/><SP WIDTH="14" VPOS="583" HPOS="763"/>
+							<String ID="string_351" HPOS="777" VPOS="583" WIDTH="146" HEIGHT="20" WC="0.93" CONTENT="Möbelsnickare,"/><SP WIDTH="16" VPOS="583" HPOS="923"/>
+							<String ID="string_352" HPOS="939" VPOS="584" WIDTH="11" HEIGHT="16" WC="0.93" CONTENT="f."/><SP WIDTH="12" VPOS="584" HPOS="950"/>
+							<String ID="string_353" HPOS="962" VPOS="582" WIDTH="28" HEIGHT="21" WC="0.96" CONTENT="87;"/>
+						</TextLine>
+						<TextLine ID="line_74" HPOS="559" VPOS="605" WIDTH="185" HEIGHT="22">
+							<String ID="string_354" HPOS="559" VPOS="606" WIDTH="21" HEIGHT="17" WC="0.93" CONTENT="37"/><SP WIDTH="13" VPOS="606" HPOS="580"/>
+							<String ID="string_355" HPOS="593" VPOS="606" WIDTH="43" HEIGHT="21" WC="0.92" CONTENT="(adr."/><SP WIDTH="14" VPOS="606" HPOS="636"/>
+							<String ID="string_356" HPOS="650" VPOS="605" WIDTH="94" HEIGHT="22" WC="0.95" CONTENT="Hällevik)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_46" HPOS="533" VPOS="629" WIDTH="457" HEIGHT="47">
+						<TextLine ID="line_75" HPOS="533" VPOS="629" WIDTH="457" HEIGHT="24">
+							<String ID="string_357" HPOS="533" VPOS="630" WIDTH="86" HEIGHT="21" WC="0.96" CONTENT="Jeppsson,"/><SP WIDTH="13" VPOS="630" HPOS="619"/>
+							<String ID="string_358" HPOS="632" VPOS="632" WIDTH="37" HEIGHT="19" WC="0.96" CONTENT="Ola,"/><SP WIDTH="14" VPOS="632" HPOS="669"/>
+							<String ID="string_359" HPOS="683" VPOS="631" WIDTH="138" HEIGHT="22" WC="0.96" CONTENT="Landshövding"/><SP WIDTH="11" VPOS="631" HPOS="821"/>
+							<String ID="string_360" HPOS="832" VPOS="629" WIDTH="54" HEIGHT="23" WC="0.93" CONTENT="[482],"/><SP WIDTH="14" VPOS="629" HPOS="886"/>
+							<String ID="string_361" HPOS="900" VPOS="632" WIDTH="11" HEIGHT="16" WC="0.89" CONTENT="f."/><SP WIDTH="14" VPOS="632" HPOS="911"/>
+							<String ID="string_362" HPOS="925" VPOS="630" WIDTH="28" HEIGHT="21" WC="0.96" CONTENT="87;"/><SP WIDTH="15" VPOS="630" HPOS="953"/>
+							<String ID="string_363" HPOS="968" VPOS="631" WIDTH="22" HEIGHT="17" WC="0.58" CONTENT="387"/>
+						</TextLine>
+						<TextLine ID="line_76" HPOS="557" VPOS="654" WIDTH="123" HEIGHT="22">
+							<String ID="string_364" HPOS="557" VPOS="654" WIDTH="43" HEIGHT="21" WC="0.92" CONTENT="(adr."/><SP WIDTH="14" VPOS="654" HPOS="600"/>
+							<String ID="string_365" HPOS="614" VPOS="654" WIDTH="66" HEIGHT="22" WC="0.96" CONTENT="Visby)."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_13" HPOS="533" VPOS="718" WIDTH="457" HEIGHT="484">
+					<TextBlock ID="block_47" HPOS="535" VPOS="718" WIDTH="322" HEIGHT="24">
+						<TextLine ID="line_77" HPOS="535" VPOS="718" WIDTH="322" HEIGHT="24">
+							<String ID="string_366" HPOS="535" VPOS="718" WIDTH="60" HEIGHT="24" WC="0.95" CONTENT="[177]"/><SP WIDTH="68" VPOS="718" HPOS="595"/>
+							<String ID="string_367" HPOS="663" VPOS="720" WIDTH="143" HEIGHT="18" WC="0.95" CONTENT="Kristianstads"/><SP WIDTH="12" VPOS="720" HPOS="806"/>
+							<String ID="string_368" HPOS="818" VPOS="720" WIDTH="39" HEIGHT="18" WC="0.96" CONTENT="län."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_48" HPOS="533" VPOS="749" WIDTH="457" HEIGHT="46">
+						<TextLine ID="line_78" HPOS="533" VPOS="749" WIDTH="457" HEIGHT="24">
+							<String ID="string_369" HPOS="533" VPOS="750" WIDTH="93" HEIGHT="21" WC="0.96" CONTENT="Björklund,"/><SP WIDTH="13" VPOS="750" HPOS="626"/>
+							<String ID="string_370" HPOS="639" VPOS="752" WIDTH="42" HEIGHT="15" WC="0.96" CONTENT="Lars"/><SP WIDTH="13" VPOS="752" HPOS="681"/>
+							<String ID="string_371" HPOS="694" VPOS="752" WIDTH="63" HEIGHT="18" WC="0.95" CONTENT="Anton,"/><SP WIDTH="14" VPOS="752" HPOS="757"/>
+							<String ID="string_372" HPOS="771" VPOS="751" WIDTH="23" HEIGHT="16" WC="0.93" CONTENT="fd."/><SP WIDTH="15" VPOS="751" HPOS="794"/>
+							<String ID="string_373" HPOS="809" VPOS="752" WIDTH="95" HEIGHT="20" WC="0.92" CONTENT="Reparatör"/><SP WIDTH="11" VPOS="752" HPOS="904"/>
+							<String ID="string_374" HPOS="915" VPOS="749" WIDTH="53" HEIGHT="24" WC="0.92" CONTENT="[513],"/><SP WIDTH="10" VPOS="749" HPOS="968"/>
+							<String ID="string_375" HPOS="978" VPOS="752" WIDTH="12" HEIGHT="16" WC="0.91" CONTENT="f."/>
+						</TextLine>
+						<TextLine ID="line_79" HPOS="558" VPOS="773" WIDTH="257" HEIGHT="22">
+							<String ID="string_376" HPOS="558" VPOS="775" WIDTH="28" HEIGHT="19" WC="0.96" CONTENT="81;"/><SP WIDTH="15" VPOS="775" HPOS="586"/>
+							<String ID="string_377" HPOS="601" VPOS="774" WIDTH="21" HEIGHT="17" WC="0.92" CONTENT="37"/><SP WIDTH="13" VPOS="774" HPOS="622"/>
+							<String ID="string_378" HPOS="635" VPOS="773" WIDTH="42" HEIGHT="21" WC="0.86" CONTENT="(adr."/><SP WIDTH="16" VPOS="773" HPOS="677"/>
+							<String ID="string_379" HPOS="693" VPOS="773" WIDTH="122" HEIGHT="22" WC="0.94" CONTENT="Hässleholm)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_49" HPOS="533" VPOS="797" WIDTH="457" HEIGHT="47">
+						<TextLine ID="line_80" HPOS="533" VPOS="797" WIDTH="457" HEIGHT="23">
+							<String ID="string_380" HPOS="533" VPOS="798" WIDTH="122" HEIGHT="19" WC="0.96" CONTENT="Hammarlund,"/><SP WIDTH="8" VPOS="798" HPOS="655"/>
+							<String ID="string_381" HPOS="663" VPOS="799" WIDTH="68" HEIGHT="19" WC="0.96" CONTENT="Nestor,"/><SP WIDTH="8" VPOS="799" HPOS="731"/>
+							<String ID="string_382" HPOS="739" VPOS="799" WIDTH="119" HEIGHT="16" WC="0.95" CONTENT="Lantbrukare"/><SP WIDTH="13" VPOS="799" HPOS="858"/>
+							<String ID="string_383" HPOS="871" VPOS="797" WIDTH="53" HEIGHT="23" WC="0.93" CONTENT="[976],"/><SP WIDTH="13" VPOS="797" HPOS="924"/>
+							<String ID="string_384" HPOS="937" VPOS="800" WIDTH="12" HEIGHT="15" WC="0.91" CONTENT="f."/><SP WIDTH="12" VPOS="800" HPOS="949"/>
+							<String ID="string_385" HPOS="961" VPOS="799" WIDTH="29" HEIGHT="20" WC="0.96" CONTENT="88;"/>
+						</TextLine>
+						<TextLine ID="line_81" HPOS="559" VPOS="820" WIDTH="290" HEIGHT="24">
+							<String ID="string_386" HPOS="559" VPOS="822" WIDTH="21" HEIGHT="17" WC="0.93" CONTENT="37"/><SP WIDTH="13" VPOS="822" HPOS="580"/>
+							<String ID="string_387" HPOS="593" VPOS="821" WIDTH="42" HEIGHT="21" WC="0.91" CONTENT="(adr."/><SP WIDTH="15" VPOS="821" HPOS="635"/>
+							<String ID="string_388" HPOS="650" VPOS="823" WIDTH="68" HEIGHT="21" WC="0.92" CONTENT="Errarp,"/><SP WIDTH="13" VPOS="823" HPOS="718"/>
+							<String ID="string_389" HPOS="731" VPOS="820" WIDTH="118" HEIGHT="24" WC="0.96" CONTENT="Ängelholm)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_50" HPOS="533" VPOS="845" WIDTH="457" HEIGHT="47">
+						<TextLine ID="line_82" HPOS="533" VPOS="845" WIDTH="457" HEIGHT="22">
+							<String ID="string_390" HPOS="533" VPOS="846" WIDTH="82" HEIGHT="19" WC="0.96" CONTENT="Isacsson,"/><SP WIDTH="16" VPOS="846" HPOS="615"/>
+							<String ID="string_391" HPOS="631" VPOS="847" WIDTH="38" HEIGHT="19" WC="0.93" CONTENT="Ola,"/><SP WIDTH="16" VPOS="847" HPOS="669"/>
+							<String ID="string_392" HPOS="685" VPOS="847" WIDTH="145" HEIGHT="20" WC="0.91" CONTENT="Kvarnarbetare,"/><SP WIDTH="13" VPOS="847" HPOS="830"/>
+							<String ID="string_393" HPOS="843" VPOS="847" WIDTH="12" HEIGHT="16" WC="0.92" CONTENT="f."/><SP WIDTH="14" VPOS="847" HPOS="855"/>
+							<String ID="string_394" HPOS="869" VPOS="847" WIDTH="28" HEIGHT="20" WC="0.96" CONTENT="85;"/><SP WIDTH="14" VPOS="847" HPOS="897"/>
+							<String ID="string_395" HPOS="911" VPOS="846" WIDTH="22" HEIGHT="17" WC="0.93" CONTENT="37"/><SP WIDTH="13" VPOS="846" HPOS="933"/>
+							<String ID="string_396" HPOS="946" VPOS="845" WIDTH="44" HEIGHT="22" WC="0.92" CONTENT="(adr."/>
+						</TextLine>
+						<TextLine ID="line_83" HPOS="557" VPOS="865" WIDTH="213" HEIGHT="27">
+							<String ID="string_397" HPOS="557" VPOS="871" WIDTH="23" HEIGHT="16" WC="0.90" CONTENT="N."/><SP WIDTH="13" VPOS="871" HPOS="580"/>
+							<String ID="string_398" HPOS="593" VPOS="865" WIDTH="59" HEIGHT="25" WC="0.91" CONTENT="Åsum,"/><SP WIDTH="14" VPOS="865" HPOS="652"/>
+							<String ID="string_399" HPOS="666" VPOS="869" WIDTH="104" HEIGHT="23" WC="0.92" CONTENT="Långebro)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_51" HPOS="533" VPOS="894" WIDTH="456" HEIGHT="69">
+						<TextLine ID="line_84" HPOS="533" VPOS="894" WIDTH="456" HEIGHT="22">
+							<String ID="string_400" HPOS="533" VPOS="894" WIDTH="95" HEIGHT="20" WC="0.96" CONTENT="Barnekow,"/><SP WIDTH="13" VPOS="894" HPOS="628"/>
+							<String ID="string_401" HPOS="641" VPOS="895" WIDTH="47" HEIGHT="21" WC="0.96" CONTENT="Kjell"/><SP WIDTH="13" VPOS="895" HPOS="688"/>
+							<String ID="string_402" HPOS="701" VPOS="895" WIDTH="71" HEIGHT="21" WC="0.93" CONTENT="Ragnar"/><SP WIDTH="12" VPOS="895" HPOS="772"/>
+							<String ID="string_403" HPOS="784" VPOS="895" WIDTH="129" HEIGHT="21" WC="0.91" CONTENT="Mac-Dougall,"/><SP WIDTH="14" VPOS="895" HPOS="913"/>
+							<String ID="string_404" HPOS="927" VPOS="895" WIDTH="62" HEIGHT="20" WC="0.96" CONTENT="Greve,"/>
+						</TextLine>
+						<TextLine ID="line_85" HPOS="558" VPOS="917" WIDTH="431" HEIGHT="23">
+							<String ID="string_405" HPOS="558" VPOS="919" WIDTH="101" HEIGHT="21" WC="0.92" CONTENT="Godsägare"/><SP WIDTH="12" VPOS="919" HPOS="659"/>
+							<String ID="string_406" HPOS="671" VPOS="917" WIDTH="53" HEIGHT="22" WC="0.93" CONTENT="[968],"/><SP WIDTH="14" VPOS="917" HPOS="724"/>
+							<String ID="string_407" HPOS="738" VPOS="920" WIDTH="11" HEIGHT="15" WC="0.92" CONTENT="f."/><SP WIDTH="15" VPOS="920" HPOS="749"/>
+							<String ID="string_408" HPOS="764" VPOS="918" WIDTH="27" HEIGHT="20" WC="0.96" CONTENT="77;"/><SP WIDTH="14" VPOS="918" HPOS="791"/>
+							<String ID="string_409" HPOS="805" VPOS="918" WIDTH="22" HEIGHT="17" WC="0.93" CONTENT="37"/><SP WIDTH="9" VPOS="918" HPOS="827"/>
+							<String ID="string_410" HPOS="836" VPOS="917" WIDTH="44" HEIGHT="22" WC="0.91" CONTENT="(adr."/><SP WIDTH="9" VPOS="917" HPOS="880"/>
+							<String ID="string_411" HPOS="889" VPOS="919" WIDTH="100" HEIGHT="21" WC="0.91" CONTENT="Sörbytorp,"/>
+						</TextLine>
+						<TextLine ID="line_86" HPOS="557" VPOS="941" WIDTH="85" HEIGHT="22">
+							<String ID="string_412" HPOS="557" VPOS="941" WIDTH="85" HEIGHT="22" WC="0.95" CONTENT="Vinslöv)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_52" HPOS="533" VPOS="966" WIDTH="456" HEIGHT="45">
+						<TextLine ID="line_87" HPOS="533" VPOS="966" WIDTH="456" HEIGHT="21">
+							<String ID="string_413" HPOS="533" VPOS="966" WIDTH="99" HEIGHT="19" WC="0.95" CONTENT="Andersson,"/><SP WIDTH="15" VPOS="966" HPOS="632"/>
+							<String ID="string_414" HPOS="647" VPOS="966" WIDTH="66" HEIGHT="19" WC="0.93" CONTENT="Alfred,"/><SP WIDTH="14" VPOS="966" HPOS="713"/>
+							<String ID="string_415" HPOS="727" VPOS="966" WIDTH="195" HEIGHT="21" WC="0.91" CONTENT="Tegelbruksarbetare,"/><SP WIDTH="13" VPOS="966" HPOS="922"/>
+							<String ID="string_416" HPOS="935" VPOS="967" WIDTH="12" HEIGHT="16" WC="0.92" CONTENT="f."/><SP WIDTH="13" VPOS="967" HPOS="947"/>
+							<String ID="string_417" HPOS="960" VPOS="967" WIDTH="29" HEIGHT="19" WC="0.96" CONTENT="86;"/>
+						</TextLine>
+						<TextLine ID="line_88" HPOS="558" VPOS="988" WIDTH="242" HEIGHT="23">
+							<String ID="string_418" HPOS="558" VPOS="989" WIDTH="21" HEIGHT="17" WC="0.93" CONTENT="37"/><SP WIDTH="14" VPOS="989" HPOS="579"/>
+							<String ID="string_419" HPOS="593" VPOS="989" WIDTH="43" HEIGHT="21" WC="0.90" CONTENT="(adr."/><SP WIDTH="13" VPOS="989" HPOS="636"/>
+							<String ID="string_420" HPOS="649" VPOS="988" WIDTH="151" HEIGHT="23" WC="0.92" CONTENT="Munkaljungby)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_53" HPOS="533" VPOS="1013" WIDTH="456" HEIGHT="44">
+						<TextLine ID="line_89" HPOS="533" VPOS="1013" WIDTH="456" HEIGHT="21">
+							<String ID="string_421" HPOS="533" VPOS="1013" WIDTH="64" HEIGHT="21" WC="0.96" CONTENT="Björck,"/><SP WIDTH="13" VPOS="1013" HPOS="597"/>
+							<String ID="string_422" HPOS="610" VPOS="1014" WIDTH="66" HEIGHT="16" WC="0.96" CONTENT="Blenda"/><SP WIDTH="13" VPOS="1014" HPOS="676"/>
+							<String ID="string_423" HPOS="689" VPOS="1014" WIDTH="118" HEIGHT="20" WC="0.93" CONTENT="Wilhelmina,"/><SP WIDTH="14" VPOS="1014" HPOS="807"/>
+							<String ID="string_424" HPOS="821" VPOS="1014" WIDTH="11" HEIGHT="16" WC="0.92" CONTENT="f."/><SP WIDTH="11" VPOS="1014" HPOS="832"/>
+							<String ID="string_425" HPOS="843" VPOS="1014" WIDTH="76" HEIGHT="16" WC="0.96" CONTENT="Larsson"/><SP WIDTH="9" VPOS="1014" HPOS="919"/>
+							<String ID="string_426" HPOS="928" VPOS="1014" WIDTH="28" HEIGHT="20" WC="0.96" CONTENT="85;"/><SP WIDTH="11" VPOS="1014" HPOS="956"/>
+							<String ID="string_427" HPOS="967" VPOS="1013" WIDTH="22" HEIGHT="18" WC="0.96" CONTENT="37"/>
+						</TextLine>
+						<TextLine ID="line_90" HPOS="556" VPOS="1036" WIDTH="162" HEIGHT="21">
+							<String ID="string_428" HPOS="556" VPOS="1036" WIDTH="43" HEIGHT="21" WC="0.92" CONTENT="(adr."/><SP WIDTH="14" VPOS="1036" HPOS="599"/>
+							<String ID="string_429" HPOS="613" VPOS="1036" WIDTH="105" HEIGHT="21" WC="0.96" CONTENT="Tomelilla)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_54" HPOS="533" VPOS="1061" WIDTH="457" HEIGHT="46">
+						<TextLine ID="line_91" HPOS="533" VPOS="1061" WIDTH="457" HEIGHT="20">
+							<String ID="string_430" HPOS="533" VPOS="1061" WIDTH="69" HEIGHT="20" WC="0.76" CONTENT="Ekdahl,"/><SP WIDTH="20" VPOS="1061" HPOS="602"/>
+							<String ID="string_431" HPOS="622" VPOS="1062" WIDTH="68" HEIGHT="16" WC="0.95" CONTENT="Anders"/><SP WIDTH="22" VPOS="1062" HPOS="690"/>
+							<String ID="string_432" HPOS="712" VPOS="1061" WIDTH="52" HEIGHT="17" WC="0.96" CONTENT="Elver"/><SP WIDTH="20" VPOS="1061" HPOS="764"/>
+							<String ID="string_433" HPOS="784" VPOS="1062" WIDTH="95" HEIGHT="19" WC="0.93" CONTENT="Thorvald,"/><SP WIDTH="20" VPOS="1062" HPOS="879"/>
+							<String ID="string_434" HPOS="899" VPOS="1062" WIDTH="91" HEIGHT="16" WC="0.92" CONTENT="Folkskol-"/>
+						</TextLine>
+						<TextLine ID="line_92" HPOS="557" VPOS="1083" WIDTH="432" HEIGHT="24">
+							<String ID="string_435" HPOS="557" VPOS="1086" WIDTH="61" HEIGHT="19" WC="0.93" CONTENT="lärare,"/><SP WIDTH="13" VPOS="1086" HPOS="618"/>
+							<String ID="string_436" HPOS="631" VPOS="1087" WIDTH="11" HEIGHT="15" WC="0.91" CONTENT="f."/><SP WIDTH="14" VPOS="1087" HPOS="642"/>
+							<String ID="string_437" HPOS="656" VPOS="1086" WIDTH="28" HEIGHT="18" WC="0.96" CONTENT="88;"/><SP WIDTH="10" VPOS="1086" HPOS="684"/>
+							<String ID="string_438" HPOS="694" VPOS="1084" WIDTH="22" HEIGHT="18" WC="0.93" CONTENT="37"/><SP WIDTH="9" VPOS="1084" HPOS="716"/>
+							<String ID="string_439" HPOS="725" VPOS="1083" WIDTH="44" HEIGHT="22" WC="0.92" CONTENT="(adr."/><SP WIDTH="9" VPOS="1083" HPOS="769"/>
+							<String ID="string_440" HPOS="778" VPOS="1086" WIDTH="117" HEIGHT="20" WC="0.93" CONTENT="Björnekulla,"/><SP WIDTH="7" VPOS="1086" HPOS="895"/>
+							<String ID="string_441" HPOS="902" VPOS="1084" WIDTH="87" HEIGHT="23" WC="0.91" CONTENT="Nyvång)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_55" HPOS="533" VPOS="1109" WIDTH="456" HEIGHT="45">
+						<TextLine ID="line_93" HPOS="533" VPOS="1109" WIDTH="456" HEIGHT="21">
+							<String ID="string_442" HPOS="533" VPOS="1109" WIDTH="84" HEIGHT="19" WC="0.96" CONTENT="Karlsson,"/><SP WIDTH="22" VPOS="1109" HPOS="617"/>
+							<String ID="string_443" HPOS="639" VPOS="1110" WIDTH="54" HEIGHT="16" WC="0.96" CONTENT="Arvid"/><SP WIDTH="18" VPOS="1110" HPOS="693"/>
+							<String ID="string_444" HPOS="711" VPOS="1109" WIDTH="70" HEIGHT="21" WC="0.96" CONTENT="Sigfrid,"/><SP WIDTH="15" VPOS="1109" HPOS="781"/>
+							<String ID="string_445" HPOS="796" VPOS="1110" WIDTH="125" HEIGHT="20" WC="0.91" CONTENT="Lantbrukare,"/><SP WIDTH="14" VPOS="1110" HPOS="921"/>
+							<String ID="string_446" HPOS="935" VPOS="1110" WIDTH="12" HEIGHT="16" WC="0.91" CONTENT="f."/><SP WIDTH="13" VPOS="1110" HPOS="947"/>
+							<String ID="string_447" HPOS="960" VPOS="1110" WIDTH="29" HEIGHT="19" WC="0.96" CONTENT="86;"/>
+						</TextLine>
+						<TextLine ID="line_94" HPOS="558" VPOS="1132" WIDTH="269" HEIGHT="22">
+							<String ID="string_448" HPOS="558" VPOS="1133" WIDTH="21" HEIGHT="17" WC="0.92" CONTENT="37"/><SP WIDTH="13" VPOS="1133" HPOS="579"/>
+							<String ID="string_449" HPOS="592" VPOS="1133" WIDTH="43" HEIGHT="21" WC="0.91" CONTENT="(adr."/><SP WIDTH="14" VPOS="1133" HPOS="635"/>
+							<String ID="string_450" HPOS="649" VPOS="1134" WIDTH="88" HEIGHT="19" WC="0.91" CONTENT="Granebo,"/><SP WIDTH="14" VPOS="1134" HPOS="737"/>
+							<String ID="string_451" HPOS="751" VPOS="1132" WIDTH="76" HEIGHT="22" WC="0.95" CONTENT="Vittsjö)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_56" HPOS="533" VPOS="1156" WIDTH="456" HEIGHT="46">
+						<TextLine ID="line_95" HPOS="533" VPOS="1156" WIDTH="456" HEIGHT="22">
+							<String ID="string_452" HPOS="533" VPOS="1156" WIDTH="59" HEIGHT="21" WC="0.91" CONTENT="Norup,"/><SP WIDTH="13" VPOS="1156" HPOS="592"/>
+							<String ID="string_453" HPOS="605" VPOS="1158" WIDTH="55" HEIGHT="20" WC="0.96" CONTENT="Bengt"/><SP WIDTH="13" VPOS="1158" HPOS="660"/>
+							<String ID="string_454" HPOS="673" VPOS="1157" WIDTH="69" HEIGHT="17" WC="0.96" CONTENT="Samuel"/><SP WIDTH="12" VPOS="1157" HPOS="742"/>
+							<String ID="string_455" HPOS="754" VPOS="1158" WIDTH="102" HEIGHT="20" WC="0.96" CONTENT="Bengtsson,"/><SP WIDTH="13" VPOS="1158" HPOS="856"/>
+							<String ID="string_456" HPOS="869" VPOS="1158" WIDTH="120" HEIGHT="16" WC="0.95" CONTENT="Lantbrukare"/>
+						</TextLine>
+						<TextLine ID="line_96" HPOS="556" VPOS="1179" WIDTH="332" HEIGHT="23">
+							<String ID="string_457" HPOS="556" VPOS="1179" WIDTH="54" HEIGHT="23" WC="0.92" CONTENT="[976],"/><SP WIDTH="13" VPOS="1179" HPOS="610"/>
+							<String ID="string_458" HPOS="623" VPOS="1182" WIDTH="12" HEIGHT="15" WC="0.90" CONTENT="f."/><SP WIDTH="14" VPOS="1182" HPOS="635"/>
+							<String ID="string_459" HPOS="649" VPOS="1182" WIDTH="28" HEIGHT="19" WC="0.96" CONTENT="96;"/><SP WIDTH="14" VPOS="1182" HPOS="677"/>
+							<String ID="string_460" HPOS="691" VPOS="1182" WIDTH="22" HEIGHT="16" WC="0.93" CONTENT="40"/><SP WIDTH="13" VPOS="1182" HPOS="713"/>
+							<String ID="string_461" HPOS="726" VPOS="1180" WIDTH="43" HEIGHT="22" WC="0.91" CONTENT="(adr."/><SP WIDTH="14" VPOS="1180" HPOS="769"/>
+							<String ID="string_462" HPOS="783" VPOS="1179" WIDTH="105" HEIGHT="23" WC="0.67" CONTENT="Knislinge)."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_14" HPOS="534" VPOS="1242" WIDTH="456" HEIGHT="46">
+					<TextBlock ID="block_57" HPOS="534" VPOS="1242" WIDTH="456" HEIGHT="46">
+						<TextLine ID="line_97" HPOS="534" VPOS="1242" WIDTH="456" HEIGHT="26">
+							<String ID="string_463" HPOS="534" VPOS="1242" WIDTH="60" HEIGHT="26" WC="0.93" CONTENT="[178]"/><SP WIDTH="19" VPOS="1242" HPOS="594"/>
+							<String ID="string_464" HPOS="613" VPOS="1246" WIDTH="78" HEIGHT="20" WC="0.82" CONTENT="Mabnö,"/><SP WIDTH="14" VPOS="1246" HPOS="691"/>
+							<String ID="string_465" HPOS="705" VPOS="1246" WIDTH="145" HEIGHT="22" WC="0.95" CONTENT="Hälsingborgs,"/><SP WIDTH="13" VPOS="1246" HPOS="850"/>
+							<String ID="string_466" HPOS="863" VPOS="1246" WIDTH="127" HEIGHT="18" WC="0.96" CONTENT="Landskrona"/>
+						</TextLine>
+						<TextLine ID="line_98" HPOS="664" VPOS="1270" WIDTH="191" HEIGHT="18">
+							<String ID="string_467" HPOS="664" VPOS="1270" WIDTH="33" HEIGHT="17" WC="0.96" CONTENT="och"/><SP WIDTH="12" VPOS="1270" HPOS="697"/>
+							<String ID="string_468" HPOS="709" VPOS="1270" WIDTH="67" HEIGHT="17" WC="0.96" CONTENT="Lunds"/><SP WIDTH="11" VPOS="1270" HPOS="776"/>
+							<String ID="string_469" HPOS="787" VPOS="1270" WIDTH="68" HEIGHT="18" WC="0.96" CONTENT="städer."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_15" HPOS="532" VPOS="1300" WIDTH="457" HEIGHT="188">
+					<TextBlock ID="block_58" HPOS="533" VPOS="1300" WIDTH="456" HEIGHT="45">
+						<TextLine ID="line_99" HPOS="533" VPOS="1300" WIDTH="456" HEIGHT="22">
+							<String ID="string_470" HPOS="533" VPOS="1300" WIDTH="61" HEIGHT="21" WC="0.80" CONTENT="Vougt,"/><SP WIDTH="12" VPOS="1300" HPOS="594"/>
+							<String ID="string_471" HPOS="606" VPOS="1301" WIDTH="53" HEIGHT="16" WC="0.96" CONTENT="Allan"/><SP WIDTH="13" VPOS="1301" HPOS="659"/>
+							<String ID="string_472" HPOS="672" VPOS="1301" WIDTH="59" HEIGHT="21" WC="0.96" CONTENT="Georg"/><SP WIDTH="12" VPOS="1301" HPOS="731"/>
+							<String ID="string_473" HPOS="743" VPOS="1301" WIDTH="79" HEIGHT="19" WC="0.95" CONTENT="Fredrik,"/><SP WIDTH="14" VPOS="1301" HPOS="822"/>
+							<String ID="string_474" HPOS="836" VPOS="1301" WIDTH="32" HEIGHT="16" WC="0.93" CONTENT="Fil."/><SP WIDTH="14" VPOS="1301" HPOS="868"/>
+							<String ID="string_475" HPOS="882" VPOS="1301" WIDTH="28" HEIGHT="20" WC="0.90" CONTENT="K.,"/><SP WIDTH="11" VPOS="1301" HPOS="910"/>
+							<String ID="string_476" HPOS="921" VPOS="1301" WIDTH="68" HEIGHT="16" WC="0.92" CONTENT="Redak-"/>
+						</TextLine>
+						<TextLine ID="line_100" HPOS="557" VPOS="1322" WIDTH="281" HEIGHT="23">
+							<String ID="string_477" HPOS="557" VPOS="1327" WIDTH="31" HEIGHT="17" WC="0.92" CONTENT="tör,"/><SP WIDTH="14" VPOS="1327" HPOS="588"/>
+							<String ID="string_478" HPOS="602" VPOS="1326" WIDTH="11" HEIGHT="15" WC="0.92" CONTENT="f."/><SP WIDTH="14" VPOS="1326" HPOS="613"/>
+							<String ID="string_479" HPOS="627" VPOS="1325" WIDTH="28" HEIGHT="19" WC="0.96" CONTENT="95;"/><SP WIDTH="15" VPOS="1325" HPOS="655"/>
+							<String ID="string_480" HPOS="670" VPOS="1324" WIDTH="21" HEIGHT="17" WC="0.93" CONTENT="37"/><SP WIDTH="14" VPOS="1324" HPOS="691"/>
+							<String ID="string_481" HPOS="705" VPOS="1323" WIDTH="42" HEIGHT="21" WC="0.91" CONTENT="(adr."/><SP WIDTH="14" VPOS="1323" HPOS="747"/>
+							<String ID="string_482" HPOS="761" VPOS="1322" WIDTH="77" HEIGHT="23" WC="0.93" CONTENT="Malmö)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_59" HPOS="533" VPOS="1347" WIDTH="455" HEIGHT="45">
+						<TextLine ID="line_101" HPOS="533" VPOS="1347" WIDTH="455" HEIGHT="22">
+							<String ID="string_483" HPOS="533" VPOS="1348" WIDTH="88" HEIGHT="21" WC="0.96" CONTENT="Lindskog,"/><SP WIDTH="14" VPOS="1348" HPOS="621"/>
+							<String ID="string_484" HPOS="635" VPOS="1349" WIDTH="55" HEIGHT="19" WC="0.96" CONTENT="Claes,"/><SP WIDTH="14" VPOS="1349" HPOS="690"/>
+							<String ID="string_485" HPOS="704" VPOS="1349" WIDTH="45" HEIGHT="16" WC="0.93" CONTENT="Prof."/><SP WIDTH="14" VPOS="1349" HPOS="749"/>
+							<String ID="string_486" HPOS="763" VPOS="1354" WIDTH="51" HEIGHT="11" WC="0.90" CONTENT="emer."/><SP WIDTH="14" VPOS="1354" HPOS="814"/>
+							<String ID="string_487" HPOS="828" VPOS="1347" WIDTH="53" HEIGHT="22" WC="0.92" CONTENT="[718],"/><SP WIDTH="13" VPOS="1347" HPOS="881"/>
+							<String ID="string_488" HPOS="894" VPOS="1349" WIDTH="12" HEIGHT="16" WC="0.88" CONTENT="f."/><SP WIDTH="18" VPOS="1349" HPOS="906"/>
+							<String ID="string_489" HPOS="924" VPOS="1348" WIDTH="28" HEIGHT="20" WC="0.96" CONTENT="70;"/><SP WIDTH="14" VPOS="1348" HPOS="952"/>
+							<String ID="string_490" HPOS="966" VPOS="1348" WIDTH="22" HEIGHT="18" WC="0.92" CONTENT="37"/>
+						</TextLine>
+						<TextLine ID="line_102" HPOS="556" VPOS="1371" WIDTH="249" HEIGHT="21">
+							<String ID="string_491" HPOS="556" VPOS="1371" WIDTH="43" HEIGHT="21" WC="0.91" CONTENT="(adr."/><SP WIDTH="14" VPOS="1371" HPOS="599"/>
+							<String ID="string_492" HPOS="613" VPOS="1373" WIDTH="101" HEIGHT="19" WC="0.91" CONTENT="Ribershus,"/><SP WIDTH="14" VPOS="1373" HPOS="714"/>
+							<String ID="string_493" HPOS="728" VPOS="1371" WIDTH="77" HEIGHT="21" WC="0.94" CONTENT="Malmö)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_60" HPOS="532" VPOS="1396" WIDTH="456" HEIGHT="46">
+						<TextLine ID="line_103" HPOS="532" VPOS="1396" WIDTH="456" HEIGHT="21">
+							<String ID="string_494" HPOS="532" VPOS="1396" WIDTH="102" HEIGHT="21" WC="0.96" CONTENT="Bergström,"/><SP WIDTH="18" VPOS="1396" HPOS="634"/>
+							<String ID="string_495" HPOS="652" VPOS="1397" WIDTH="43" HEIGHT="16" WC="0.96" CONTENT="Karl"/><SP WIDTH="15" VPOS="1397" HPOS="695"/>
+							<String ID="string_496" HPOS="710" VPOS="1397" WIDTH="59" HEIGHT="16" WC="0.96" CONTENT="Anton"/><SP WIDTH="13" VPOS="1397" HPOS="769"/>
+							<String ID="string_497" HPOS="782" VPOS="1397" WIDTH="74" HEIGHT="19" WC="0.96" CONTENT="Edvard,"/><SP WIDTH="14" VPOS="1397" HPOS="856"/>
+							<String ID="string_498" HPOS="870" VPOS="1397" WIDTH="93" HEIGHT="20" WC="0.92" CONTENT="Redaktör,"/><SP WIDTH="13" VPOS="1397" HPOS="963"/>
+							<String ID="string_499" HPOS="976" VPOS="1397" WIDTH="12" HEIGHT="17" WC="0.92" CONTENT="f."/>
+						</TextLine>
+						<TextLine ID="line_104" HPOS="557" VPOS="1419" WIDTH="262" HEIGHT="23">
+							<String ID="string_500" HPOS="557" VPOS="1421" WIDTH="28" HEIGHT="19" WC="0.96" CONTENT="88;"/><SP WIDTH="14" VPOS="1421" HPOS="585"/>
+							<String ID="string_501" HPOS="599" VPOS="1420" WIDTH="21" HEIGHT="17" WC="0.93" CONTENT="37"/><SP WIDTH="14" VPOS="1420" HPOS="620"/>
+							<String ID="string_502" HPOS="634" VPOS="1419" WIDTH="42" HEIGHT="21" WC="0.92" CONTENT="(adr."/><SP WIDTH="13" VPOS="1419" HPOS="676"/>
+							<String ID="string_503" HPOS="689" VPOS="1419" WIDTH="130" HEIGHT="23" WC="0.96" CONTENT="Hälsingborg)."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_61" HPOS="532" VPOS="1442" WIDTH="456" HEIGHT="46">
+						<TextLine ID="line_105" HPOS="532" VPOS="1442" WIDTH="456" HEIGHT="23">
+							<String ID="string_504" HPOS="532" VPOS="1443" WIDTH="99" HEIGHT="20" WC="0.96" CONTENT="Andersson,"/><SP WIDTH="13" VPOS="1443" HPOS="631"/>
+							<String ID="string_505" HPOS="644" VPOS="1445" WIDTH="46" HEIGHT="19" WC="0.95" CONTENT="Olof,"/><SP WIDTH="14" VPOS="1445" HPOS="690"/>
+							<String ID="string_506" HPOS="704" VPOS="1445" WIDTH="125" HEIGHT="19" WC="0.93" CONTENT="Ombudsman,"/><SP WIDTH="13" VPOS="1445" HPOS="829"/>
+							<String ID="string_507" HPOS="842" VPOS="1445" WIDTH="12" HEIGHT="15" WC="0.92" CONTENT="f."/><SP WIDTH="13" VPOS="1445" HPOS="854"/>
+							<String ID="string_508" HPOS="867" VPOS="1443" WIDTH="29" HEIGHT="21" WC="0.96" CONTENT="87;"/><SP WIDTH="14" VPOS="1443" HPOS="896"/>
+							<String ID="string_509" HPOS="910" VPOS="1443" WIDTH="22" HEIGHT="18" WC="0.93" CONTENT="37"/><SP WIDTH="12" VPOS="1443" HPOS="932"/>
+							<String ID="string_510" HPOS="944" VPOS="1442" WIDTH="44" HEIGHT="23" WC="0.91" CONTENT="(adr."/>
+						</TextLine>
+						<TextLine ID="line_106" HPOS="556" VPOS="1467" WIDTH="78" HEIGHT="21">
+							<String ID="string_511" HPOS="556" VPOS="1467" WIDTH="78" HEIGHT="21" WC="0.66" CONTENT="Malmö)."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_16" HPOS="503" VPOS="1516" WIDTH="35" HEIGHT="18">
+					<TextBlock ID="block_62" HPOS="503" VPOS="1516" WIDTH="35" HEIGHT="18">
+						<TextLine ID="line_107" HPOS="503" VPOS="1516" WIDTH="35" HEIGHT="18">
+							<String ID="string_512" HPOS="503" VPOS="1516" WIDTH="35" HEIGHT="18" WC="0.93" CONTENT="185"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
