@@ -1,5 +1,6 @@
 import os, re
 import pandas as pd
+import numpy as np
 from alto import parse_file
 import progressbar
 import argparse
@@ -61,6 +62,7 @@ def main(args):
                 starts.append(start)
                 ends.append(end)
                 names.append(matched_str)
+                print(match)
 
         starts.append(-1)
         inbetweens = zip(ends, starts[1:])
@@ -75,17 +77,22 @@ def main(args):
             decade_m[name] = description
         ms[decade] = decade_m
 
+    #print(ms)
     return ms
 
-def to_df(ms):
+def to_df(ms, datasource):
     """
     Convert matched pieces of text into structured metadata
     """
     district_pattern = "[A-ZÅÖÄ][a-zäöå][a-zäöåA-ZÅÖÄ ]{2,35} län"
     district_e = re.compile(district_pattern)
 
-    pattern = "f. [0-9]{4,4}"
+    if datasource == "personregister":
+        pattern = "f. [0-9]{4,4}"
+    else:
+        pattern = "f. [0-9]{2,2}"
     e = re.compile(pattern)
+
 
     pattern2 = " [A-ZÅÖÄ][a-zäöå]{2,20},"
     e2 = re.compile(pattern2)
@@ -105,11 +112,14 @@ def to_df(ms):
             #if "f. " in description[:40]:
             #print(name)#, description.split("Yttran")[0])
 
-            match = e.search(name)
+            if datasource == "personregister":
+                match = e.search(name)
+            else:
+                match = e.search(description)
             description = description.replace(" | ", " ")
             description = description.replace("- ", "")
             #print(match)
-
+            print(name, description)
 
             namematch = eName.search(name)
 
@@ -143,19 +153,24 @@ def to_df(ms):
 
                 rows.append(row)
 
-    df = pd.DataFrame(rows, columns=["decade", "name", "year", "municipality", "district", "chamber"])
+    df = pd.DataFrame(rows, columns=["decade", "name", "born", "municipality", "district", "chamber"])
+    
+    if datasource == "statskalender":
+        df["year"] = df["decade"].str[-4:].astype(int)
+        # Check whether born in the 1800s or 1900s
+        df["born"] = np.where(df["born"] + 1900 >= df["year"], df["born"] + 1800, df["born"] + 1900)
+
     return df
 
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--datasource", type=Datasource, choices=["personregister", "statskalender"])
+    parser.add_argument("--datasource", type=str, choices=["personregister", "statskalender"])
     parser.add_argument("--outpath", type=str, default="metadata/mps.csv")
     args = parser.parse_args()
 
     ms = main(args)
-    df = to_df(ms)
-
+    df = to_df(ms, args.datasource)
     print(df)
 
     df.to_csv(args.outpath, index=False)
