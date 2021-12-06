@@ -124,7 +124,7 @@ def to_df(ms, datasource):
             namematch = eName.search(name)
 
             if match is not None and namematch is not None:
-                year = int(match.group(0)[3:])
+                born = int(match.group(0)[3:])
                 municipality = None
                 district = None
                 for m in e2.finditer(description):
@@ -133,8 +133,6 @@ def to_df(ms, datasource):
                     if m in locations:#m != "Johannesnäs":
                         municipality = m
                         break
-                if "hansson" in name.lower() and "Önnarp" in description:
-                    print(municipality, description)
                 
                 for m in district_e.finditer(description):
                     m = m.group(0)
@@ -149,7 +147,7 @@ def to_df(ms, datasource):
                     chamber = "ak"
                 elif "LFK" in description:
                     chamber = "fk"
-                row = [decade, capitalized_name, year, municipality, district, chamber]
+                row = [decade, capitalized_name, born, municipality, district, chamber]
 
                 rows.append(row)
 
@@ -159,6 +157,15 @@ def to_df(ms, datasource):
         df["year"] = df["decade"].str[-4:].astype(int)
         # Check whether born in the 1800s or 1900s
         df["born"] = np.where(df["born"] + 1900 >= df["year"], df["born"] + 1800, df["born"] + 1900)
+
+        def fixname(n):
+            if ", " in n:
+                s = n.split(", ")
+                return ", ".join(s[1:]) + " " + s[0]
+            else:
+                return n
+
+        df["name"] = df["name"].apply(lambda n: fixname(n))
 
     return df
 
