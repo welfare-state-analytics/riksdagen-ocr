@@ -5,6 +5,68 @@ from alto import parse_file
 import progressbar
 import argparse
 
+# Modified versions of gender and add_id, should probably be made general later on
+#from pyriksdagen.mp import add_gender, add_id
+def add_gender(mp_db, names):
+    """
+    Based to first names, add gender to an MP dataframe.
+    """
+    print("Add gender...")
+    mp_db["gender"] = None
+
+    name_to_gender = {}
+    for i, namerow in names.iterrows():
+        name = namerow["name"]
+        gender = namerow["gender"]
+        if gender == "masculine":
+            gender = "man"
+        elif gender == "feminine":
+            gender = "woman"
+        name_to_gender[name] = gender
+
+    for i, row in progressbar.progressbar(list(mp_db.iterrows())):
+        first_name = row["name"].split()[0]
+        if "-" in first_name:
+            first_name = first_name.split("-")[0]
+        if first_name in name_to_gender:
+            mp_db.loc[i, "gender"] = name_to_gender[first_name]
+
+    return mp_db
+
+import unicodedata
+import hashlib
+def add_id(mp_db):
+    """
+    Generate deterministic IDs for mps based on the "name", "party", "district",
+    "chamber", "start", and "end" columns of the dataframe.
+    """
+    print("Add id...")
+    columns = mp_db.columns
+    columns = ["name", "district", "born", "district", "chamber", "year"]
+
+    mp_db["id"] = None
+    print("columns used for generation:", ", ".join(columns))
+    for i, row in progressbar.progressbar(list(mp_db.iterrows())):
+        name = unicodedata.normalize("NFD", row["name"])
+        name = name.encode("ascii", "ignore").decode("utf-8")
+        name = name.lower().replace(" ", "_")
+        name = name.replace(".", "").replace("(", "").replace(")", "").replace(":", "")
+        party = row.get("party")
+
+        pattern = [name]
+        for column in columns:
+            value = row[column]
+            if type(value) != str:
+                value = str(value)
+            pattern.append(value)
+
+        pattern = "_".join(pattern).replace(" ", "_").lower()
+
+        digest = hashlib.md5(pattern.encode("utf-8")).hexdigest()
+        mp_db.loc[i, "id"] = name + "_" + digest[:6]
+
+    return mp_db
+
 def main(args):
     name = "[A-ZÅÖÄÉ][a-zäöåéA-ZÅÄÖ\\-]{2,25}"
     opt_name = "( " + name + ")?"
@@ -32,7 +94,7 @@ def main(args):
     print("Files to be processed:")
     altofiles = os.listdir(folder)
     altofiles = sorted(altofiles)
-    print(altofiles[:25])
+    altofiles = [f for f in altofiles if f != '.xml']
 
     ms = {}
     for altofile in progressbar.progressbar(altofiles):
@@ -52,6 +114,9 @@ def main(args):
         ends = []
         names = []
 
+        #if matches is None:
+        year = int(altofile.split('-')[0][-4:])
+
         # Match names with regex; anything between two names
         # is also saved as potential metadata
         if matches is not None:
@@ -62,7 +127,6 @@ def main(args):
                 starts.append(start)
                 ends.append(end)
                 names.append(matched_str)
-                print(match)
 
         starts.append(-1)
         inbetweens = zip(ends, starts[1:])
@@ -119,7 +183,7 @@ def to_df(ms, datasource):
             description = description.replace(" | ", " ")
             description = description.replace("- ", "")
             #print(match)
-            print(name, description)
+            #print(name, description)
 
             namematch = eName.search(name)
 
@@ -171,7 +235,13 @@ if __name__ == '__main__':
 
     ms = main(args)
     df = to_df(ms, args.datasource)
+    # Added some cleaning and id
+    df["name"] = list(map(lambda x: x.replace(',', ''), df["name"]))
+    df = add_id(df)
+
     print(df)
+
+    print('Ids are unique is: ', len(df) == len(set(df["id"])))
 
     df.to_csv(args.outpath, index=False)
 
