@@ -16,33 +16,28 @@ def api():
 	with open("riksdagen-images/test.png", "wb") as f:
 		f.write(img)
 
-def preprocess():
-	img = cv2.imread("riksdagen-images/test.png", cv2.IMREAD_GRAYSCALE)
+# Preprocess image
+original = cv2.imread("riksdagen-images/test.png")#, cv2.IMREAD_GRAYSCALE)
+img = cv2.cvtColor(original, cv2.COLOR_BGR2GRAY)
+blur = cv2.GaussianBlur(img, (5,5), 0)
+thresh, otsu = cv2.threshold(img, 0, 255, cv2.THRESH_BINARY+cv2.THRESH_OTSU)
+thresh, blurotsu = cv2.threshold(blur, 0, 255, cv2.THRESH_BINARY+cv2.THRESH_OTSU)
 
-	blur = cv2.GaussianBlur(img, (5,5), 0)
-	cv2.imwrite("riksdagen-images/test-blur.png", blur)
+# Detect margins
+nrows, ncols = blurotsu.shape
+cols = (blurotsu == 255).sum(axis=0) > nrows * 0.9
+rows = (blurotsu == 255).sum(axis=1) > ncols * 0.9
+blurotsu = np.zeros((nrows, ncols), dtype=np.uint8)
+blurotsu[rows] += 255
+blurotsu[:,cols] += 255
+blurotsu[blurotsu == 255*2] = 255
 
-	thresh, otsu = cv2.threshold(img, 0, 255, cv2.THRESH_BINARY+cv2.THRESH_OTSU)
-	cv2.imwrite("riksdagen-images/test-otsu.png", otsu)
-
-	thresh, blurotsu = cv2.threshold(blur, 0, 255, cv2.THRESH_BINARY+cv2.THRESH_OTSU)
-	cv2.imwrite("riksdagen-images/test-blurotsu.png", blurotsu)
-#cv2.imshow('img', img)
-#cv2.waitKey(0)
-
-img = cv2.imread("riksdagen-images/test-blurotsu.png", cv2.IMREAD_GRAYSCALE)
-
-nrows, ncols = img.shape
-cols = (img == 255).sum(axis=0) > nrows * 0.9
-rows = (img == 255).sum(axis=1) > ncols * 0.9
-img = np.zeros((nrows, ncols), dtype=float)
-img[rows] += 1
-img[:,cols] += 1
-img[img == 2] = 255
-print(img.shape)
-#img = cv2.findContours(img, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
+# Fill boxes
+contours, hierarchy = cv2.findContours(blurotsu.copy(), cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
+img = np.zeros((nrows, ncols, 3), dtype=np.uint8)
+cv2.fillPoly(img, pts=contours, color=(172,30,255))
+img = cv2.addWeighted(img, 0.35, original, 0.5, 1.0)
+cv2.imwrite("riksdagen-images/test-margin.png", img)
 
 cv2.imshow('img', img)
 cv2.waitKey(0)
-
-
