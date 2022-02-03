@@ -1,23 +1,12 @@
+'''
+Detects margin by creating and merging boxes of main text.
+'''
 import numpy as np
-import os, json
-import kblab
+import os
 import requests
 from requests.auth import HTTPBasicAuth
 import cv2
 from PIL import Image
-
-with open(os.path.expanduser('~/credentials.txt'), 'r') as f:
-	credentials = f.read()
-
-# Iterate over filenames in the corpus
-def api():
-	response = requests.get(f"https://betalab.kb.se/prot-1974--128/prot_1974__128-064.jp2", auth=HTTPBasicAuth("demo", credentials))
-	img = response.content
-	with open("riksdagen-images/test0.png", "wb") as f:
-		f.write(img)
-
-# Preprocess image
-original = cv2.imread("riksdagen-images/test0.png")#, cv2.IMREAD_GRAYSCALE)
 
 def preprocess_image(img):
 	img = cv2.cvtColor(original, cv2.COLOR_BGR2GRAY)
@@ -92,11 +81,18 @@ def merge_boxes(img, boxes, thresh_x=5):
 	    img = cv2.rectangle(img, (rect[0], rect[1]), (rect[0] + rect[2], rect[1] + rect[3]), (121, 11, 189), 2)
 	return img
 
-# Find boxes
+# Get image from API
+with open(os.path.expanduser('~/credentials.txt'), 'r') as f:
+	credentials = f.read()
+response = requests.get(f"https://betalab.kb.se/prot-1974--128/prot_1974__128-064.jp2", auth=HTTPBasicAuth("demo", credentials))
+img = response.content
+with open("riksdagen-images/test0.png", "wb") as f:
+	f.write(img)
+
+original = cv2.imread("riksdagen-images/test0.png")#, cv2.IMREAD_GRAYSCALE)
 img = preprocess_image(original)
 img = detect_margins(img)
 cnts = detect_boxes(img)
 original = merge_boxes(original, cnts)
 cv2.imshow('img', original)
 cv2.waitKey(0)
-
